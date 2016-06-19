@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+     <h1 align="center">Texas IMAC Classic</h1>
+     
+     <h2 align="center">August 3, 2002</h2>
+
+     <img align="right" src="../../images/IMAC08_03_2002/flightLine.jpg"
+      hspace="10" vspace="10" width="550" height="364"
+      alt="Models waiting their turn to fly" />
+    <p>Old Kingsbury Aerodrome and
+    <a href="http://www.tricityflyers.com">Tri-City Flyers</a> hosted the Texas IMAC
+    classic on the weekend of August 3, 2002.  This model aircraft aerobatic competition
+    brought out many excellent pilots and airplanes, and the weather couldn't
+    have been better (finally!).  The airplanes flying in this meet were large-
+    scale replicas of full-size aerobatic airplanes, and the piloting was
+    simply magnificent!</p>
+
+    <br clear="all" />
+     <p align="center"><img src="../../images/IMAC08_03_2002/landing.jpg"
+      hspace="10" vspace="10" width="550" height="423"
+      alt="Approaching to land" /> </p>
+
+      <p>Although these are large-scale planes, they are still capable of maneuvers
+      not possible in the real thing.  One maneuver that all planes and pilots must
+      master, however, is the landing.  This model (yes, it <em>is</em> a model!)
+      is coming in, having finished its routine.</p>
+
+      <br clear="all" />
+     <img align="left" src="../../images/IMAC08_03_2002/food.jpg"
+      hspace="10" vspace="10" width="550" height="398"
+      alt="PFM food service volunteers" />
+
+      <p>Special thanks go to Tony and Cynthia  Fusco, who volunteered their time and
+      energy this weekend to man the food concession.  Thanks to them, all of
+      the food income for this event goes to PFM!</p>
+
+      <br clear="all" />
+     <img align="right" src="../../images/IMAC08_03_2002/big.jpg"
+      hspace="10" vspace="10" width="550" height="374"
+      alt="70% scale Staudacher" />
+
+      <p>Another item of note was this 70%-scale Staudacher model, built
+      by Fiber-Art.  It was
+      on display all weekend, but unfortunately wasn't allowed to fly since the
+      event's insurance wouldn't cover it.  Even standing still, though, it was
+      impressive.</p>
+
+
+	<br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

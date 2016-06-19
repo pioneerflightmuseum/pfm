@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>1934 Fairchild 22 C7D</h1>
+
+    <p><img align="right" hspace="10" vspace="20"
+    src="../../images/fairchild22/c7dRestored.jpg" width="600" height="307"
+    alt="Fairchild 22" /></p>
+
+    <p>The Fairchild 22 model C7D was developed by Fairchild (Kreider-Reisner)
+    	as the low-price version of the Fairchild 22 series.  They were originally
+    	fitted with a 90-hp Wright-Gypsy engine.  The two-seat, tandem-cockpit,
+    	parasol wing airplane was aimed at the private pilot/owner, providing a
+    	sturdy, easy-to-fly airplane with good handling and low maintenance costs.
+    </p>
+    
+    <p>Our Fairchild was converted to use the Menasco D4 Super Pirate engine
+    	of 125 horsepower.  The plane was beautifully restored by the previous owner,
+    	but was unfortunately severely damaged in a hangar fire.  After the fire,
+    	it was donated to the museum. We plan to restore and fly it, but it will be 
+    	one of our longer-term projects.
+    </p>
+
+    <br clear="all" />
+
+    <p><img hspace="10" vspace="20" src="../../images/fairchild22/c7dBurnt.jpg"
+    width="600" height="358" alt="After the fire" /></p>
+
+    <h2>Specifications</h2>
+    
+    <div class="specifications">
+    <h3 align="center">Fairchild 22 Model C7D</h3>
+    <h4 align="center">C/N 915   Registration N14302</h4>
+    <table align="center">
+    <tr class="spec"><td class="spectitle">Engine:</td>
+    	<td class="specdata">Menasco Pirate C4 D4, 125 HP</td></tr>
+    <tr class="spec"><td class="spectitle">Wingspan:</td>
+    	<td class="specdata">32 feet 10 inches</td></tr>
+    <tr class="spec"><td class="spectitle">Length:</td>
+    	<td class="specdata">21 feet 11 inches</td></tr>
+    <tr class="spec"><td class="spectitle">Height:</td>
+	    <td class="specdata">8 feet</td></tr>
+    <tr class="spec"><td class="spectitle">Fuel:</td>
+	    <td class="specdata">21 gal</td></tr>
+    <tr class="spec"><td class="spectitle">Oil:</td>
+	    <td class="specdata">3 gal</td></tr>
+    <tr class="spec"><td class="spectitle">Gross Weight:</td>
+	    <td class="specdata">1600 lb</td></tr>
+    <tr class="spec"><td class="spectitle">Seats:</td>
+	    <td class="specdata">2, tandem</td></tr>
+    <tr class="spec"><td class="spectitle">Maximum Speed:</td>
+	    <td class="specdata">125 mph</td></tr>
+    <tr class="spec"><td class="spectitle">Cruise Speed:</td>
+	    <td class="specdata">106 mph</td></tr>
+    <tr class="spec"><td class="spectitle">Cruise Range:</td>
+	    <td class="specdata">320 miles</td></tr>
+    </table>
+    </div>
+
+    <h2>Additional Information</h2>
+
+    <p>For more information about the Model 22, take a look at
+    the <a href="http://en.wikipedia.org/wiki/Fairchild_22">Fairchild 22</a>
+    Wikipedia page.</p>
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

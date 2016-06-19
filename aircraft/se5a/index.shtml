@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>SE5a</h1>
+    <h2><a href="updates/index.shtml">Latest Updates</a></h2>
+    
+    <p>In their copious free time, a couple of the Team Fokker
+    members have started working on a worthy opponent to the Fokker
+    D.VII - an SE5a! This project is literally just getting
+    started. Here's a picture of Tom Gaylord and Bill Broussard
+    standing with some wing ribs and the jigs used to make them.
+    The fuselage is also under construction, in Oklahoma, by Jack
+    Kearby in Tulsa.</p>
+
+    <img hspace="10" vspace="10" src="../../images/SE5aRibs.jpg"
+    width="497" height="614" alt="SE5a Wing ribs and jigs" /> 
+
+    <h2>More Information</h2>
+
+    <p>More information on the SE5a is available on the <a
+    href="http://www.fiddlersgreen.net/AC/aircraft/SE5a/se5a.php">
+    Fiddler's Green</a> website.</p>
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

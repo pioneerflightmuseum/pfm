@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1 align="center">PFM Membership Meeting</h1>
+
+    <h2 align="center">Saturday, January 11, 2003</h2>
+    
+    <p>PFM held its first quarterly membership meeting of 2003 on Saturday, January
+        11.  Due to cold, drizzly weather, turnout was light.  Despite that, the program went
+        ahead as scheduled.  Bill Broussard gave a presentation on World War I flight
+        training methods in the Royal Flying Corps and the U.S. Air Service.  He emphasized
+        the poor preparation given to pilots early in the war, which, although it improved as
+        the war went on, never really got to the point of preparing a new pilot for combat.
+    </p>
+
+    <p>Tom Gaylord followed with a look at a typical U.S. pilot's experiences in the Air
+    Service.  Starting with his induction into the Army, Tom followed William Muir Russel's
+    life through his initial training, flight training, and introduction to wartime life in Europe.
+    After final training in France, William Russel flew ferry flights for some time before
+    wangling a transfer to an active-duty pursuit squadron.  He arrived at about the time
+    the squadron was converting from Nieuports to SPAD XIII aircraft, which it did in a
+    single 24-hour period.  Unfortunately, Russel's combat career was fairly short, for he
+    was shot down and killed soon after joining the squadron.  After the war, his family
+    put together a memorial book which has survived, and was quite valuable in preserving
+    the details of Russel's service life.
+    </p>
+
+
+    <br clear="all" />
+    <hr />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

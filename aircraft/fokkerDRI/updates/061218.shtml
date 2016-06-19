@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>December 18, 2006 Project Update</h1>
+
+		<img align="right" src="../../../images/fokkerDRI/20061218_guage.jpg" 
+		width="600" height="450" hspace="10" vspace="10" 
+		alt="Fuel Guage" />
+		    
+		<p>All in all a pretty good work day... I doubt we were
+			all that ambitious so close to Christmas yet we
+			managed to make pretty good progress on three of the
+			four items we wanted to get done.</p>
+
+		<p>Team members who showed up were Karl Holbert, Greg
+			Solberg, Mike McCormick, Dick Schenck, Ted Dawson and
+			Tom Gaylord.  Our tasks for the day were to: </p>
+			<ul>
+   		<li>Get the fuel guage working properly and installed</li>
+   		<li>Cabane strut cross cables installed</li>
+   		<li>Install engine mount bolts</li>
+   		<li>Fabricate and install interplane struts.</li>
+			</ul>
+
+		
+		<br clear="all" />
+		
+		<img align="right" src="../../../images/fokkerDRI/20061218_install.jpg" 
+		width="600" height="450" hspace="10" vspace="10" 
+		alt="Installing the Fuel Guage" />
+
+		<p>Ted Dawson and Greg Solberg worked together to get the
+			former P-51 fuel guage and sender working freely, get
+			the sucker to fit into the fuel tank, and finally to
+			install the device permanently.  This was a difficult
+			task as the unit mounted into the tank in only one way
+			due to the fuel tank's baffle which left two problems
+			to be conquered: the face of the guage pointed to
+			starboard and couldn't be read from the cockpit and
+			the sender's float interfered with the fuel tank's
+			sloping forward bottom surface.  The float arm was
+			shortened to greatly reduce the interference problem
+			with the tank's sloping forward surface, but only
+			after using liquid nitrogen to twist a press fit
+			coupling on the unit so the float arm went in the
+			right direction (i.e., the guage's face could now be
+			read from the cockpit)!  But they did finish the job.
+		</p>
+		
+		<p>Greg and Karl worked on the engine bolt installation
+			but this task remained unfinished.  "Why?", I hear you
+			ask?  Excellent question!  When the engine unit was
+			hung the last work day one mounting hole had no bolt
+			in it so this was the easiest hole to measure to
+			determine the proper bolt length... turns out it was
+			also the shortest of the four logs!  So 3 of the 4
+			mounting bolts ordered are too short!
+		</p>
+
+		<p>Tom, Karl, and Roger worked on the making up the
+			remaining bits of the cabane strut bracing cables and
+			this task was accomplished without too much drama. 
+			The toughest part was squeezing three people onto an
+			elevated work stand so we could clamp the nicopress
+			fittings properly.  It took one person to keep the
+			clamp positioned properly and two people to squeeze
+			the danged thing!  Very awkward!
+		</p>
+		
+		<br clear="all" />
+		
+		<img align="left" src="../../../images/fokkerDRI/20061218_interplane.jpg" 
+		width="600" height="450" hspace="10" vspace="10" 
+		alt="Fitting the interplane struts" />
+		
+		<p>The last task, the interplane struts was tackled by
+			Mike McCormick and Dick Schenck, mostly.  These little
+			parts are turning into a nightmare!
+		</p>
+		
+		<p>The thinking at the end of the day is that the
+			brackets holding the wooden struts are going to have
+			to be "custom" fabricated for each strut.  Mike will
+			build the wooden parts to fit the set of the wings and
+			the brackets will be welded afterwards to ensure the
+			angles are correct.  Aside from crafting the wooden
+			parts of the struts to s finer degree of polish, about
+			all that was completed on the interplane struts was
+			finally coming up with a plan of attack that will work
+			for finishing the task!
+		</p>
+		
+		<br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

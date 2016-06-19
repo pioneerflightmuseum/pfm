@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>Canuck Update - 31 December 2002</h1>
+
+    <img align="right" src="../../../images/canuck/021231Engine.jpg"
+    width="550" height="378" hspace="10" vspace="10"
+    alt="Canuck engine, mounted in place" />
+
+    <p>The engine has been fitted so that the various plumbing and controls can be
+        installed and adjusted to fit properly.  At this point, there won't be much visible
+        progress, since all the big pieces are done.  Now it's just a matter of putting in
+        a lot of small detail work.
+    </p>
+
+    <br clear="all" />
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

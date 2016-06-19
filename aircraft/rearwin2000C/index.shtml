@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>Rearwin 2000C "Ken-Royce"</h1>
+
+    <center>
+      <img src="../../images/rearwin2000C/jeanRearwin.jpg"
+      width="550" height="288" hspace="10" vspace="10"
+      alt="Jean LaRene's Rearwin" />
+    </center>
+
+    <p>In the late 1920's, the Rearwin aircraft company was founded
+    and started to produce light aircraft for the civil market.
+    Their first production aircraft was the model 2000C, named the
+    Ken-Royce after Mr. Rearwin's two sons. This was a three-place
+    biplane, first powered by a six-cylinder Curtiss Challenger
+    radial engine of 185 horsepower. Only five of these aircraft
+    were built. The design was granted Approved Type Certificate
+    #232 on 9/18/1929, just in time for the start of the Great
+    Depression.</p>
+
+    <br clear="all" />
+
+    <h2>Jean LaRene</h2>
+    <img align="left" src="../../images/rearwin2000C/jeanLaRene.jpg"
+    width="550" height="439" hspace="10" vspace="10"
+    alt="Jean LaRene" />
+
+    <p>Jean LaRene was one of the pioneer women aviators. She
+    earned her pilot's certificate in the late 1920's and bought
+    one of the Rearwin 2000C biplanes, S/N 103, registered as
+    NC592H. She was a charter member of the 99's (the women's pilot
+    organization, still in existence). Although Jean flew in the
+    Women's Air Derbies of 1930, '31, and '32, she didn't win, and
+    was forced out by mechanical troubles in two of the Derbies.
+    She also raced in the National Air Races of 1931, placing
+    fourth in event #26 (a 30-mile race). These races were flown in
+    her Ken-Royce, with the front cockpit covered to reduce drag.
+    In the seasons between races, she used the Rearwin to hop
+    passengers.</p>
+
+    <p>In 1934, she made several attempts to set a new
+    in-flight-refueled endurance record (in a borrowed cabin
+    monoplane, not the Rearwin). These attempts unfortunately
+    failed, as she and her co-pilot were forced to land by weather
+    or mechanical problems several times, before a new record could
+    be set.</p>
+    <br clear="all" />
+
+    <h2>NC592H</h2>
+    <img align="right" src="../../images/rearwin2000C/rearwinRestore.jpg"
+    width="550" height="415" hspace="10" vspace="10"
+    alt="Rearwin fuselage" />
+
+    <p>Jean married Lou Foote, who ran a flying service in Dallas.
+    Eventually, the Rearwin was put away as newer, less expensive
+    aircraft came on the market. She never sold it. Roger Freeman
+    bought the remains of the Rearwin from the estate of Lou Foote,
+    and transferred ownership to PFM. It is now being restored to
+    flying condition by Don Dickson of New Berlin, Texas, and will
+    eventually join the PFM fleet in the Pioneer Air Museum.</p>
+
+    <p>NC592H, s/n 103, was built in 1929 as the third Rearwin
+    2000C, and is the only one known to exist today. PFM also has
+    the appropriate Curtiss Challenger engine for it, so a
+    completely authentic restoration will be possible.</p>
+
+    <em><a href="updates/index.shtml">Project Updates page</a></em>
+
+    <h2>More Information</h2>
+
+    <p>More information is available about the Ken-Royce on the <a
+    href="http://www.rearwin.com/ken-royce.asp">Rearwin
+    Airplanes</a> web page.</p>
+
+    <br clear="all" />
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

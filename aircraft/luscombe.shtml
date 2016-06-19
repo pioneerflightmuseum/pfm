@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>1939 Luscombe 8A</h1>
+
+    <p><img align="right" hspace="10" vspace="20"
+    src="../images/luscombe3.jpg" width="550" height="256"
+    alt="Luscombe Front Quarter View" /></p>
+
+    <p>Don A. Luscombe became interested in aircraft while serving
+    in France during World War I. In the 1920s, he was instrumental
+    in developing the Monocoupe line of aircraft which first
+    appeared in 1927. Not satisfied with the fabric-covered steel
+    tubing construction of the Monocoupes, he began to consider
+    ways of improving an already good airplane. This led him to
+    break with the Mono Aircraft Corporation and set up his own
+    aircraft manufacturing company, "D. A. Luscombe, Manufacturer
+    of Airplanes".</p>
+
+    <p>His new designs were a break from the past in that they used
+    an all-metal monocoque fuselage. The first of these planes, the
+    Luscombe Phantom, was very well-received, but it was
+    complicated and expensive to manufacture. It was also quite
+    tricky to land, and even Don Luscombe himself flipped one on
+    its back during a sales demo flight. Because the Phantom was so
+    expensive, it didn't sell well. Luscombe began designing and
+    manufacturing smaller and less expensive aircraft in an attempt
+    to create a plane that would be popular, inexpensive, and
+    profitable.</p>
+
+    <br clear="all" />
+
+    <p align="center"><img hspace="10" vspace="20"
+    src="../images/luscombe2.jpg" width="549" height="307"
+    alt="Luscombe 8A Right Front View" /></p>
+    <br />
+
+    <p>This effort led to the Luscombe Model 8. Although designed
+    for the new Continental 50-hp flat 4-cylinder engine, the
+    firewall was round so that a small radial engine could be
+    fitted if the new Continental design proved faulty. In the
+    event, the new engine worked well, and the design proved
+    itself. Later versions of the Model 8 were fitted with larger
+    engines and designated with a suffix letter to indicate engine
+    and other model changes. Thus, the Luscombe 8A uses a 65-hp
+    Continental engine. This is the model owned by the PFM.</p>
+
+    <p><img hspace="10" vspace="20" src="../images/luscombe1.jpg"
+    width="550" height="358" alt="Luscombe 8A Rear View" /></p>
+
+    <p>The Luscombe Model 8 is a side-by-side two-place, high-wing
+    aircraft of all-metal construction (except for fabric wing
+    covering in earlier models). This is the first light aircraft
+    to use monocoque construction (where the metal skin of the
+    airplane carries the load instead of an internal framework).
+    It's an efficient little airplane, able to cruise at 100 mph on
+    65 hp. Due to its good performance, it acquired a reputation as
+    a "hot ship" among pilots used to Piper Cubs and Aeronca
+    Champs. Despite this reputation, it is actually pretty easy to
+    fly.</p>
+
+    <p>Although the plane was originally developed with a 50-hp
+    engine, later developments of the Model 8 were fitted with
+    larger engines ranging up to 90 hp. One model, the T8F, was a
+    tandem version developed for a military liaison aircraft
+    competition. It didn't win, but several were produced for use
+    as utility aircraft and cropdusters. Over 5500 Model 8s were
+    built, and hundreds (maybe even a couple of thousand)
+    remain.</p>
+
+    <h2>Additional Information</h2>
+
+    <p>For more information about the Luscombes, check out the <a
+    href="http://www.luscombe.org">Don Luscombe Aviation History
+    Foundation</a>. The Foundation is the owner of the Model 8 Type
+    Certificate, and is dedicated to preserving Luscombe history,
+    traditions, and aircraft. They provide excellent support to
+    Luscombe owners by maintaining a stock of parts and developing
+    service and inspection methods to help keep these aging
+    airplanes flying safely. The remaining Luscombes are also
+    supported by two type clubs, the Luscombe
+    Association and the <a
+    href="http://www.luscombe-cla.org">Continental Luscombe
+    Association</a>, which provide support, assistance, and
+    camaraderie to owners and other people interested in Luscombe
+    aircraft.</p>
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

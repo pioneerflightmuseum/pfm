@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>March 31, 2003 Project Update</h1>
+
+    <img src="../../../images/fokkerDVII/030331Tank.jpg" align="left"     
+        width="350" height="294" hspace="10" vspace="10" 
+        alt="Shaping the edges of the fuel tank side" />
+
+    <p>Tom Gaylord, Wayne Jones and Bill Broussard met at Old Kingsbury Aerodrome on
+    March 29-30 to put in a work weekend on the Fokker D.VII.  This was a weekend for
+    systems work, and the team spent its time dealing with the cockpit control re-build
+    and starting work on the fuel tank.  This picture shows Tom and Bill using rubber
+    mallets to persuade the sidewall of the fuel tank to maintain the proper shape.
+    </p>
+
+    <br clear="all" />
+
+    <img src="../../../images/fokkerDVII/030331Grip.jpg" align="right" width="180" 
+        height="250" hspace="10" vspace="10" alt="Stick grip and triggers" />
+
+    <p>The triggers have been fabricated, primed, and attached to the stick grip.
+    The two curved pieces are pulled by the pilot, and are attached to Bowden cables
+    that actuate the guns.
+     </p>
+
+
+    <br clear="all" />
+      
+    <img src="../../../images/fokkerDVII/030331Conference.jpg" align="left" 
+        width="550" height="331" hspace="10" vspace="10" 
+        alt="Team Fokker debating the interference solution" />
+      
+    <p>The major work on Sunday was to temporarily rig the elevator and rudder control
+    cables to see if the interference problem had been solved.  It hadn't.  The team
+    spent some time thinking about the problem and proposing various solutions.  After
+    a good deal of discussion and temporary tryouts of various fixes, we hit upon a
+    set of changes that worked.  The control stick was moved forward about an inch and
+    a half, to reduce the interference between the aileron horns and rudder bar.  This
+    didn't quite eliminate the problem, so the rudder bar was raised 7/8 of an inch.
+    With these two fixes, the two pieces no longer hit each other. 
+    </p>
+
+    <p>Once that was solved, the team mounted the upper crankcase and accessory section
+    of a Ranger engine so that we can see how much room is in the engine compartment
+    for an oil tank and other miscellaneous pieces.  That pretty much closed out the 
+    weekend, and everyone departed for home by 4:30 Sunday afternoon.
+    </p>
+    <br clear="all" />
+      
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

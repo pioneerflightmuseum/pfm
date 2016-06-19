@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>October 16, 2004 Project Update</h1>
+    
+    <p>Most of our project effort so far has been concentrated on the two Fokker
+    projects, but we have done a bit of work on the Tommy.  Bill Broussard spent 
+    quite a bit of time continuing to prepare the tail surface components of
+	 both "Tommys" for covering.  Lots of metal fittings that need cloth patches 
+	 glued over them and trimmed. This process is almost done....
+	 </p>
+	 
+	 
+    <br clear="all" />
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

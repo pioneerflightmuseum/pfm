@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h2>1917 Indian Motorcycle &amp; Sidecar</h2>
+
+    <p>The Indian motorcycle company has a long and illustrious
+    history, and for decades provided the main competition for its
+    now more-famous competitor Harley-Davidson. Both marks were
+    used by the military as scouts and couriers, often with a
+    sidecar attached.</p>
+
+    <p>PFM has an 1917 Indian motorcycle, VIN 73J740, with a
+    sidecar. It was restored in the mid-1990s by Bill Wiseman of
+    LaVernia, Texas, and is painted in a period military scheme.
+    The sidecar is a reproduction made in Indonesia. This bike is
+    in running condition, and in fact is fast enough to be scary!<br />
+    <br />
+    <img src="../images/indian1.jpg" width="550" height="332"
+    alt="Indian motorcycle - right front" />
+    <br />
+    <br />
+    <img src="../images/indian2.jpg" width="550" height="445"
+    alt="Indian motorcycle - left front" /></p>
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

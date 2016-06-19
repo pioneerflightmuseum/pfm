@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>1936 Rearwin 7000 Sportster</h1>
+
+    <p><img align="right" hspace="10" vspace="20"
+    src="../../images/pfm20080823/20080823RearwinSportster.jpg" width="600" height="450"
+    alt="Rearwin Sportster" /></p>
+
+    <p>Raymond Rearwin founded the Rearwin Aircraft Company in 1928.  The
+    	company produced a range of single-engine aircraft, including the
+   	<a href="http://pioneerflightmuseum.org/aircraft/rearwin2000C/index.shtml">
+    	Rearwin 2000C</a> (also known as the Ken-Royce).</p>
+
+    <p>In 1935, the company introduced the Rearwin Sportster (Model 7000).
+    	This was a two-place tandem-seating light aircraft that could be powered by a range of
+    	engines.  Our Sportster is a 1936 model that's powered by a 70-hp 
+    	LeBlond 5DE radial engine.
+    </p>
+    
+    <p>The Sportster was designed to be a high-end training plane, or an
+    	entry-level airplane for the sportsman pilot of limited means.  It was
+    	also suitable as a business transport for businessmen who needed to
+    	go to customers or plants within a few hundred miles of the home office.
+    </p>
+
+    <br clear="all" />
+
+    <p><img hspace="10" vspace="20" src="../../images/rearwinSportster/panel.jpg"
+    width="600" height="450" alt="Instrument panel" /></p>
+
+    <h2>Specifications</h2>
+    
+    <div class="specifications">
+    <h3 align="center">Rearwin Model 7000 Sportster</h3>
+    <h4 align="center">C/N 477   Registration N15986</h4>
+    <table align="center">
+    <tr><td class="spectitle">Engine:</td>
+    	<td class="specdata">LeBlond 5DE, 70hp</td></tr>
+    <tr><td class="spectitle">Wingspan:</td>
+    	<td class="specdata">35 ft</td></tr>
+    <tr><td class="spectitle">Length:</td>
+    	<td class="specdata">22.3 ft</td></tr>
+    <tr><td class="spectitle">Height:</td>
+	    <td class="specdata">6.75 ft</td></tr>
+    <tr><td class="spectitle">Fuel:</td>
+	    <td class="specdata">24 gal</td></tr>
+    <tr><td class="spectitle">Oil:</td>
+	    <td class="specdata">2 gal</td></tr>
+    <tr><td class="spectitle">Gross Weight:</td>
+	    <td class="specdata">1410 lb</td></tr>
+    <tr><td class="spectitle">Seats:</td>
+	    <td class="specdata">2, tandem</td></tr>
+    <tr><td class="spectitle">Maximum Speed:</td>
+	    <td class="specdata">110 mph</td></tr>
+    <tr><td class="spectitle">Cruise Speed:</td>
+	    <td class="specdata">100 mph</td></tr>
+    <tr><td class="spectitle">Cruise Range:</td>
+	    <td class="specdata">480 miles</td></tr>
+    </table>
+    </div>
+<!--
+    <div class="specifications">
+    <h3>Rearwin Model 7000 Sportster</h3>
+    <h4>C/N 477   Registration N15986</h4>
+    <ul>
+    <li class="spec"><span class="spectitle">Engine:</span>
+    	<span class="specdata">LeBlond 5DE, 70hp</span></li>
+    <li class="spec"><span class="spectitle">Wingspan:</span>
+    	<span class="specdata">35 ft</span></li>
+    <li class="spec"><span class="spectitle">Length:</span>
+    	<span class="specdata">22.3 ft</span></li>
+    <li class="spec"><span class="spectitle">Height:</span>
+	    <span class="specdata">6.75 ft</span></li>
+    <li class="spec"><span class="spectitle">Fuel:</span>
+	    <span class="specdata">24 gal</span></li>
+    <li class="spec"><span class="spectitle">Oil:</span>
+	    <span class="specdata">2 gal</span></li>
+    <li class="spec"><span class="spectitle">Gross Weight:</span>
+	    <span class="specdata">1410 lb</span></li>
+    <li class="spec"><span class="spectitle">Seats:</span>
+	    <span class="specdata">2, tandem</span></li>
+    <li class="spec"><span class="spectitle">Maximum Speed:</span>
+	    <span class="specdata">110 mph</span></li>
+    <li class="spec"><span class="spectitle">Cruise Speed:</span>
+	    <span class="specdata">98 mph</span></li>
+    <li class="spec"><span class="spectitle">Cruise Range:</span>
+	    <span class="specdata">475 miles</span></li>
+    </ul>
+    </div>
+-->
+    <h2>Additional Information</h2>
+
+    <p>For more information about Rearwin aircraft, take a look at
+    the <a href="http://www.rearwin.com/index.asp">Rearwin Aircraft</a>
+    web page.</p>
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>14 April 2003 - Bristol F.2b Project Update</h1>
+
+    <img align="right" src="../../../images/bristolF2/030414Floor.jpg"
+    width="550" height="301" hspace="10" vspace="10"
+    alt="Cockpit floor" />
+
+    <p>The basic fuselage structure for the first Bristol is essentially complete.
+    Now we're starting to work on some of the stuff that gets mounted to it.  This
+    first picture shows the pilot's cockpit floorboard on the workbench just in front
+    of the fuselage framework with the rudder bar and elevator pivot bar being mounted.
+    </p>
+    
+    <br clear="all" />
+    <img align="left" src="../../../images/bristolF2/030414Panel.jpg"
+    width="500" height="317" hspace="10" vspace="10"
+    alt="Instruments and panel" />
+
+    <p>We're also starting to create the instrument panel for this airplane.  In the
+    foreground here you can see the original panel that we're using as a pattern, 
+    as well as several candidate instruments for fitting purposes.  In the background 
+    is the new panel that will be fitted to this airplane.
+    </p>
+
+    <br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

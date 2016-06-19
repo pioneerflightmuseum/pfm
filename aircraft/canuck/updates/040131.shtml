@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>Canuck Update - 31 January 2004</h1>
+
+    <img align="right" src="../../../images/canuck/20040131Engine.jpg"
+    width="550" height="318" hspace="10" vspace="10"
+    alt="Canuck engine, disassembled" />
+
+    <p>After a great deal of fiddling around with it, we finally decided that the
+    engine just wasn't going to work.  So, we pulled it off the airplane and
+    completely disassembled it.  It turned out that several areas needed work,
+    including the valve seats.  They've been re-ground with the correct angles,
+    and the engine is ready for re-assembly.  Once again, we hope to have it
+    flying by AirFair.
+    </p>
+
+    <br clear="all" />
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>August 15, 2002 Project Update</h1>
+    <p>
+        Tom Gaylord and Bill Broussard arrived at OKA Friday at 4:30 pm, but didn't get much
+        done.  We did reinstall most of the aluminum straps that bind
+        the long wooden piece to the horizontal stabilizer.  We also measured the
+        positions for the slots where the control cables will pass through the horizontal
+        stabilizer.  Bill did a little work on the library database.
+    </p>
+
+     <img align="right" src="../../../images/fokkerDVII/020815Elevator.jpg"
+      hspace="10" vspace="10" width="549" height="257"
+      alt="Half-covered elevator" />
+
+    <p>
+        Saturday was
+        much more productive.  Tom and Bill began to take apart the Ranger engine that
+        will be used to power the D.VII.  Bill then joined Gary Marsden and both began
+        work covering the horizontal stabilizer and the elevator with fabric.  Tom
+        continued working on the Ranger removing lots of nuts and washers.  One ornery
+        piece resisted removal.  It was a large thin nut around the propellor shaft that
+        bound the front crankcase segment.  A special tool may have to be fabricated to
+        remove it.  Because of its recalcitrance Tom wasn't able to separate the halves
+        of the crankcase.  That remains for the next visit.  Bill and Gary finished
+        covering the horizontal stabilizer.  Roger put the iron to it and shrank the
+        fabric.   Half of the elevator was covered and the other half will be finished
+        next time.  We decided that the stabilizer/elevator section will be painted
+        blue, top and bottom.  Everyone left Kingsbury at about 4:15 pm Saturday.
+    </p>
+    <br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>21 August 2002 - Bristol F.2b Project Update</h1>
+
+    <img align="right" src="../../../images/bristolF2/020821Frame.jpg"
+    width="412" height="550" hspace="10" vspace="10"
+    alt="Jig table with Bristol fuselage side frame laid out" />
+
+    <p>This picture shows one side frame cut out and fitted together on the layout
+    table.  This is the last of six sides (2 each for three airframes), and you can also
+    see two of the steel fittings which will hold the wood pieces together.  One such
+    fitting is bolted to each place where the wood struts meet, and then a wire truss
+    is strung between the fittings to hold everything together.  This somewhat
+    complicated fitting is used where several wood components meet; simpler fittings
+    are used where only a single vertical strut meets a longeron.  There's no glue
+    involved, just bolts and tensioned wire to hold everything together!
+    </p>
+
+    <br clear="all" />
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

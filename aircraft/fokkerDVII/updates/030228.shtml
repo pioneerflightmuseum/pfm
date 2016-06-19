@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>February 28, 2003 Project Update</h1>
+
+    <img src="../../../images/fokkerDVII/030228Jig.jpg" align="left"     
+        width="350" height="269" hspace="10" vspace="10" 
+        alt="Laying out a new rudder bar jig" />
+
+    <p>Tom Gaylord and Bill Broussard continued work on the cockpit area of the Fokker
+       D.VII.  Joined by Gary Marsden and Richard Johnson, several different sub-projects
+       were addressed.  After some discussion, the cockpit control stick was lengthened
+       by 1.5 inches.  This was done to aid side clearance of the stick.  Modern-day
+       humans are taller and wider than our heroes of yesteryear, and the original
+       cockpit dimensions just don't work very well.  The stick, as made to original
+       specifications would contact the knees of modern pilots, limiting the amount of
+       side travel and thus the roll rate possible to achieve.  We also decided to move
+       the rudder pedals forward, since our legs are longer than the original pilots'.
+       The first attempt at moving the pedals didn't work, since the new location impinged
+       on the aileron control horns.  As a result, we decided to rebuild the pedals pretty
+       much from scratch.  This picture shows Tom laying out the pattern for the new rudder
+       bar on a workbench.
+    </p>
+
+    <br clear="all" />
+
+    <img src="../../../images/fokkerDVII/030228Door.jpg" align="left" width="181" 
+        height="250" hspace="10" vspace="10" alt="Access doorn" />
+
+    <p>We had also decided recently to re-build the fuel tank and use a different mounting
+       system.  To make maintenance easier, we're also adding a small access door to the
+       left side of the fuselage.  This small, triangular door will let us get to the fuel
+       hose fittings after the fuselage is covered.  Gary began collecting information
+       to make the patterns for drawing the skull-and-crossbones design that will be
+       painted on the fuselage sides.
+     </p>
+
+    <p>Some discussion also occurred comparing the Gypsy Queen engine to the Ranger
+        we're planning to use.  The advantage to the Ranger is that we have one, but
+	the Gypsy Queen is closer to the horsepower and torque rating of the original
+	Mercedes engine.  That would also allow us to use a larger propellor, which
+	would look more original.
+    </p>
+
+    <br clear="all" />
+      
+    <img src="../../../images/fokkerDVII/030228Trigger.jpg" align="right" 
+        width="550" height="330" hspace="10" vspace="10" 
+        alt="Trigger pieces and stick grip" />
+      
+    <p>Gary continued working on the gun triggers by fabricating the parts used
+	to connect the Bowden cables to the joystick trigger levers.  The cables
+	will be used to control the switches for the propane machine guns.  The
+	two curved pieces shown here are the trigger levers, with the cable
+	connector pieces just to the left.  We
+	hope that most of the control stick will be finished by our next work day.
+	Gary also did a bit of sanding work on some rib pieces that will be used
+	on the SE5a.
+    </p>
+
+    <br clear="all" />
+      
+    <img src="../../../images/fokkerDVII/030228Wing.jpg" align="right" 
+        width="550" height="289" hspace="10" vspace="10" 
+        alt="Wing envelope being prepared" />
+      
+    <p>Richard, Roger Freeman, Tom and Bill removed the bottom wing from its
+	storage rack on the wall. Roger Ritter and Bill did the final pinning
+	of the wing envelope fabric.  These pieces consist of two different
+	lozenge camouflage patterns, one for the upper surface and one for the
+	lower.  The pinned envelopes will be sewn together in Houston.  Once
+	that's done, we can slide them back on to the wings and do the final
+	attachment, shrinking, rib-stitching and doping to finish the wing
+	covers.
+    </p>
+    <br clear="all" />
+      
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

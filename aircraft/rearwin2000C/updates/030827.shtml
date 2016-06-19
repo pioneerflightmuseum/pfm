@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>27 August 2003 -Rearwin 2000C Project Update</h1>
+
+    <img align="right" src="../../../images/rearwin2000C/030827Wings.jpg"
+    width="500" height="210" hspace="10" vspace="10"
+    alt="Bottom wings" />
+
+    <p>It's been almost a year since the last update on this project, but
+    we have been (slowly!) working on it.  The wings are nearing completion,
+    and both bottom wings have returned to our shop from the people who are
+    working on them.  Now to finish up the top wing, and start working on
+    rebuilding/overhauling the engine!
+    </p>
+
+    <br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

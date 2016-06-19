@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>November 3, 2007 Project Update</h1>
+		
+		<img align="right" src="../../../images/fokkerDRI/20071103ReadyToTaxi.jpg" 
+		width="600" height="450" hspace="10" vspace="10" 
+		alt="Ready for taxi testing" />
+		
+		<p>We had an excellent turn-out, with Tom Gaylord, Charles
+			Allen, Terry Bledsoe, Ted Dawson, Dick Schenck, Greg
+			Solberg, Don Gaylord, Derek Staha, Al Sumrall, Sanford
+			Swope, Dave Miller, Roger Ritter and Ron Marcotte all
+			making an appearance for at least part of the day.
+		</p>
+		
+		<p>While part of the crew got to work on the hangar windows, 
+			the rest of us worked on the triplane itself.  Don
+			Gaylord is a master automotive mechanic and took over
+			efforts to get the Le Rhone engine running on all nine
+			cylinders.  The problem seemed to be in the valve
+			adjustments, so Don read the manual and set about
+			adjusting the valve lash.  Sure enough, only one
+			cylinder was actually in spec and the cylinder
+			furthest from spec was #1 cylinder, which was the one
+			that wasn't firing at all.  After the engine was run
+			again, firing of all cylinders was confirmed with a
+			laser temperature gun.  Awfully high tech for a 1918
+			motor.
+		</p>
+		
+		<br clear="all" />
+
+		<img align="left" src="../../../images/fokkerDRI/20071103WB.jpg" 
+		width="600" height="450" hspace="10" vspace="10" 
+		alt="Weighing the airplane" />
+				
+		<p>A friend of Roger's showed up with his aircraft scales
+			and a weight and balance was done.  The aircraft weighed just under
+			1100 lbs, and the center of gravity was a couple of
+			inches behind the leading edge of the lower wing.
+		</p>
+		
+		<p>Once the engine was running, the next step was to taxi the
+			triplane around the field.  In general the triplane
+			looks great in motion!  We even have some
+			<a href="../../../images/fokkerDRI/taxiTest.wmv">video</a> of
+			the taxi test (1 MB download).
+		</p>
+
+
+		<p>Roger was concerned about the airplane tracking
+			straight, but that didn't seem to be much of an issue.
+			The engine was difficult to get to full power, and
+			the lever kept creeping back on him.  We did get a
+			real full power run out of the engine after the groudloop.  
+			We will need to change
+			out the cockpit controls to the twin lever arrangement
+			that Roger is more familiar with.
+		</p>
+
+		<p>Roger broke both wingtip skids in his taxi tests.  He
+			gently groundlooped while making a "U" turn at the end
+			of the runway and broke the starboard skid's forward
+			mount.  He also broke the port wingtip skid in a faster
+			groundloop.  The airplane is very top heavy and tipsy.
+		</p>
+		
+		<p>We will likely "re-engineer" the wingtip skid's
+			forward mount to something sturdier, since that is what
+			failed on both wingtip skids.  The other problem noted after
+			the taxi tests is that the tailskid cracked through one of the
+			bolt holes that mount the tailskid shoe.  We will also try
+			pinning the tailskid, so it doesn't swing from side to
+			side.  Roger thinks that will reduce the tendency to
+			groundloop.  There may also be some minor repairs to
+			the port wingtip, lower wing.
+		</p>
+			
+		<p>That was about all the excitement for the day we could
+			stand.  The triplane was wiped down and put back into
+			the hanger.
+		</p>
+		
+	 <br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

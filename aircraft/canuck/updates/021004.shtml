@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>Canuck Update - 4 October 2002</h1>
+
+    <img align="right" src="../../../images/canuck/021004Nose.jpg"
+    width="550" height="438" hspace="10" vspace="10"
+    alt="Engine mounts and forward fuselage" />
+
+    <p>The Canuck has been re-assembled and work has begun on the engine
+    mounts and forward fuselage.  Here you see the engine bearers and radiator
+    supports in place as we work on preparing this area for final mounting of the
+    radiator.  Also notice the foil wrapped around the ends of the wing struts and
+    brace wires, to protect them from overspray as we touch up the paint on the
+    wings.
+    </p>
+
+    <br clear="all" />
+
+    <img align="left" src="../../../images/canuck/021004Control.jpg"
+    width="550" height="844" hspace="10" vspace="10"
+    alt="Brace wires and aileron control cables" />
+
+    <p> Now that the wings are back on the plane, we're also finishing up the control
+    rigging.  Here you can see the two aileron control cables and pulleys, connecting
+    the joystick in the cockpit to the ailerons at each wing tip.  Both pulleys are mounted
+    to the rear spar of the wing, and route the cable to the aileron on the other wing
+    (i.e., the bottom pulley routes the cable to the upper aileron, and vice versa).
+    </p>
+
+    <br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+	<h1>Fokker Dr.I Project Updates</h1>
+
+	<img src="../../../images/fokkerDRI/FokkerAssembly.jpg" 
+		width="600" height="266" hspace="10" vspace="10" alt="Fitting the Wings" />
+
+	<br clear="all" />
+
+	<h2>Project History</h2>
+
+	<a href="080307.shtml">March 7, 2008</a><br />
+	<a href="080223.shtml">February 23, 2008</a><br />
+	<a href="080112.shtml">January 12, 2008</a> <br />
+	<a href="071215.shtml">December 15, 2007</a> <br />
+	<a href="071103.shtml">November 3, 2007</a> <br />
+	<a href="071013.shtml">October 13, 2007</a> <br />
+	<a href="070929.shtml">September 29, 2007</a> <br />
+	<a href="070915.shtml">September 15, 2007</a> <br />
+	<a href="070825.shtml">August 25, 2007</a> <br />
+	<a href="070811.shtml">August 11, 2007</a> <br />
+	<a href="070630.shtml">June 30, 2007</a> <br />
+	<a href="070602.shtml">June 2, 2007</a> <br />
+	<a href="070429.shtml">April 29, 2007</a> <br />
+	<a href="070331.shtml">March 31, 2007</a> <br />
+	<a href="070310.shtml">March 10, 2007</a> <br />
+	<a href="070224.shtml">February 24, 2007</a> <br />
+	<a href="061218.shtml">December 18, 2006</a> <br />
+	<a href="061111.shtml">November 11, 2006</a> <br />
+	<a href="060910.shtml">September 10, 2006</a> <br />
+	<a href="050619.shtml">June 19, 2005</a> <br />
+	<a href="050205.shtml">February 5, 2005</a> <br />
+	<a href="050122.shtml">January 22, 2005</a> <br />
+	<a href="041023.shtml">October 23, 2004</a> <br />
+	<a href="041016.shtml">October 16, 2004</a> <br />
+	<a href="040810.shtml">August 10, 2004</a> <br />
+	<a href="040801.shtml">August 1, 2004</a> <br />
+
+	<br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

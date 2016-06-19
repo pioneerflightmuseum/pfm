@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>April 29, 2007 Project Update</h1>
+
+		<p>Interesting day... turn-out was light
+			with Greg Solberg, Tom Gaylord, Carl Canga, Ted Dawson and
+			new guy, Nick Medrano showing up for work.  Nick had
+			to leave before lunch, but was replaced later in the
+			day by Dick Schenck, who cruised by to critique our
+			work while he was driving to his girlfriend's house
+			for dinner!  Roger Ritter flew his Luscombe into the
+			field for a mid afternoon visit.
+		</p>
+
+		<p>The two main projects for the day were the control
+			column and connecting accessories to the rotary
+			engine.</p>
+
+		<img align="left" src="../../../images/fokkerDRI/20070429ControlColumnFrame.jpg" 
+		width="450" height="600" hspace="10" vspace="10" 
+		alt="Tubing for the control column grip" />
+
+		<p>Carl and Greg mostly worked on the control column. 
+			They plotted out curves and angles and spent part of the
+			day bending tubing, trying not to crush the tube at
+			the bends.  They also shaped the tubing to have the
+			curved section welded on.  Very definite progress on
+			this component!
+		</p>
+		
+		<img align="right" src="../../../images/fokkerDRI/20070429JoystickGrip.jpg" 
+		width="600" height="450" hspace="10" vspace="10" 
+		alt="control column grip" />
+
+		<br clear="all" />
+		
+		<p>Ted, Tom, and Roger Freeman mostly worked on the engine. 
+			Initially Roger just wanted to hook everything up
+			while the engine was still attached to the airframe,
+			but we persuaded him to yank the motor (attachment
+			bolts needed to be replaced anyway) cause our old
+			joints are not flexible enough to reach through the
+			little access doors to get work done and our decrepit
+			eyesight meant we couldn't see either.  So out of pity
+			Roger agreed to let us yank the motor.  But first, we
+			needed to time the ignition on the engine.  Roger got
+			out the manual to refresh himself on the process.
+		</p>
+		
+		<p>In setting the ignition we discovered that the magneto
+			first had to be timed to itself... getting the points
+			to break just as the magnetic field was at its peak
+			strength.  That done the engine was timed.  This
+			entailed getting cylinder 1 to several degrees prior
+			to TDC by rotating the motor till cylinder 7's
+			push-rod was horizontal.  Then, with the mag set just
+			at points break, stab it through the hole to engage
+			the gears.  Voila, a timed 80-hp le Rhone rotary
+			engine!</p>
+			
+		<img align="right" src="../../../images/fokkerDRI/20070429EngineOut.jpg" 
+		width="600" height="450" hspace="10" vspace="10" 
+		alt="Engine removed for work" />
+		    
+		<p>After that the motor was yanked and left dangling on
+			the chain hoist so we could access both sides if
+			necessary.
+		</p>
+			
+		<p>We found lots of issues waiting for us; a paper towel
+			stuffed down the intake throat, the castor oil intake
+			port was clogged with a mud dauber's nest, the line
+			running from the castor oil pump to the crankcase
+			wasn't present, intake pipes had loose bolts and
+			various mounting holes needed to be drilled and tapped
+			to accept the accessories.
+		</p>
+		
+		<p>Eventually all these issues were settled.  The photo
+			of Ted was taken while he was working on the castor
+			oil pump.
+		</p>
+			
+		<p>When Greg and Tom left to head back to Houston, only Ted
+			and Roger Ritter remained, and the last task was to
+			rob a jam nut off the Tommy to secure the carb on the
+			end of the crankshaft and then put the engine back
+			into the airframe.
+		</p>
+		
+		<br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

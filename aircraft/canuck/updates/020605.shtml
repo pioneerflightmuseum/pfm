@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>Canuck Update - 5 June 2002</h1>
+
+    <img align="left" src="../../../images/canuck/rigged.jpg"
+    width="550" height="326" hspace="10" vspace="10"
+    alt="Canuck being rigged" />
+
+    <p>Work continues on the Canuck, which is on the short road to flying now.
+    We're down to a lot of fiddly little details for the most part - the things
+    that seem to take forever.  It looks like the plane is almost finished,
+    but there's a lot of small stuff and it really adds up.
+    Here you can see it set up to be rigged, with the wings and tail surfaces
+    attached, and the engine temporarily mounted to let us set up the engine
+    controls.</p>
+
+    <br clear="all" />
+    <img align="right" src="../../../images/canuck/panel.jpg"
+    width="450" height="292" hspace="10" vspace="10"
+    alt="Canuck rear instrument panel" />
+
+    <p>As part of setting up the engine instruments and controls, we have
+    installed most of the rear instrument panel.  This shot, from below and
+    through the still-open side of the fuselage, shows the original tachometer
+    and altimeter, along with the ignition switch and other engine gauges.
+    Note the hefty control stick in the lower left corner - this is a solid
+    chunk of wood!</p>
+
+    <br clear="all" />
+    <img align="left" src="../../../images/canuck/airfair.jpg"
+    width="550" height="239" hspace="10" vspace="10"
+    alt="Canuck on display" />
+
+    <p>Airfair brings out all of our aircraft, whether projects or flyable.
+    The Canuck was no exception.  It was parked on the future museum
+    foundation slab along with the two Fokker projects.  Here you can
+    see the overall layout of the plane, with the radiator and painted engine
+    cowlings in place.</p>
+
+    <br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h2>Piper J-3 Cub</h2>
+    <img align="right" src="../images/j3Cub.jpg" width="549"
+    height="412" hspace="10" vspace="10" alt="Piper Cub" />
+
+    <p>What is there to say about the legendary Piper Cub? It
+    became so well-known that it is practically a generic term for
+    'small aircraft'. Thousands of pilots learned to fly in Cubs,
+    and it was produced in various models for decades. The Museum
+    has a 1940 Piper J-3 that is being restored. Most of the
+    structure is complete, and it lacks mainly the control hookups
+    and cockpit work to be flyable. We hope to see it fly
+    soon!
+    </p>
+    <br clear="all" />
+
+    <h2>Update - December 31, 2002</h2>
+     <img align="right" src="../images/021231CubCockpit.jpg" width="550"
+        height="397" hspace="10" vspace="10" alt="Piper Cub Cockpit" />
+
+    <p>After a long hiatus, the Cub project is advancing again.  The interior has been
+         fitted, the controls are hooked up, and we're down to a bunch of niggling details.
+        With luck, it will be flying by spring, just in time to enjoy that classic warm-weather,
+        open-door, only-from-a-Cub kind of flying!
+    </p>
+
+    <p>Notice the very well-equipped instrument panel.  We've got instruments that go
+    beyond the minimum requirements!  (Hint:  The climb-rate indicator (second large instrument
+    from the right) is not actually required for day VFR flight).
+
+    <br clear="all" />
+    <p>In addition to the Cub shown above, the Museum has two more
+    projects waiting for their turn. In the picture below, the
+    nearer fuselage with the red boot cowl is a Piper J-4 Cub
+    Coupe, and the farther fuselage with a yellow boot cowl is
+    another J-3. The J-4 was a side-by-side seating version of the
+    Cub, instead of the J-3's tandem seating.<br />
+    <br />
+     <img src="../images/cubProjects.jpg" width="550" height="287"
+    alt="Cub project fuselages" /></p>
+
+    <h3>Web Information about Piper Cubs</h3>
+
+    <p>As might be expected, the Web is full of information about
+    one of the most popular airplanes of all time. Let's start with
+    the <a href="http://www.pipercubforum.com/">
+    Piper Cub Forum</a>, which is itself full of interesting links.
+    Another interesting <a
+    href="http://www.geocities.com/CapeCanaveral/Lab/4515/cub.htm">Cub</a>
+    site has a history of the aircraft from its original design by
+    Gilbert Taylor. These should be enough to get you started, and
+    if that's not enough then simply search for more!</p>
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

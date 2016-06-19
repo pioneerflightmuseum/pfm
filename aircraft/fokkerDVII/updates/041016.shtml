@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>October 16, 2004 Project Update</h1>
+    
+	 <p>This update brings the project information current as of the October
+	 9 work weekend.  Although the update pages for this project haven't
+	 shown much activity, we have been working on the D.VII. It's just that
+	 it's been reported in the Fokker Dr.I page, since we were doing more
+	 work on that machine.
+	 </p>
+		
+    <p>The main change that has happened with this project is that we've
+    decided to use a Gypsy Queen engine instead of the Ranger. The Gypsy 
+    Queen will be an excellent change. It is larger, heavier and offers more 
+    power than the Ranger.  It is similar in size to the Mercedes and we probably 
+    will be able to have the exhaust stack exit the aircraft on the correct side.
+	 In the meantime, the engine cowling panels have been removed to serve 
+    as templates for a customer airframe.  Roger is nearly done working out 
+    the new engine mounts and has completed many of the parts required.  One 
+    challenge remains, where to mount the oil cooler that the motor requires?
+    </p>
+
+	 <p>The engine leaves enough room on the lower firewall for a substantial 
+	 oil tank (Roger estimates 5 - 7 gallons!)... which is good, except that the 
+	 oil pumps on the engine will be on top at the rear.  The oil plumbing inside 
+	 the cowlings will be lengthy, wherever the oil cooler ends up being installed!  
+	 Javier Arango flies a Gypsy Queen D.VII and he says it takes a little bit of 
+	 time for the oil pressure to come up... this is an issue we'll have to look 
+	 at correcting.
+	 </p>
+	 
+	 <p>The primary engine compartment heat exit is on the bottom edge of the 
+	 firewall.  Some fancy ducting may be necessary to deflect engine and oil 
+	 cooler heat away from the cylinders and oil tank.  Still a few bugs to 
+	 eradicate. Roger and crew have also been working on a mold to allow new 
+	 nose bowls to be made.  The Gypsy Queen has different requirements for 
+	 intake and cooling air.
+	 </p>
+	 
+    <br clear="all" />
+      
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

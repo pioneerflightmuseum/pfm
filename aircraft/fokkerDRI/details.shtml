@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>Fokker Dr.I</h1>
+    
+    <h2>Detail Photos</h2>
+    
+	<p>This section has detailed photos of the Fokker Dr.I to assist modellers
+		who have asked for more information.  Click each photo for a high-resolution
+		view (about 3MB download).</p>
+		
+	<p>The plate on the left cowling says, "This aircraft dedicated to the
+		memory of Dick Schenck 1919 - 2008"</p>  
+		
+	<p>The plate on the right cowling says "Fokker-Flugzeugwerke m.b.H. Schwerin-Mecklbg.
+		No. 213 Type DR1 1917</p> 
+    
+	<table border="2">
+		<tr align="center">
+			<td> <a href="../../images/fokkerDRI/details/acWeightsLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smAcWeightsLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Weight requirements" /> <br />Weight requirements</a>
+			</td>
+			<td> <a href="../../images/fokkerDRI/details/cabaneLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smCabaneLogo.jpg"
+					width="150" height="200" hspace="5" vspace="5" 
+					alt="cabane/wing markings" /> <br />Cabane/wing markings</a>
+			</td>
+			<td> <a href="../../images/fokkerDRI/details/cockpitFloorLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smcockpitFloorLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Cockpit floor" /> <br />Cockpit floor</a>
+			</td>
+			<td> <a href="../../images/fokkerDRI/details/controlsLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smControlsLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Controls" /> <br />Controls</a>
+			</td>
+			<td> <a href="../../images/fokkerDRI/details/bootCowlLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smBootCowlLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Boot Cowl" /> <br />Boot cowl</a>
+			</td>
+		</tr>
+		<tr align="center">
+			<td> <a href="../../images/fokkerDRI/details/fokkerEmblemLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smFokkerEmblemLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Fokker emblem" /> <br />Fokker emblem</a>
+			</td>
+			<td> <a href="../../images/fokkerDRI/details/fuelGaugeLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smFuelGaugeLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Fuel gauge" /> <br />Fuel gauge</a>
+			</td>
+			<td> <a href="../../images/fokkerDRI/details/gunsLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smGunsLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Guns" /> <br />Dummy guns</a>
+			</td>
+			<td> <a href="../../images/fokkerDRI/details/instruments2Logo.jpg">
+				<img src="../../images/fokkerDRI/details/smInstruments2Logo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Instruments" /> <br />Instruments</a>
+			</td>
+			<td> <a href="../../images/fokkerDRI/details/instrumentsLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smInstrumentsLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Instruments" /> <br />Instruments</a>
+			</td>
+		</tr>
+		<tr align="center">
+			<td> <a href="../../images/fokkerDRI/details/interplaneLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smInterplaneLogo.jpg"
+					width="150" height="200" hspace="5" vspace="5" 
+					alt="Interplane struts" /> <br />Interplane struts</a>
+			</td>
+			<td> <a href="../../images/fokkerDRI/details/leftCockpitLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smLeftCockpitLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Left side cockpit" /> <br />Left side of cockpit</a>
+			</td>
+			<td> <a href="../../images/fokkerDRI/details/leftCowlLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smLeftCowlLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Left Side Cowling" /> <br />Left side of cowling</a>
+			</td>
+			<td> <a href="../../images/fokkerDRI/details/leftFrontLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smLeftFrontLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Forward left quarter" /> <br />Forward left quarter</a>
+			</td>
+			<td> <a href="../../images/fokkerDRI/details/leftFuselageLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smLeftFuselageLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Left fuselage" /> <br />Left fuselage</a>
+			</td>
+		</tr>
+		<tr align="center">
+			<td> <a href="../../images/fokkerDRI/details/leftFwdCockpitLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smLeftFwdCockpitLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Left cockpit controls" /> <br />Left cockpit controls</a>
+			</td>
+			<td> <a href="../../images/fokkerDRI/details/lowerRudderLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smLowerRudderLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Lower left rudder" /> <br />Lower left rudder</a>
+			</td>
+			<td> <a href="../../images/fokkerDRI/details/padding2Logo.jpg">
+				<img src="../../images/fokkerDRI/details/smPadding2Logo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Cockpit padding" /> <br />Cockpit padding</a>
+			</td>
+			<td> <a href="../../images/fokkerDRI/details/paddingLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smPaddingLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Cockpit padding" /> <br />Cockpit padding</a>
+			</td>
+			<td> <a href="../../images/fokkerDRI/details/propEmblemLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smPropEmblemLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Propeller emblem" /> <br />Propeller emblem</a>
+			</td>
+		</tr>
+		<tr align="center">
+			<td> <a href="../../images/fokkerDRI/details/rearViewLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smRearViewLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Rear view" /> <br />Rear view</a>
+			</td>
+			<td> <a href="../../images/fokkerDRI/details/rightCockpitLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smRightCockpitLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Right side cockpit" /> <br />Right side cockpit</a>
+			</td>
+			<td> <a href="../../images/fokkerDRI/details/rightCowlLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smRightCowlLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Right side cowling" /> <br />Right side cowling</a>
+			</td>
+			<td> <a href="../../images/fokkerDRI/details/rightFrontLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smRightFrontLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Right front quarter" /> <br />Right front quarter</a>
+			</td>
+			<td> <a href="../../images/fokkerDRI/details/rightQuarterLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smRightQuarterLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Right rear quarter" /> <br />Right rear quarter</a>
+			</td>
+		</tr>
+		<tr align="center">
+			<td> <a href="../../images/fokkerDRI/details/rightRearLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smRightRearLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Right rear quarter" /> <br />Right rear quarter</a>
+			</td>
+			<td> <a href="../../images/fokkerDRI/details/rightSeatLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smRightSeatLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Right side seat" /> <br />Right side seat</a>
+			</td>
+			<td> <a href="../../images/fokkerDRI/details/rightSideLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smRightSideLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Right side fuselage" /> <br />Right side fuselage</a>
+			</td>
+			<td> <a href="../../images/fokkerDRI/details/rightSidewallLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smRightSidewallLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Right cockpit sidewall" /> <br />Right cockpit sidewall</a>
+			</td>
+			<td> <a href="../../images/fokkerDRI/details/rudderRightLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smRudderRightLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Right side rudder" /> <br />Right side rudder</a>
+			</td>
+		</tr>
+		<tr align="center">
+			<td> <a href="../../images/fokkerDRI/details/seatbackLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smSeatbackLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Seat back" /> <br />Seat back</a>
+			</td>
+			<td> <a href="../../images/fokkerDRI/details/seatLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smSeatLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Seat" /> <br />Seat</a>
+			</td>
+			<td> <a href="../../images/fokkerDRI/details/underStabLogo.jpg">
+				<img src="../../images/fokkerDRI/details/smUnderStabLogo.jpg"
+					width="200" height="150" hspace="5" vspace="5" 
+					alt="Stabilizer underside" /> <br />Stabilizer underside</a>
+			</td>
+		</tr>
+	</table>
+
+
+</div>
+
+<!--#include virtual="/index_files/footerInvalid.html" -->
+
+</body>
+</html>

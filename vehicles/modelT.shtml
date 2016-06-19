@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>Ford Model T</h1>
+
+    <h2>Utility Truck</h2>
+
+    <p><img src="../images/modelT/modelT1.jpg" width="550" height="413"
+    alt="1917 Model T Utility Truck" /></p>
+
+    <p>The Ford Model T is one of the most famous vehicles in
+    history. First produced in late 1908 (what would now be
+    considered the 1909 model year), it became the second-most
+    produced car ever after the Volkswagen Beetle. Shown above is a
+    1917 Model T Utility Truck. First rebuilt based on a picture of
+    a peanut truck, it's been reincarnated several times with
+    different engines, wheels, and so forth. Below is a 1925 Model
+    TT, a one-ton truck. PFM acquired this truck in a trade with
+    Joel Harris of California, in exchange for a Travel Air
+    fuselage. This is as yet unrestored, and will someday probably
+    become a bus or a concession truck.</p>
+
+    <p><img src="../images/modelT/modelTFlat.jpg" width="550" height="341"
+    alt="1925 Model T One-Ton Truck" /></p>
+
+    <p>The engine, transmission, and chassis were essentially
+    unchanged through the Model T production run. A four-cylinder,
+    20-horsepower engine fed power to a transmission with two
+    forward speeds and reverse. Many different body styles were
+    built on the basic frame.</p>
+
+    <h2>Ambulances</h2>
+
+    <p><img align="right" src="../images/modelT/modelTAmbulance.jpg"
+    width="550" height="387" hspace="10" vspace="10"
+    alt="1916 Model T Ambulance" /></p>
+
+    <p>The military bought thousands of Model Ts during World War
+    I. The PFM has four Model Ts. These feature bodies built by
+    PFM on original Model T chassis. The one shown here is a 1916
+    Model T with a French-style ambulance body. Before the US
+    entered the war in 1917, Ford refused to sell to any of the
+    combatants. Various organizations bought chassis independently
+    of the governments and sent them to France, where bodies were
+    built for them by French coachbuilders. These evolved into the
+    French-style body reproduced on this machine.</p>
+    <br clear="all" />
+    <img align="left" src="../images/modelT/modelT1917Ambulance.jpg"
+    hspace="10" vspace="10" width="550" height="412"
+    alt="1917 Model T Ambulance" />
+
+    <p>Once the US entered the war, Ford began selling to the
+    Allies. The ambulances used a body that was a simplified
+    variant of the French-style body. PFM has built 5 reproduction
+    ambulances so far; three are in other museums and two remain
+    with PFM. All are reproduction bodies on original chassis.
+    Most of PFM's Model Ts have been modified to have electric
+    start, but one has only the original manual starter. Here is a
+    1917 Ambulance with the simplified, production-style body.</p>
+
+    <br clear="all" />
+
+    <h2>Wrecker</h2>
+    <img align="left" src="../images/modelT/modelTWrecker.jpg"
+    hspace="10" vspace="10" width="350" height="277"
+    alt="1927 Model T Wrecker" />
+
+    <p>Our newest model T acquisition is an unrestored 1927 wrecker.
+    This machine was donated to PFM by somebody who'd inherited it
+    and had no real interest in old vehicles.  We've promised to give
+    it a good home.  It runs well, and we plan to leave it just as it
+    is rather than restore it.  With so many pretty restorations
+    available, it's nice sometimes to see a machine that looks just like
+    it did when it had to work for a living.  Besides, the rust holes
+    patched with flattened-out tin cans adds a certain cachet to this
+    one!</p>
+
+    <img align="right" src="../images/modelT/fenderPatch.jpg"
+    hspace="10" vspace="10" width="200" height="150"
+    alt="Tin-can patch on fender" />
+
+    <br clear="right" />
+
+    <img align="left" src="../images/modelT/winch.jpg"
+    hspace="10" vspace="10" width="250" height="203"
+    alt="Weaver Auto-Crane winch" />
+
+    <p>The winch and crane assembly on the back of this Model T were
+    made by the Weaver Manufacturing Company.  The Weaver Auto Crane
+    is a very simple tow hook, especially when contrasted with the
+    slings and ramp trucks of today.  Still, it was a simpler time,
+    and equipment was sturdier and, in some ways, harder to abuse.</p>
+
+
+    <br clear="all" />
+    <h2>More Information</h2>
+    <p>For more information on Model T Fords, check out these
+    websites:</p>
+
+    <ul>
+      <li><a
+      href="http://www.hfmgv.org/exhibits/showroom/1908/model.t.html">
+      Model T History Showroom</a></li>
+
+      <li><a
+      href="http://members.tripod.com/~STICKCOW/tpagefiles/tpage.html">
+      Model T Delivery Truck</a></li>
+    </ul>
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

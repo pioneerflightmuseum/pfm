@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>February 23, 2008 Project Update</h1>
+		
+		<img align="right" src="../../../images/fokkerDRI/20080223RearQuarter.jpg" 
+		width="600" height="450" hspace="10" vspace="10" 
+		alt="Fokker in sunshine" />
+		
+		<p>We had another beautiful weather day and an excellent
+			turn-out of volunteers. We also had quite a few
+			visitors, several of whom expressed an interest in
+			volunteering!
+		</p>
+		
+		<p>The Fokker Dr.I triplane was inspected and some minor
+			issues attended to. Fuel was obtained and the
+			airplane readied for its afternoon engine run and
+			possible taxi tests.
+		</p>
+		
+		<br clear="all" />
+
+		<img align="left" src="../../../images/fokkerDRI/20080223Starting.jpg" 
+		width="600" height="450" hspace="10" vspace="10" 
+		alt="Ted starting the Dr.I" />
+				
+		<p>The aircraft was successfully started and run for a
+			few minutes at full power. A tach reading indicated
+			the engine was running typically at 1150 rpm, though
+			dropping sometimes to 1125 rpm. However, the engine
+			air control was still not staying where it should...
+			the lever kept creeping back. Additionally, Roger
+			isn't satisfied with the control column's fore &amp; aft
+			travel. The control lever was pulled to be modified
+			to provide more friction and a tube clamp under the
+			engine was moved so there was no possibility of
+			interference with the actuation rods. Lastly - the
+			control column top was removed for modification to
+			obtain more travel fore and aft. Most of this work
+			was completed - the outstanding items are finishing
+			the control column and air control lever mods.
+		</p>
+		
+	 <br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

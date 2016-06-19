@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>25 October 2002 - Bristol F.2b Project Update</h1>
+
+    <img align="right" src="../../../images/bristolF2/021025Hang.jpg"
+    width="550" height="240" hspace="10" vspace="10"
+    alt="Two fuselage sides hanging on wall" />
+
+    <p>Progress continues on the Bristol fuselages.  Two sides have been completed,
+    and are seen here hanging on the wall waiting for the rest to be finished.  Once all
+    six are done, then we will start working on the crosspieces that will let us build up
+    the complete fuselages.
+    </p>
+
+    <br clear="all" />
+
+    <img align="left" src="../../../images/bristolF2/021025Closeup.jpg"
+    width="550" height="274" hspace="10" vspace="10"
+    alt="Closeup of fittings installation" />
+
+    <p>This closeup shows the hardwire bracing that connects the steel fittings
+    and holds the assembly under tension to keep everything together.   Note
+    the hardwire bracing concealed in grooves routed into the V-braces at
+    the center of the picture.
+    </p>
+
+    <br clear="all" />
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>Fokker Dr.I</h1>
+    
+    <h2>Background</h2>
+	 <img src="../../images/fokkerDRI/20080307Flight.jpg" align="left"
+		width="600" height="428" hspace="10" vspace="10" alt="Fokker Dr.I flying" />
+
+    <p>The Fokker Dr.I was one of the most famous fighter planes of
+    World War I due to its association with the feared German ace,
+    Baron Manfred von Richthofen. Many other German aces also flew
+    this highly maneuverable plane, but the Red Baron ensured its
+    everlasting fame. Construction of our copy was finished in early 2008, and
+    it was publicly flown at AirFair 2008 as shown in this video.</p>
+    
+    <object width="425" height="344">
+    	<param name="movie" value="http://www.youtube.com/v/C4sxm5ceRqk&hl=en&fs=1"></param>
+    	<param name="allowFullScreen" value="true"></param>
+    	<embed src="http://www.youtube.com/v/C4sxm5ceRqk&hl=en&fs=1" 
+    		type="application/x-shockwave-flash" allowfullscreen="true" 
+    		width="425" height="344"></embed>
+    </object>
+    
+    <br clear="all" />
+
+    <h2>Fuselage</h2>
+    <img src="../../images/dr1Fuselage.jpg" width="550"
+    height="553" hspace="10" vspace="10"
+    alt="Fokker Dr.I fuselage" /> 
+
+    <p>The fuselage is of welded steel tubing, a construction
+    technique extensively used by Anthony Fokker. This method of
+    building aircraft fuselages is lighter, stronger, and safer
+    than the wood frames used by Fokker's contemporaries.</p>
+    <br clear="all" />
+     
+
+    <h2>Wings</h2>
+
+    <p>
+    <img align="right" src="../../images/dr1Wings.jpg"
+    width="550" height="298" vspace="10" hspace="10"
+    alt="Dr.I wing stack" />
+    Although the fuselage is steel, the
+    wings were made of wood. Here again, though, Fokker was ahead
+    of his contemporaries in that the wings required much less
+    external bracing than other aircraft of the day. This picture
+    shows the three wings stacked on top of each other. You can see
+    the very wide box spar that allowed the wings to have no
+    external wire bracing.</p>
+    <br clear="all" />
+     
+
+    <h2>Engine</h2>
+    <img src="../../images/leRhone.jpg" width="550" height="378"
+    vspace="10" hspace="10" alt="LeRhone rotary engine" /> 
+
+    <p>PFM has an 80-hp LeRhone engine for this triplane, so it
+    will be powered by an engine very similar to the original.</p>
+
+    <h2>More Information</h2>
+
+    <h2><a href="updates/index.shtml">Project History</a></h2>
+    
+    <p>The <a
+    href="http://fokkerdr1.freehosting.net/">Fokker Dr.I
+    website</a> has some good information about the triplane.</p>
+    
+    <p>Some <a href="details.shtml">detail photos</a> of the PFM Fokker Dr.I</p>
+
+</div>
+
+<!--#include virtual="/index_files/footerInvalid.html" -->
+
+</body>
+</html>

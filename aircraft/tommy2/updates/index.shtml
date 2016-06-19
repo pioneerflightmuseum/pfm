@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+	<h1>Thomas-Morse S-4C Scout Project Updates</h1>
+	<h2>Latest Update</h2>
+
+	<a href="041016.shtml">October 16, 2004</a>
+
+<!--	<h2>Earlier Updates</h2>
+
+	<a href="040810.html">August 10, 2004</a> <br />
+	<a href="040801.html">August 1, 2004</a> <br />
+-->
+	<br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

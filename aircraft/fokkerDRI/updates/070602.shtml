@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>June 2, 2007 Project Update</h1>
+
+		<img align="left" src="../../../images/fokkerDRI/20070602Struts.jpg" 
+		width="450" height="600" hspace="10" vspace="10" 
+		alt="Finished interplane struts" />
+		
+		<p>We enjoyed a fairly large turnout last Saturday.  Bill
+			Broussard, Roger Ritter, Ron Marcotte, myself, Bill
+			Walsh &amp; his son Will, and Mike McCormick showed up
+			along with 3 new guys, Don Gaylord, Isaac (sorry, didn't 
+			get a last name), and Al Sumrall.
+		</p>
+
+		<p>Don, Al and Tom completed the interplane strut
+			installation.  All struts are bolted in, properly
+			spaced and safety wired.
+		</p>
+
+		<p>Mike McCormick completed the wooden portions of the
+			wingtip skids.  Roger fired up the laser cutter to cut
+			the mounts.
+		</p>
+		
+		<br clear="all" />
+
+		<img align="right" src="../../../images/fokkerDRI/20070602Grip.jpg" 
+		width="600" height="450" hspace="10" vspace="10" 
+		alt="control column grip" />
+
+		<p>Isaac and Ron worked on the control column top with
+			some assistance from Roger.  Parts were finally welded
+			together, including the short tubes that catch the gun
+			trigger cables.
+		</p>
+		
+		<p>In addition, we may begin dividing the work group when
+			we have large turnouts.  There isn't a lot of general
+			work remaining to be done on the triplane, some of the
+			remaining tasks are somewhat specialized.  So, if we
+			have large turn-outs in the future, we may ask some of
+			the people to work on alternate projects.  First up
+			would be stripping Tommy #1.  Once that airframe is
+			stripped, cleaned and repaired, we'll have three
+			airframes that can start being covered; Tommy #1,
+			Tommy #2, and the Rearwin Ken-Royce.  Once the
+			triplane is completed, the engine installation process
+			can begin on the museum's Fokker D.VII, though we'll
+			continue to work the covering and completion of the
+			two Tommys and the Rearwin Ken-Royce in parallel.
+		</p>
+		
+	 <br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>31 December 2002 - Bristol F.2b Project Update</h1>
+
+    <img align="right" src="../../../images/bristolF2/021231Jig.jpg"
+    width="550" height="280" hspace="10" vspace="10"
+    alt="Fuselage side installed in jig" />
+
+    <p>The Bristol project continues apace.  All of the fuselage sides have been completed,
+    and now it's time to put them together.  We've set up a jig table, and will be setting up
+    the sides on it so we can assemble them to each other, with the crosspieces.
+    </p>
+
+    <br clear="all" />
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

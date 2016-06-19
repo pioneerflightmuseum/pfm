@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+
+    <img align="left" src="../../../images/bristolF2/020427Disassembly.jpg"
+    width="153" height="400" hspace="10" vspace="10"
+    alt="Bristol fuselage on its side with rear bays removed" />
+
+    <p>Work has begun on the first Bristol reproduction's fuselage.  The
+    first step is to disassemble it completely, so that the fittings can
+    be cleaned and evaluated for re-use, and the wood can be replaced.
+    This process has begun, starting at the tail of the airplane.  This
+    picture shows the rear of the fuselage with the tailpost and next-forward
+    bay removed.  Note that the fuselage is on its side - the Bristol
+    fuselage ended in a horizontal knife-edge.  Laying on the floor beneath
+    the fuselage are the fairing strips that wrap around the outer corners of the
+    longerons, along with a lot of scrap wood resulting from the disassembly
+    process.  Properly glued joints just don't give up easily!
+    </p>
+
+    <br clear="all" />
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>June 19, 2005 Project Update</h1>
+		    
+		<p>Two weeks ago we had an unofficial work day when  Keith Schill and Rudy
+		Decker helped finish up a tough job that many of Team Fokker's volunteers
+		had a hand in.  They finished up the combination fuel/oil tank and Prosealed
+		it.  This has been a blocking point for much of the remaining fuselage work,
+		so now that can be finished up.
+		</p>
+		
+		<br clear="all" />
+		<img align="left" src="../../../images/fokkerDRI/20050619Turnover.jpg" 
+		width="360" height="270" hspace="10" vspace="10" 
+		alt="Turning the rotary over to work on the mount" />
+
+		<p>The newly rebuilt LeRhone rotary engine has arrived, and we had the thrill
+		of opening up the box and taking it out.  It had to be flipped over so we
+		could get to the crankshaft.  Tom Gaylord, Greg Solberg, Jim Borzansky, Dick Schenk,
+		and Terry Bledsoe worked diligently on fitting the fuel tank and engine to
+		the fuselage.  Ron Marcotte continued working on the ammo chutes - fast becoming
+		something of a specialty of his!
+		</p>
+
+		<img align="right" src="../../../images/fokkerDRI/20050619Mounted.jpg" 
+		width="360" height="294" hspace="10" vspace="10" 
+		alt="LeRhone mounted on the fuselage" />
+		
+				
+    <br clear="all" />
+      
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

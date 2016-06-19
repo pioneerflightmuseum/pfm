@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1 align="center">Fall Picnic</h1>
+    <h2 align="center">November 22, 2003</h2>
+    
+	 <img align="right" src="../../images/picnic11_22_2003/parking.jpg"
+      hspace="10" vspace="10" width="600" height="255"
+      alt="Aircraft parking" />
+    
+    <p>This year's Fall Picnic and Fly-in was a low-key affair.  Although it
+    was a gorgeous, warm day the blustery winds kept the aircraft population
+    low, with only a dozen or so planes flying in.  The winds also kept the
+    Museum fleet grounded, although the Meyers did do a brief flight.  John
+    Goble, the pilot, reported that conditions were extremely rough and he'd
+    cut the flight short because of the turbulence.</p>
+    
+    <img align="left" src="../../images/picnic11_22_2003/meyers.jpg"
+    	hspace="10" vspace="10" width="600" height="374"
+    	alt="Meyers taxiing" />
+    	
+    <br clear="all" />
+    	
+    <p>Team Fokker was present, applying the final touches to the D.VII's
+    skull markings.  The airplane survived its jaunt to California for a
+    movie role, and with the movie paint stripped off our artists were able
+    to add the shadows and details to the skull.  In some cases, it could almost
+    be considered a self-portrait!</p>
+    
+    <img align="left" src="../../images/picnic11_22_2003/skull1.jpg"
+    	hspace="10" vspace="10" width="400" height="297"
+    	alt="Painting the skull" />
+    	
+    <img align="right" src="../../images/picnic11_22_2003/skull2.jpg"
+    	hspace="10" vspace="10" width="300" height="234"
+    	alt="The finished skull" />
+    	
+    <br clear="all" />
+    	
+    <p>We were also favored by the presence of some vintage automobiles,
+    who parked near the entrance to the flying field.  These beautiful
+    restorations are always popular, and we appreciate their owners
+    taking the time to put them on display.</p>
+    
+    <img align="right" src="../../images/picnic11_22_2003/cars.jpg"
+    	hspace="10" vspace="10" width="500" height="200"
+    	alt="Vintage cars" />
+    
+    <p>Although it was a low-key event, it was a success.  Those who couldn't
+    fly in drove, and the hangars were open so people could pet the Museum's 
+    airplanes and vehicles.</p>
+    	    	
+	 <br clear="all" />
+    	
+    <hr />
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

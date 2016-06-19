@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1 align="center">Fall Fly-in and Picnic</h1>
+
+    <h2 align="center">October 20, 2001</h2>
+
+    <p>Our Fall Fly-in and Picnic was held on October 20, 2001. Ron
+    Hozza did a fine job organizing all of the details, and the
+    weather was great. About 32 planes of all types flew in and
+    parked on the field. This aerial shot shows the aircraft
+    parking area with about half the total number of airplanes that
+    eventually made it to the picnic.</p>
+    <img src="../../images/picnic10_20_2001/picnicAir.jpg"
+    width="550" height="258" alt="Aerial view of fly-in" /> 
+
+    <p>Bill Shoup and many other PFM volunteers were there early
+    to set up the grills, tables, and tent to shelter the food and
+    souvenir sales.<br />
+    <br />
+     <img src="../../images/picnic10_20_2001/foodTent.jpg"
+    width="550" height="452" alt="The food tent" /></p>
+
+    <p>The food tent got very popular around noon, for some
+    reason!<br />
+    <br />
+     <img src="../../images/picnic10_20_2001/foodCrowd.jpg"
+    width="549" height="303" alt="People at the food tent" /></p>
+
+    <p>The Museum's equipment was out and on display. Here, the <a
+    href="../../vehicles/quad.shtml">1918 Nash Quad</a> four-wheel
+    drive truck drives in front of a hangar.<br />
+    <br />
+     <img src="../../images/picnic10_20_2001/quad4Hangar.jpg"
+    width="388" height="310" alt="Nash Quad" /></p>
+
+    <p>The flyable airplanes were also out hopping rides. The <a
+    href="../../aircraft/meyers.shtml">Meyers</a> is always a hit,
+    and nothing beats an open-cockpit ride on a warm day! Roger
+    Freeman took several people for rides during the picnic.<br />
+    <br />
+     <img src="../../images/meyersTaxi.jpg" width="549"
+    height="281" alt="Meyers taxiing" /></p>
+
+    <p>A grand time was had by all!</p>
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>4 October 2002 - Bristol F.2b Project Update</h1>
+
+    <img align="right" src="../../../images/bristolF2/021004Frame.jpg"
+    width="550" height="333" hspace="10" vspace="10"
+    alt="Jig table with Bristol fuselage side frame laid out" />
+
+    <p>This picture shows one side frame cut out and fitted together on the layout
+    table.  The steel fittings that connect all of the wood pieces are being installed,
+    along with the minor structural members.
+    </p>
+
+    <br clear="all" />
+    <img align="left" src="../../../images/bristolF2/021004Closeup.jpg"
+    width="550" height="322" hspace="10" vspace="10"
+    alt="Closeup of fittings installation" />
+
+    <p>This closeup shows how the steel fittings are installed on the underlying
+    wood structure.  Holes in the jig table allow the fitting to lay flat on the side
+    structure so it can be fitted properly.  Note how the wood beneath the fittings
+    has been varnished, but the full length hasn't - this is to allow for fairing strips
+    and other pieces to be glued on to the wood later.  Varnishing the whole piece
+    of wood would just require the varnish to be stripped later.
+    </p>
+
+    <br clear="all" />
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

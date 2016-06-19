@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>Curtiss Canuck</h1>
+
+    <h2><a href="updates/index.shtml">Project History</a></h2>
+
+	 <h2>Awards</h2>
+	 <h3>Grand Champion Antique - Southwest Regional Fly-in, 2004</h3>
+	 
+    <p><img align="right" src="../../images/canuck/canuckFlies.jpg"
+    width="600" height="315" vspace="10" hspace="10"
+    alt="Canuck flying" /></p>
+
+    <p>The Curtiss Canuck was a variant of the Curtiss Jenny that
+    was built in Canada. The Canadian JN-4 evolved from the JN-3, but
+    did so independently of the Curtiss-built JN-4.  The two
+    versions are still quite similar.  The major visible differences are the 
+    shape of the rudder, which is more rounded on the Canuck, and the installation
+    of ailerons on both the top and bottom wings. The PFM Canuck
+    is a model JN-4(Can), number C.308.</p>
+    
+    <p>Mr. F. G. Ericson, Chief Engineer of Canadian Aeroplanes, Ltd.,
+    designed the changes for the Canuck, and it first flew in January of 1917.
+    The actual number built is not known, but about 1260 were delivered as
+    Canadian JN-4 aeroplanes.  A further 87 JN-4A models were also built, so
+    total production was about 1347.  The U.S. Army purchased about 680 from
+    this production run, designating them JN-4(Can) to distinguish them from
+    Curtiss-built JN-4s.  Our Canuck, C.308, was one of these machines.</p>
+    
+    <p>The U.S. Army flew the Canuck extensively in Texas, training pilots for
+    both the American and Canadian armies.  By mid-1918, the Canucks were being
+    phased out, and in early 1919 a large number were sold to the Curtiss Aeroplane
+    and Motor Corporation for resale.  Many of these Canucks ended up as barnstormers
+    in the early 1920s.  The Museum has painted our Canuck to represent a typical
+    barnstorming aircraft of this period.</p>
+    
+	 <div class="specifications">
+		<h3>Curtiss JN-4C Canuck</h3>
+    <pre>
+    Wingspan:  43 ft. 7-3/8 inches (upper)
+               34 ft. 8-5/16 inches (lower)
+    Length:    27 ft. 2-1/2 inches
+    Height:    9 ft. 11 inches
+    
+    Seats: 2, tandem
+    
+    Empty weight:  1352 lbs.
+    Gross weight:  1876 lbs.
+    
+    Engine:  Curtiss OX-5, 90 h.p. at 1400 RPM
+    
+    Performance:
+        Landing speed:  45 mph
+        Maximum speed:  75 mph
+        Cruise speed:   60 mph
+        
+    </pre>
+
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

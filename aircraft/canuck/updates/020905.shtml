@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>Canuck Update - 5 September 2002</h1>
+
+    <img align="right" src="../../../images/canuck/020905Painted.jpg"
+    width="550" height="350" hspace="10" vspace="10"
+    alt="Fuselage covered and painted" />
+
+    <p>Although work has slowed down a bit, it hasn't stopped.  Vern Hatch has
+    been working on the Canuck, and his progress is obvious!  It's now painted
+    except for the logo (we're going to make it look like a barnstormer's airplane
+    from the 1930s), and pretty much ready for final assembly.  The only major
+    piece missing is the engine.  We have a Curtiss OX-5 slated for this plane,
+    we just have to find the time to rebuild it!  Once that's done, first flight should
+    follow quickly.
+    </p>
+
+    <br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

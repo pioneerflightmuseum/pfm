@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>January 12, 2008 Project Update</h1>
+		
+		<img align="right" src="../../../images/fokkerDRI/20080112Wheel.jpg" 
+		width="600" height="450" hspace="10" vspace="10" 
+		alt="Wheel after painting" />
+		
+		<p>Several volunteers worked to return the Fokker
+			triplane to flight test status. The port wheel/tire
+			was removed and the air valve cut-out reinforcing
+			patch was reglued on. The unit was given several
+			coats of dope, was sanded smooth, and the cover shrunk
+			a bit to re-tighten it then the whole wheel cover was
+			repainted black. Mike McCormick did much of this
+			work.
+		</p>
+		
+		<p>Mike Price worked on the tail skid, removing the skid
+			itself and repairing the crack in the wood. Mike
+			McCormick took a pattern and a few measurements to
+			make a couple more skids since it appears we may need
+			a stock of spares for this airplane!
+		</p>
+		
+		<br clear="all" />
+
+		<img align="left" src="../../../images/fokkerDRI/20080112TailSkidGuide.jpg" 
+		width="600" height="450" hspace="10" vspace="10" 
+		alt="Tailskid guide plate" />
+				
+		<p>The skid guide plate was verified for fit and the
+			various guides were cut from "L" stock aluminum,
+			drilled for riveting. The skid guides themselves were
+			riveted in place and the longeron guides were drilled
+			and primed. Clamps were procured and the mounting
+			methodology confirmed. Parts were set aside for the
+			next work day.
+		</p>
+		
+	 <br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

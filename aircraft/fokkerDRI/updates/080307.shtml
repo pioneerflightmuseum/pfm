@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>March 7, 2008 Project Update</h1>
+		
+		<img align="right" src="../../../images/fokkerDRI/20080307Start.jpg" 
+		width="600" height="438" hspace="10" vspace="10" 
+		alt="Starting the Triplane" />
+		
+		<p>WOW! What a day at Old Kingsbury Aerodrome. We had an excellent
+			turnout of volunteers and all went to work on our various projects.
+			The triplane has been very close to flying for several weeks, but
+			today we finally finished the list of things to do that we made up
+			after the last taxi test. We rearranged the throttle and mixture
+			controls so as to increase the friction on both control arms. They
+			now hold their settings even with engine vibration. The fancy wooden
+			stick grip and blip switch was discarded in favor of a straight piece
+			of tubing with the blip switch inserted in the top. This allowed much
+			more up elevator movement--something that could be critical in
+			landing. The piece that broke off of the tail skid during the first
+			taxi test was reattached using epoxy and a large screw. In addition
+			the metal shoe on the skid was rebolted, but shifted slightly to
+			minimize any landing stresses.
+		</p>
+		
+		<p>When we were finally ready for the taxi test, we had to use a hacksaw
+			to separate the plane from the taxi dolly! Roger gave the plane an
+			unusually complete preflight for a taxi test. That should have been a
+			clue. Ted readied the engine, propped it and got it to fire on the
+			second try. Quite a change from earlier times. The engine was really
+			running strongly so Roger commenced the first "taxi test" into a
+			slight crosswind. The tail came up in one plane length and tracked
+			beautifully. Everything happen so fast. It was airborne and climbing
+			strongly before it passed the windsock without any urging from Roger!
+			It just wanted to fly.
+		</p>
+		
+		<br clear="all" />
+
+		<img align="left" src="../../../images/fokkerDRI/20080307Flight.jpg" 
+		width="600" height="428" hspace="10" vspace="10" 
+		alt="The Triplane in flight" />
+				
+		<p>After some testing and figure eights we expected an inspection pass
+			down the field, but instead he brought it straight in for the one
+			thing we all dreaded the most--the landing. The landing was a thing
+			of beauty. Straight and steady with a little rudder dance, but not
+			even a speck of dirt on the wing skids. Roger sat in the cockpit
+			savoring the moment for quite a while--or maybe his just legs weren't
+			working yet.
+		</p>
+		
+		<br clear="all" />
+		
+		<p>Here's the video:</p>
+		
+		<object width="425" height="355">
+			<param name="movie" value="http://www.youtube.com/v/5gwcl9jgG6M"></param>
+			<param name="wmode" value="transparent"></param>
+			<embed src="http://www.youtube.com/v/5gwcl9jgG6M" 
+				type="application/x-shockwave-flash" 
+				wmode="transparent" width="425" height="355"></embed>
+		</object>
+		
+	 <br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footerInvalid.html" -->
+
+</body>
+</html>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>Homebuilt Pietenpol Sky Scout</h1>
+
+    <p><img align="right" hspace="10" vspace="20"
+    src="../images/skyScout1.jpg" width="550" height="305"
+    alt="Pietenpol Sky Scout" /></p>
+
+    <p>The Sky Scout was a small, single-place airplane designed in
+    the 1920s by Bernie Pietenpol. Intended for home construction
+    from readily-available materials, it was built of wood and
+    fabric and used a Ford Model T or Model A engine for power.
+    Very few were built as it was overshadowed by the two-place
+    Pietenpol Air Camper. Pietenpol's designs remain popular today
+    among people looking for inexpensive ways to fly.</p>
+
+    <h2>Additional Information</h2>
+
+    <p>For more information about Pietenpol aircraft, check out the
+    <a href="http://www.pressenter.com/~apietenp/">Pietenpol</a>
+    site.  The
+    <a href="http://www.pietenpols.org">Brodhead Pietenpol Association</a>
+    type club is worth joining if you really want to learn more about Piets.
+    </p>
+
+    <br clear="all" />
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

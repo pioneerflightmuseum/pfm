@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+   
+	<h2 align="center">Fall Fly-In</h2>
+    
+	<h3 align="center">November 8, 2008</h3>
+	
+	<h3 align="center">Reported by Roger Ritter</h3>
+	
+	<h3 align="center"></h3>
+	
+	<img src="../../images/picnic_11_08_2008/pfmLineup.jpg" align="right"
+      hspace="10" vspace="10" width="600" height="227"
+      alt="Museum aircraft lined up for the fly-in" />
+
+	<p>The weather was just about perfect for this year's Fall Fly-In and Picnic.
+		Mild temperatures, plenty of sun, and not too much wind made for great
+		flying weather for our old and not-so-old airplanes.  We pulled them all out
+		onto the grass in front of the hangars for display, while leaving enough
+		room to move them out for demo flights.
+	</p>
+	
+	<br clear="all" />
+	
+	<img src="../../images/picnic_11_08_2008/driTaxi.jpg" align="left"
+      hspace="10" vspace="10" width="600" height="407"
+      alt="Fokker Dr.I taxiing out for flight" />
+
+	<p>Thanks to a great deal of hard work by the Pioneer Flight Museum volunteers,
+		we were able to fly the Fokker Dr.I triplane, the Curtiss Canuck, the
+		Piper J-3 Cub, and the Meyers OTW.  In addition, fly-in guests kept the
+		flight line and runway hopping with all sorts of aircraft.
+	</p>	
+	
+	<br clear="all" />
+	
+	<img src="../../images/picnic_11_08_2008/gatoGrande.jpg" align="right"
+      hspace="10" vspace="10" width="600" height="450"
+      alt="El Gato Grande" />
+
+	<p>We also saw a nice turnout from various car clubs, who brought a nice
+		selection of custom cars and projects.  These included a reproduction
+		California desert racer, and a couple of rat rods that put on impromptu
+		drag races down the runway.
+	</p>	
+	
+	<br clear="all" />
+	
+	<img src="../../images/picnic_11_08_2008/modelT.jpg" align="left"
+      hspace="10" vspace="10" width="600" height="450"
+      alt="Model T and re-enactors" />
+
+	<p>Again thanks to the hard work of our volunteers, several of our Model Ts
+		were out and about.  The wrecker, Signal Corps truck, and TT stakebed truck
+		were all running, giving rides and providing transportation for
+		volunteers and workers.  The Signal Corps truck also got used by 
+		re-enactors to put on a skit dating from the Mexican Punitive
+		Expedition in the early 20th century.
+	</p>
+	
+	<p>All in all, it was a great day to have a fly-in, and we had a lot of fun!</p>
+	    
+	<br clear="all" /></div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

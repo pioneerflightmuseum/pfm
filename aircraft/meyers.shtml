@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>1941 Meyers OTW</h1>
+
+    <p><img align="left" hspace="10" vspace="20"
+    src="../images/meyers1.jpg" width="550" height="295"
+    alt="Meyers Front Quarter View" /></p>
+
+    <p>The Meyers OTW series of aircraft were designed as primary
+    trainers in the late 1930s by Allen H. Meyers. These two-place,
+    tandem-seat biplanes were of all-metal construction (except for
+    the fabric covering on the wings), and powered by radial
+    engines of from 125 to 160 horsepower.</p>
+    <br clear="all" />
+
+    <p align="center"><img hspace="10" vspace="20"
+    src="../images/meyersStart.jpg" width="550" height="360"
+    alt="Meyers Engine Start" /></p>
+    <br />
+
+    <p>Production of the Meyers OTW ("Out To Win") ran from 1939 to
+    1942, when the aluminum needed was diverted to higher-priority
+    war projects. Only about 100 OTWs were produced during this
+    four-year period.</p>
+
+    <p><img hspace="10" vspace="20" src="../images/meyersTaxi.jpg"
+    width="549" height="281" alt="Meyers Taxiing" /></p>
+
+    <p>The Museum's Meyers is serial number 53, registered N34310,
+    a 1941 model with a 160-hp Kinner radial engine. It has a maximum
+    speed of 120 mph, and cruises
+    about 90. One item of note is that no Airworthiness Directives
+    have ever been issued against the Meyers airframe, testifying
+    to its robust design and construction. About 60 OTWs still
+    survive, which is remarkable considering how few were
+    built.</p>
+
+    <p><img hspace="10" vspace="20"
+    src="../images/meyersTakeOff.jpg" width="454" height="348"
+    alt="Meyers taking off" /></p>
+
+    <p>The long-stroke oleo struts on the main landing gear are
+    particularly well-suited to flying off of turf airstrips, since
+    they soak up the bumps very nicely. In the air the Meyers
+    handles quite nicely, and is an especially good airplane for
+    Walter Mitty-ish thoughts since the Kinner radial actually goes
+    "pocketa-pocketa-pocketa" when running!</p>
+
+    <p align="center"><img hspace="10" vspace="20"
+    src="../images/meyersPass.jpg" width="504" height="362"
+    alt="The Meyers making a low pass over the runway" /></p>
+
+    <h2>Additional Information</h2>
+
+    <p>For more information about the Meyers OTW, check out the <a
+    href="http://www.warbirdalley.com/otw.htm">Warbird Alley Meyers
+    OTW</a> page.  A brief biography of <a
+    href="http://www.meyersfoundation.org/public/history/history.php">Allen
+    Meyers</a> is available in PDF format. There is even a <a
+    href="http://www.meyersaircraft.com/Meyers%20History.html">Meyers
+    Aircraft Company</a> website with a history of both Meyers and
+    his aircraft.</p>
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

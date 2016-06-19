@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1 align="center">Krueger Middle School Rocket Launch</h1>
+
+    <h2 align="center">Saturday, May 11, 2002</h2>
+
+    <p>The Krueger Middle School Science and Advanced Technology
+    program held a rocket launch day on Saturday, May 11. The students
+    competed with 3-foot scale models of German V-2 rockets, using
+    I-class engines for power.  High winds unfortunately kept the
+    smaller rockets from launching and put a bit of a damper on
+    events, but the students persevered.  As this picture shows,
+    even the larger V-2s were affected by the winds.  Still, between
+    the V-2 launchess and the NASA Math Challenge program, the day was
+    kept full.</p>
+
+    <img align="left" src="../../images/news/0205Prep.jpg" hspace="10"
+    vspace="10" width="150" height="102"
+    alt="Rocket being prepared for flight" />
+
+    <p> A good crowd turned out for the launch, and quite a few teams
+    were able to compete.  The rocket prep table kept busy, and many of
+    the rockets carried an electronic payload of various types.  Some
+    of these payloads included data or video downlinks, allowing a
+    video recorder or computer on the ground to receive information from
+    the rocket during the flight.</p>
+
+    <br clear="all" />
+
+    <img align="left" src="../../images/news/0205Load.jpg" hspace="10"
+    vspace="10" width="300" height="188"
+    alt="Loading the motor" />
+
+    <p>As the final step before flight, each team took their rocket to
+    the motor load station to get a flight motor installed.  These I-class
+    rocket motors are fairly powerful, and strict safety precautions
+    are followed to insure that no accidents happen.  These engines
+    performed well, but were powerful enough that hot exhaust residue
+    started a couple of small grass fires during the course of the day.
+    The teams were prepared for this, and each fire was quickly
+    extinguished with the fire extinguishers kept handy for just such
+    an occurance.</p>
+
+    <br clear="all" />
+
+    <img align="left" src="../../images/news/0205Team.jpg" hspace="10"
+    vspace="10" width="200" height="132"
+    alt="Launch team entering launch area" />
+
+    <img align="right" src="../../images/news/0205Launch.jpg" hspace="10"
+    vspace="10" width="275" height="503"
+    alt="V2 launch on a windy day" />
+
+    <p>Each team took their rocket out to the launch field in turn, with
+    everyone having their own part to play.  Some of the team members went
+    to the tracking stations to assist in tracking their flights.  Others
+    placed the rocket on the launch pad, and the team captain took charge
+    of the launch control station.</p>
+
+    <br clear="left" />
+
+    <img align="left" src="../../images/news/0205Control.jpg" hspace="10"
+    vspace="10" width="250" height="210"
+    alt="Launch team at launch control station" />
+
+    <p>Once the rocket was in place on the launch pad, the team gathered
+    at the launch control station.  The team captain introduced the team
+    members, and began the launch process.  First, a check with the
+    weather team, and a broadcast over the PA system of the current
+    weather conditions and the details of the launch site position (latitude,
+    longitude, and altitude).  Next came a check-in from each of the tracking
+    stations.  Once everyone was ready, the team captain would give a brief
+    countdown and press the launch switch.  The rockets launched with a
+    surprisingly loud noise, weathercocking into the stiff wind as they
+    left the launch pad.</p>
+
+    <p>Once the rocket launched, its flight was tracked and monitored.  The
+    tracking stations reported back the azimuth and elevation numbers for
+    the flight, and the recovery team watched the direction of the descent
+    so they could head out in the right direction to gather up the rocket
+    once it landed.  After a successful flight, the tracking information
+    was used to calculate the rocket's actual performance for comparison with
+    the predicted performance calculated before the flight.</p>
+
+    <br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>April 26, 2003 Project Update</h1>
+
+    <img src="../../../images/fokkerDVII/030426Tank.jpg" align="left"     
+        width="600" height="432" hspace="10" vspace="10" 
+        alt="Assembling the fuel tank" />
+
+		<p>This past weekend work concentrated on manufacturing a new floorboard to
+		accomodate the modified placement of flight controls.  This was done to make 
+		the cockpit more comfortable for us men of more "manly" stature than the young men
+		of old.  Construction of the board was finished by Saturday evening but
+		sanding for a final finish and application of stain and varnish will be done in 
+		Houston.  Tom Gaylord and Gary Marsden struggled with the new fuel tank most of
+		Saturday.</p>
+		
+		<p>After Roger was convinced to cut the baffle holes in the corners of the
+		baffle rather than on the sides things began to fall into place.  By Sunday
+		afternoon, with the help of Wayne Jones and Roger,  the baffle and tank sides 
+		were all Cleco-clamped into place.  Holes were then drilled into appropriate 
+		places for tank drainage, filling, and the fuel gauge.  The next step will 
+		require the application of a sealant and then riveting everything into place.</p>
+		
+    <br clear="all" />
+      
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

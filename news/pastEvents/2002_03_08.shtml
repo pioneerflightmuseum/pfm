@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1 align="center">Tri-City Fliers Model Helicopter Meet</h1>
+
+    <h2 align="center">March 8 - 10, 2002</h2>
+    <img align="right" src="../../images/goodiesTable.jpg" hspace="10"
+    vspace="10" width="550" height="389" alt="Goodies Table" />
+
+    <p>The Tri-City Fliers' Model Helicopter meet was held as
+    planned, but Mother Nature was not kind. High winds on Saturday
+    kept most of the models on the ground, which slowed the contest
+    quite a bit. Equally unfortunately, that was the only day that
+    I was able to attend the meet, so I don't have much to report.
+    Perhaps I'll get more information from one of the contestants
+    later. Till then, here are a couple of pictures from the event
+    - the goodies table and a couple of contestant's
+    helicopters.</p>
+    <br clear="all" />
+
+
+    <center>
+      <img src="../../images/helos.jpg" width="750" height="367"
+      hspace="4" vspace="10" alt="Model Helicopters" />
+    </center>
+
+    <br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

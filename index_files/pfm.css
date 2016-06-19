@@ -1,0 +1,188 @@
+/*
+  Stylesheet file for PFM web pages.
+  Copyright © 2008 Pioneer Flight Museum
+*/
+/*  set link colors for the document */
+a:link {
+  color: blue;
+  background: #b0e0e6; /* powderblue */
+}
+a:visited {
+  color: purple;
+  background: #b0e0e6; /* powderblue */
+}
+a:active {
+  color: yellow;
+  background: #b0e0e6; /* powderblue */
+}
+
+/* Set link colors for the header/footer */
+a.ha:link{
+	color: white;
+	background: #00008b; /* darkblue */
+	text-decoration: none;
+}
+
+a.ha:visited{
+	color: #b0e0e6;
+	background: #00008b; /* darkblue */
+	text-decoration: none;
+}
+
+a.ha:active {
+	color: yellow;
+	background: #00008b; /* darkblue */
+	text-decoration: none;
+}
+
+/* Set link colors for the volunteer update box */
+a.vol:link{
+	color: blue;
+	background: aqua;
+	text-decoration: none;
+}
+
+a.vol:visited{
+	color: #00008b; /* darkblue */
+	background: aqua;
+	text-decoration: none;
+}
+
+a.vol:active {
+	color: yellow;
+	background: aqua;
+	text-decoration: none;
+}
+
+.volTable {
+	background: aqua;
+	padding: .1em;
+}
+h3 a:link {
+  color: blue;
+  background: #b0e0e6; /* powderblue */
+}
+h3 a:visited {
+  color: purple;
+  background: #b0e0e6; /* powderblue */
+}
+h3 a:active {
+  color: yellow;
+  background: #b0e0e6; /* powderblue */
+}
+
+.header{  color:        white;
+  background:   #00008b; /* darkblue */
+  padding: .1em;
+}
+
+.footer{  color:        white;
+  background:   #00008b; /* darkblue */
+  padding: .1em;
+}
+body{
+  color:        white;
+  background:   #00008b; /* darkblue */
+  font-size:      1em;
+  font-weight:    normal;
+  word-spacing:   normal;
+  letter-spacing: normal;
+  text-transform: none;
+  font-family: sans-serif;
+}
+.maintext{
+  color:        black;
+  background:   #b0e0e6; /* powderblue */
+  font-size:      1em;
+  font-weight:    normal;
+  word-spacing:   normal;
+  letter-spacing: normal;
+  text-transform: none;
+  font-family: sans-serif;
+  padding: .5em;
+}
+
+.actable{
+	margin: 1em;
+	height:	150px;
+	width:	300px;
+}
+
+p:first-letter{
+  font-size:  150%;
+  font-family: Times, Times, serif;
+  color:      gray;
+  background: #b0e0e6; /* powderblue */
+}
+p{
+  text-indent:  2em;
+}
+/* Format our logo/home link */
+.logo {
+  margin: .5em;
+  padding: .5ex;
+  border: 0px;
+}
+/* Set our navbar apart from the rest of the page */
+.navbar {
+  color: white;
+  background: #00008b; /* darkblue */
+  font-size:  100%;
+  font-family:  Times, Times, serif;
+  padding: .10em;
+}
+/* Set our navbar apart from the rest of the page */
+.linkbar {
+  color: white;
+  background: #00008b; /* darkblue */
+  font-size:  1.5em;
+  font-weight:    normal;
+  word-spacing:   normal;
+  letter-spacing: normal;
+  text-transform: none;
+  font-family: Times, Time, serif;
+  border-color: #b0e0e6; /* powderblue */
+}
+.alert {
+	color: red;
+}
+/* identify our contact information */
+.contact {
+  font-size: 1em;
+  font-family:  Arial, Helvetica, Verdana, sans-serif;
+}
+/* Specifications table */
+.specifications {
+  font-size: 90%;
+  background: #d3d3d3;
+  font-family:  Arial, Helvetica, Verdana, sans-serif;
+  margin: .5em;
+  padding: 1ex;
+  width:  25em;
+  border: double;
+}
+
+.spectitle {
+	margin: .5em;
+	width: 50%;
+	border: 1px;
+}
+
+.specdata {
+	margin: .5em;
+	border: 1px;
+}
+
+li.spec {
+	list-style-type: none;
+}
+.headline {
+	font-size: 300%;
+	color: red;
+	font-family: Arial, Helvetica, Verdana, sans-serif;
+	margin: .5em;
+	padding: 1ex;
+}
+h1, h2, h3, h4, h5, h6{
+  font-family: Times, Times, serif;
+}

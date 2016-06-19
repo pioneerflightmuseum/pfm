@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+
+    <img align="right" src="../../../images/fokkerDVII/020622Wayne.jpg"
+    width="550" height="410" hspace="10" vspace="10"
+    alt="Wayne Jones preparing the rudder for painting" />
+
+    <p>This is kind of a multi-week update, since we've had a couple of
+    work weeks since the last report.  On the weekend of June 22nd,
+    Bill Broussard, Wayne Jones, and Tom Gaylord were all available to
+    work on the D.VII.  They did some finish work on the tail surfaces,
+    especially working on the covering and painting of the fin and
+    rudder.  This picture shows Wayne Jones masking the hinges on the
+    rudder prior to painting it.
+    </p>
+
+    <p>The team also began working on the control column.  On June 29th,
+    Bill Broussard was able to return to Old Kingsbury Aerodrome to
+    continue working on the control column.  Plans for the next work
+    weekend are to finish the lower part of the column, including finishing
+    and welding the attach points for the ailerons and elevator.  Once those
+    are added, the control lines to the elevators can be run and the
+    penetration points of the upper and lower horizontal stabilizer
+    can be determined.  The wooden gap seal on the horizontal stabilizer
+    was also modified to correct some minor problems.  Once the control
+    lines are established, the elevator and horizontal stabilizer can
+    be covered.
+    </p>
+
+    <br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

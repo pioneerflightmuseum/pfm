@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+	<a id="pfm20120428" name="pfm20120428"></a>    
+	<h2 align="center">2012 AirFair</h2>    
+	<h3 align="center">April 28, 2012</h3>
+	<h3 align="center">by Roger Ritter</h3>
+	
+	<img src="../../images/AirFair2012/FlightLine.jpg" align="right"
+     hspace="10" vspace="10" width="600" height="400"
+     alt="A look down the flight line at AirFair 2012" />
+     
+	<p>The 2012 AirFair was held on April 28, 2012.  High winds and mechanical
+		problems kept most of our airplanes grounded, but we had a good turnout from
+		fly-in visitors.  Steve Freeman was also available to fly his PT-22.
+		Team Vehicles had a banner day with most of our ground vehicles in running 
+		trim.  One early problem was solved quickly when we replaced a flat tire
+		on the Ford Model TT truck.
+	</p>
+	
+	<p>In addition to our own aircraft and vehicles, we had volunteers, re-enactors,
+		and visitors attend in period costume.  The early 20th-century encampment was
+		a hit, and the people in period garb were in great demand for photos.  Another
+		popular exhibit was a table set up by one of our volunteers with an early radio and
+		an Edison wax-cylinder phonograph.
+	</p>
+
+	<br clear="all" />
+	<img src="../../images/AirFair2012/PT22.jpg" align="left"
+     hspace="10" vspace="10" width="500" height="333"
+     alt="Steve Freeman checking his PT-22" />
+	
+	<img src="../../images/AirFair2012/TireChange.jpg" align="right"
+     hspace="10" vspace="10" width="500" height="333"
+     alt="Ford Model TT tire change" />
+	
+	<br clear="all" />
+	<img src="../../images/AirFair2012/vehicles.jpg" align="left"
+     hspace="10" vspace="10" width="500" height="333"
+     alt="Museum vehicle lineup" />
+	
+	<img src="../../images/AirFair2012/encampment.jpg" align="right"
+     hspace="10" vspace="10" width="500" height="333"
+     alt="Ford Model TT tire change" />
+	
+	<br clear="all" />
+	<img src="../../images/AirFair2012/audio.jpg" align="left"
+     hspace="10" vspace="10" width="500" height="333"
+     alt="Museum vehicle lineup" />
+	
+	<img src="../../images/AirFair2012/periodGarb.jpg" align="right"
+     hspace="10" vspace="10" width="500" height="333"
+     alt="Ford Model TT tire change" />
+	
+	<br clear="all" />	
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

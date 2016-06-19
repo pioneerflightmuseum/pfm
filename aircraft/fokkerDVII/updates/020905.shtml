@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>September 5, 2002 Project Update</h1>
+    <p>
+        Team Fokker arrived at Old Kingsbury on Friday morning (8/30), although a
+        bit later than expected due to Bill Broussard throwing a tire tread a couple
+        of miles short of the exit for Kingsbury.  No major damage was done, and
+        Bill was able to make it in and start working on the Fokker.  He finished covering
+        the elevator and horizontal stabilizer, including rib tapes and rib stitching.
+    </p>
+
+    <p>
+        On Saturday, the rib stitching was completed, and Gary Marsden doped on the
+        fabric tapes to cover the stitching and reinforce strategic areas of the fabric.
+        Bill started cutting out metal to make the gun triggers for the control column.
+        Gary left Saturday afternoon, and Bill left on Sunday morning, leaving behind
+        the mostly-covered elevator and stabilizer.  All that remains to finish those
+        is to put on the final reinforcing tapes and finish coats of dope and paint.
+    </p>
+    <br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

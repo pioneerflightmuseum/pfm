@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>Bristol F.2 Project Updates</h1>
+<!--    <img src="../../../images/D7Colors.jpg"
+    width="550" height="442" hspace="10" vspace="10"
+    alt="Fokker D.VII Color 3-view" />
+
+    <br clear="all" />
+-->
+
+    <h2>Latest Update</h2>
+    <a href="040131.shtml">31 January 2004</a>
+
+    <h2>Earlier Updates</h2>
+    <a href="030414.shtml">14 April 2003</a> <br />
+    <a href="030112.shtml">12 January 2003</a> <br />
+    <a href="021231.shtml">31 December, 2002</a>  <br />
+    <a href="021025.shtml">25 October, 2002</a> <br />
+    <a href="021004.shtml">4 October, 2002</a>   <br />
+    <a href="020821.shtml">August 21, 2002</a>   <br />
+    <a href="020808.shtml">August 8, 2002</a>  <br />
+    <a href="020427.shtml">April 27, 2002</a><br />
+
+     <br clear="all" />
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

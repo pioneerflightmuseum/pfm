@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>Bristol F.2B Fighter</h1>
+
+    <center>
+      <img src="../../images/bristolF2/layout.jpg" width="600"
+      height="375" hspace="10" vspace="10"
+      alt="Bristol parts laid out on hangar floor" />
+    </center>
+
+    <em><a href="updates/index.shtml">Latest updates</a> </em>
+
+    <p>The Bristol F.2 was developed in response to a 1915 Royal
+    Flying Corps specification for a reconnaisance and artillery
+    spotter aircraft that would be capable of defending itself.
+    Frank Barnwell developed an initial design based on the 120-hp
+    Beardmore engine. This was soon replaced by a design using a
+    150-hp Hispano-Suiza engine. Both of these early designs were
+    biplanes featuring a fuselage mounted in the middle of the
+    inter-wing gap, a fixed forward-firing machine gun, and an
+    observer's position with a flexible machine gun. In addition,
+    they both placed the crew positions very close together, and
+    featured a fuselage that tapered to a horizontal knife-edge at
+    the rear.</p>
+
+    <img align="left"
+    src="../../images/bristolF2/fuselageQuarter.jpg" width="550"
+    height="420" hspace="10" vspace="10"
+    alt="Bristol fuselage rear quarter view" /> 
+
+    <p>When the 190-hp Rolls-Royce Falcon engine became available,
+    Barnwell re-designed the airplane, retaining only the features
+    noted above in the new design. Some of those can be seen in
+    this rear-quarter view (despite the clutter of other projects).
+    In the process, the mission was also changed to be that of a
+    fighter, rather than reconnaisance. This prototype became known
+    as the Bristol Fighter, designated the Bristol F.2, and
+    popularly known as the Brisfit.</p>
+
+    <p>Although the fighter had a very rocky start in combat (in
+    its first mission, 4 out of 6 fighters dispatched were shot
+    down) due to misguided attempts to use the flexible rear gun as
+    the primary armament, the Brisfit came in to its own when the
+    pilots started flying it as a fighter. The fixed forward-firing
+    Vickers gun was effective, and the observer's flexible Lewis
+    gun improved the rear defenses of the fighter sufficiently to
+    make it a tough opponent. By the end of the war, it was
+    recognized as one of the most effective fighters in its
+    class.</p>
+
+    <br clear="all" />
+    <img align="right" src="../../images/bristolF2/Hisso300.jpg"
+    width="280" height="204" hspace="10" vspace="10"
+    alt="Wright-built Hispano-Suiza 300-hp engine" /> 
+
+    <p>PFM has recently acquired two F.2B projects. One is an
+    original Bristol Fighter, manufactured under license by
+    Marshall and Sons. The other is a replica. We also have a
+    300-hp Hispano-Suiza (license-built by Wright) which we plan to
+    use to power one of the projects. This engine is one of several
+    that were used on the F.2 series when Rolls-Royce turned out to
+    be unable to produce enough Falcons to meet demand. The
+    Marshall &amp; Sons Bristols were scheduled to receive the
+    Sunbeam Arab engine, but the installation was designed to
+    accept the 300-hp Hisso as well. This was done because the Arab
+    was already known to have problems, and the plan was to replace
+    the Arab with the Hisso as soon as the Hisso became
+    available.</p>
+
+    <br clear="all" />
+    <img align="right" src="../../images/bristolF2/fuselageTop.jpg"
+    width="550" height="166" hspace="10" vspace="10"
+    alt="F.2B fuselage top view" /> 
+
+    <p>The history of these Bristols is somewhat interesting. After
+    World War I, a Mr. Bottington bought six F.2Bs from the British
+    government, and used the fuselages as the roof trusses for a
+    barn in the village of Weston-On-The-Green. (Yep, it's an odd
+    variant on the Jenny-in-a-barn story!) In the 1970s, somebody
+    noticed the barn's roof trusses, and bought the barn from the
+    farmer. Five of the Bristols went to the Northern Aeroplane
+    Preservation Society, and one went to Mr. Ed Brennan of
+    Ontario, Canada. This last is the one that PFM has acquired,
+    and Mr. Brennan is also the source of the replica that came
+    with it. We don't know what serial number this Bristol is, but
+    a historian in New Zealand is researching the history of the
+    six Bristols that Mr. Bottington bought. We may never know the
+    exact serial number of this aircraft, but with luck we can
+    identify the six Bristols that went into that barn. One other
+    point to note: Of the seven or eight original Bristol Fighters
+    known to exist, six came from that barn!</p>
+
+    <img align="left" src="../../images/bristolF2/hangingWings.jpg"
+    width="550" height="232" hspace="10" vspace="10"
+    alt="Bristol wings hanging on a wall" /> 
+
+    <p>Although the projects are fairly complete (including the
+    fuselages, wings, control surfaces, and other major parts),
+    much of the wood is unusable. As a result, the wings are to be
+    totally rebuilt, re-using only the hardware. Much of the steel
+    framework (tail and control surfaces, struts, etc.) can be
+    cleaned up and used in the restored aircraft. The engine will
+    be overhauled and hung on one of the planes, but we're looking
+    for a suitable engine for the other. Know where we can pick up
+    a Falcon III cheap?</p>
+
+    <br clear="all" />
+<!--
+    <h2>Additional Information</h2>
+
+    <p>The Aerodrome website has a brief history and <a
+    href="http://www.theaerodrome.com/aircraft/gbritain/bristol/f2b.html">
+    specifications</a> for the Bristol F.2B. The Fighter Collection
+    has a nice page showing the restoration of their <a
+    href="http://www.fighter-collection.com/brisfit">Bristol
+    F.2b</a>.</p>
+-->
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>September 15, 2007 Project Update</h1>
+		
+		<img align="right" src="../../../images/fokkerDRI/20070915Stencil.jpg" 
+		width="600" height="450" hspace="10" vspace="10" 
+		alt="Stenciling markings" />
+		
+		<p>Quite a few team members showed up for last Saturday's
+			work day!  Sanford Swope, Ted Dawson, Dick Schenck,
+			Mike McCormick, Derek Staha, Dave Miller, Ron
+			Marcotte, Al Sumrall, Carl Canga, Bill Walsh, and
+			Tom Gaylord were all present.
+		</p>
+
+		<p>Bill Walsh drummed up three volunteers to assist with
+			hangar cleanup.  Al Sumrall had been out on Thursday
+			and had started mowing and weed whacking and
+			volunteered for more on Saturday!  Dick Schenk also
+			volunteered and for the life of me I canot remember
+			the 4th man.  Sorry! The crew started cleaning out
+			debris from the old hanger, but spent much of their
+			day removing rust from window frames in preparation
+			for glass installation.  They managed to complete four
+			window frames.
+		</p>
+		
+		<p>Carl Canga and Derek Staha spent their day painting
+			stencils on the airframe.  Carl had made up the
+			stencils.  After some trial and error they got good
+			results.  Still a few stencils to go....
+		</p>
+
+		<br clear="all" />
+
+		<img align="left" src="../../../images/fokkerDRI/20070915Engine.jpg" 
+		width="600" height="450" hspace="10" vspace="10" 
+		alt="Engine out again" />
+
+		<p>Dave Miller, Ron Marcotte, and Tom Gaylord spent part of
+			the day attaching a metal strip to eliminate the gap
+			between the firewall and the engine cowl to ensure a
+			more secure attachment point for the engine cowl.  The
+			metal strip was half fabricated, so that job was
+			completed.  It was marked and drilled for riveting and
+			then riveted to the firewall.  The engine cowl was
+			test fit afterwards.
+		</p>
+		
+		<p>Roger several others looked at the engine cowl for
+			clearance again and decided to bump a tad more
+			clearance in the corners.  This was successfully done.
+		</p>
+		
+		<p>Sanford completed the triplane's windshield work,
+			attaching the plexiglas screen to the frame.  That top
+			fuselage cowl is now complete!
+		</p>
+		
+		<p>The day was topped off by removing the engine from the
+			aircraft so the fuel tank could be removed.  Both
+			tasks were completed... though this really felt like a
+			huge step backwards.  Roger will slosh sealant inside
+			the tank before the next workday and will troubleshoot
+			the rotary engine's non-firing issues.  Hopefully
+			everything will go back together next trip!
+		</p>
+		
+	 <br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

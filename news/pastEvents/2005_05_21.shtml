@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+        <h2 align="center">2005 AirFair</h2>
+    <h3 align="center">May 21, 2005</h3>
+    	 
+    <img src="../../images/pfm20050521/parking.jpg"
+      hspace="10" vspace="10" width="700" height="243"
+      alt="Aircraft parking" />
+      
+    <br clear="all" />
+    
+    <p>Time flies, and this year's AirFair proves that old adage.  We had a near-perfect
+    day for flying this year.  Clear and smooth, but hot.  The winds were light, and lots
+    of people decided that Old Kingsbury made a perfect day trip.  Over fifty aircraft
+    flew into the Aerodrome during the day, and lots of cars came through the gates.
+    </p>
+    
+    <img src="../../images/pfm20050521/canuck.jpg"
+      hspace="10" vspace="10" width="300" height="145"
+      align="left" alt="Canuck lifting off" />
+      
+    <img src="../../images/pfm20050521/n3n.jpg"
+      hspace="10" vspace="10" width="400" height="153"
+      align="right" alt="Stearman, N3N, and Luscombe" />
+      
+    <p>We were favored this year by multiple instances of several antique or classic
+    aircraft.  Four Stearman biplanes showed up, along with three Luscombe 8s, several
+    Aeroncas (both civil and military), a Stinson gullwing, a Navy N3N trainer, a
+    Fleet, and lots of others.  The Museum aircraft were present also, but the Thomas-Morse
+    Scout was down for recovering.  It didn't fly, but the Canuck and Bleriot did their
+    best to make up for the missing Tommy.  A borrowed Fleet joined the museum's Meyers OTW
+    and Luscombe 8A in doing lots of flying.</p>
+
+	 <br clear="all" />
+	     
+    <img src="../../images/pfm20050521/walkout.jpg"
+      hspace="10" vspace="10" width="600" height="293"
+      align="left" alt="Walking the Bleriot out" />
+      
+    <p>The highlight of the day's flights were the four passes Roger Freeman made in the
+    Bleriot XI.  This airplane has very poor flying qualities, so it's only flown on
+    calm days, and only for the length of the runway.  About noon, the winds died down
+    enough that it could be taken out.  Once the wingwalkers had it lined up at the end
+    of the runway, Roger opened the throttle and held on for the ride.  Four flights
+    later, and undamaged, we returned the Bleriot to the static display line.</p>
+    <img src="../../images/pfm20050521/flying.jpg"
+      hspace="10" vspace="10" width="700" height="382"
+      align="right" alt="Bleriot flying" />
+      
+    <br clear="all" />
+    
+    <img src="../../images/pfm20050521/border.jpg"
+      hspace="10" vspace="10" width="600" height="567"
+      align="right" alt="Border Period camp" />
+      
+    <p>Although AirFair gives us a chance to show off the Museum's exhibits, we are
+    also supported by other groups.  The 
+    <a href="http://hometown.aol.com/rsbrown3/index.html">Headquarters Company</a>,
+    a Border Period re-enactors group, came out and set
+    up a typical military camp of the 1910 time-frame.  They display period equipment
+    and outfits, showing people what the U.S. Army had to work with in the period
+    before World War I.</p>
+    <p>Another group we're happy to have helping us is Scout Troop
+    317 from Seguin.  They handle the car parking chores, and do an excellent job.
+    Since they also camp out on the grounds, they get a first-hand look at the
+    difference between their modern camping gear, and the military equipment of
+    100 years ago.</p>
+
+    <br clear="all" />
+    
+    <img src="../../images/pfm20050521/nash.jpg"
+      hspace="10" vspace="10" width="700" height="380"
+      align="left" alt="Border Period camp" />
+      
+    <p>In addition to our aircraft, the museum also has, and displays, various vehicles
+    from the World War I era.  This year, we had two Model T Fords and the Nash Quad
+    truck running around the grounds, with the Nash giving rides.  Not all of these
+    old machines have electric starters, so we have to use the classic Armstrong
+    starter to get them going.  That's not always as much fun as it looks, especially
+    in the Texas heat!</p>
+
+	 <br clear="all" />
+	 
+    <img src="../../images/pfm20050521/packards.jpg"
+      hspace="10" vspace="10" width="700" height="244"
+      align="right" alt="Classic cars" />
+      
+	 <p>Since the museum's collection is limited, we also invite local car clubs to
+	 join us for AirFair.  This year, we had nice turnouts from several:  The Lone Star
+	 Region of the 
+	 <a href="http://www.classiccarclub.org/">Classic Car Club of America</a>, 
+	 the Heart of Texas Packards, and the
+	 <a href="http://alamocitycorvair.org">Alamo City Corvair Association</a>.
+	 These folks brought some very nice cars to show,
+	 including three Packards, a Bentley, several Corvairs, a Studebaker, and many more.
+	 </p>
+    <img src="../../images/pfm20050521/studebaker.jpg"
+      hspace="10" vspace="10" width="700" height="257"
+      align="left" alt="Classic cars" />
+      
+    <br clear="all" />
+    
+    <p>Once again, it was a very succesful AirFair.  Lots of airplanes, lots of cars,
+    and lots of people made for a fun, if tiring, day.  Be sure to join us for our next
+    big event, the fly-in and picnic in the fall!</p>
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h2 align="center">AirFair</h2>
+    <h3 align="center">May 20, 2006</h3>
+    
+    <img src="../../images/airFair2006/canuck.jpg" align="right"
+      hspace="10" vspace="10" width="600" height="211"
+      alt="Canuck on flight line" />
+    
+    <p>This year's AirFair was a bit smaller than previous years.  We had a good
+    turnout of fly-in visitors, but many of the Museum's aircraft were down for
+    maintenance.  The Canuck, for example, needs a top-end overhaul.  That's being
+    done, but it meant that the Canuck was grounded for this weekend.</p>
+
+	 <br clear="all" />
+    <img src="../../images/airFair2006/LBirds.jpg" align="left"
+      hspace="10" vspace="10" width="600" height="227"
+      alt="L-Bird row" />
+    
+    <p>Even with the Museum's flyable fleet reduced, our visitors made up a nice show.
+    A 7/8-scale Nieuport 11 flew in, as did several classic taildraggers.  The L-bird
+    contingent made an appearance, as did a lovely old Fleet biplane. </p>
+
+    <img src="../../images/airFair2006/Fleet.jpg" align="right"
+      hspace="10" vspace="10" width="600" height="450"
+      alt="Fleet" />
+
+	 <br clear="all" />
+    <img src="../../images/airFair2006/Nieuport.jpg" align="left"
+      hspace="10" vspace="10" width="600" height="346"
+      alt="Scale Nieuport" />
+    <p>This Nieuport has visited us before, and it's always a crowd-pleaser.  The
+    pilot flies two or three times during the day, and with the smoke system and
+    sound effects from the gas machine gun it makes for a nice show.</p>
+    
+    <br clear="all" />
+    <img src="../../images/airFair2006/border.jpg" align="right"
+      hspace="10" vspace="10" width="600" height="380"
+      alt="Border Period camp" />
+
+	 <p>The 
+    <a href="http://hometown.aol.com/rsbrown3/index.html">Headquarters Company</a>,
+    a Border Period re-enactors group, came out and set
+    up a typical military camp of the 1910 time-frame.  This shows typical military
+    equipment in use at the beginning of the 20th century.  </p>
+    
+    <p>Scout Troop 317 from Seguin helped us with car parking.  It's always interesting
+    for them to compare their modern camping gear with the state of the art from
+    100 years ago. A campfire is still a campfire, but some equipment has changed
+    beyond all recognition, and other equipment was undreamed of in that far-off
+    time.</p>
+    
+    <p>Thanks also to the Randolph Squadron of the Civil Air Patrol, who provided
+    parking directions for our fly-in visitors.  These cadets also pitched in to
+    help operate the concessions stand, feeding our many visitors.</p>
+
+    <br clear="all" />
+    <img src="../../images/airFair2006/cars.jpg" align="right"
+      hspace="10" vspace="10" width="600" height="254"
+      alt="Classic cars" />
+    <p>It's also become a traditional jaunt for several local car clubs to bring
+    their restored machines to our fly-in.  These cars provide a look at a simpler
+    time, showing the ground equivalent of our old flying machines.</p>
+    
+    <p>All told, we had beautiful weather, a nice turnout, and only the slight
+    disappointment that so many museum aircraft were grounded.  Repairs are in 
+    progress, and many of our planes should be airworthy again by the fall fly-in.</p>
+
+	 
+	 <br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

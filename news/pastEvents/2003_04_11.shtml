@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1 align="center">Model Helicopter Meet</h1>
+
+    <h2 align="center">April 11 - 13, 2003</h2>
+    
+	<img align="left" src="../../images/helo20030411/canopyRow.jpg"
+      hspace="10" vspace="10" width="300" height="178"
+      alt="Contestants setup area" />
+    
+    <p>On the weekend of April 11, the Tri-City Flyers R/C Club hosted a model
+    helicopter meet.  Unlike the previous year's meet, the weather was perfect
+    and we had a great turnout.  Modelers from all over showed up to fly and
+    compete, showing their skills and abilities.  The 
+    <a href="http://www.tricityflyers.com">Tri-City Flyers</a> website will have
+    the details of the contest.  Here, we just have some pretty pictures!
+    </p>
+    <br clear="all" />
+    
+	<img align="left" src="../../images/helo20030411/hover.jpg"
+      hspace="10" vspace="10" width="200" height="104"
+      alt="hovering" />
+    
+	<img align="right" src="../../images/helo20030411/loach.jpg"
+      hspace="10" vspace="10" width="250" height="149"
+      alt="Helicopter trio" />
+      
+   <br clear="all" />
+   
+	<img align="left" src="../../images/helo20030411/helo.jpg"
+      hspace="10" vspace="10" width="300" height="172"
+      alt="R/C Model helicopter" />
+    
+	<img align="right" src="../../images/helo20030411/vertical.jpg"
+      hspace="10" vspace="10" width="350" height="249"
+      alt="Vertical helicopter" />
+    
+    <br clear="all" />
+    <hr />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

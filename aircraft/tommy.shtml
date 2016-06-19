@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>Thomas-Morse Scout</h1>
+    <img hspace="10" vspace="20" src="../images/tommy.jpg"
+    width="707" height="305"
+    alt="Thomas-Morse Scout rear quarter view" /> 
+
+    <p><img align="left" hspace="10" vspace="20"
+    src="../images/tommyFlight.jpg" width="468" height="331"
+    alt="Thomas-Morse Scout in Flight" /></p>
+
+    <p>The jewel of the PFM collection is an original Thomas-Morse
+    S-4C Scout. This is the only S-4C still flying, and one of only
+    a handful that have survived from the days of the Great War.
+    The museum's S-4C has been restored twice (that we know of),
+    and it is powered by an original LeRhone rotary engine.</p>
+    
+    <p>This aircraft is currently down for recovering, but should be
+    flying again as soon as we can get new fabric on it.  Check out the
+     <a href="../news/index.shtml">Events</a> section for updates on
+     the new covering.</p>
+
+    <p>The Thomas Brothers Aeroplane Company was founded in 1912.
+    In 1915 it built 24 Thomas T-2 biplanes for the Royal Naval Air
+    Service, and build a similar airplane on floats for the U.S.
+    Navy. In 1917, Thomas Brothers merged with the Morse Chain
+    Company to form the Thomas-Morse Aircraft Corporation. This new
+    company made a more serious attempt to meet military
+    requirements, and produced the prototype Thomas-Morse S-4
+    advanced trainer.</p>
+
+    <br clear="all" />
+
+    <p align="center"><img hspace="10" vspace="20"
+    src="../images/tommyTaxi.jpg" width="500" height="358"
+    alt="Thomas-Morse Taxiing" /></p>
+    <br />
+
+    <p>The S-4 was powered by a 100-hp Gnome rotary engine. This
+    was followed by the improved S-4C, about 50 of which were
+    powered by the Gnome rotary engine and the remainder (448)
+    powered by the more reliable 80-hp LeRhone rotary.</p>
+    <img hspace="10" vspace="20" src="../images/rotary1.jpg"
+    width="438" height="356" alt="Rotary Engine" /> 
+
+    <p>The WWI rotary engines are unique in that although they have
+    a radial cylinder layout (with the cylinders arranged like the
+    points of a star), the propeller was bolted directly to the
+    crankcase and the entire engine spun with the prop. This was
+    necessary to provide sufficient cooling for the higher-powered
+    engines, but it produced some interesting flight
+    characteristics. The great mass of the spinning engine acted as
+    a gyroscope, causing the aircraft to have greatly differing
+    flight characteristics depending on whether it was turning
+    right or left.</p>
+
+    <h2>More Information</h2>
+
+    <p><a href="http://www.fiddlersgreen.net">Fiddler's Green</a>
+    has a <a href="http://www.fiddlersgreen.net/AC/aircraft/Thomas-Morse/tommy.php">
+    cardstock model</a> of the Tommy.</p>
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

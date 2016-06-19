@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+	<h1>Aircraft of the Pioneer Flight Museum</h1>
+
+	<p>The Museum was established to preserve the
+    memory of aircraft from the early days of flight, specifically
+    dating from the years before World War II. Many of the museum's
+    aircraft are flyable, and others are projects being restored or
+    built to flying status.
+   </p>
+
+	<h2>Flyable Aircraft</h2>
+
+	<table align="center" border="border">
+		<tr align="center">
+		<td>
+			<a href="bleriot.shtml"><img src="../images/tbleriot2.jpg"
+			class="actable" alt="Bleriot Thumbnail" />
+			<br />Bleriot Model XI</a>
+    	</td>
+		<td>
+			<a href="canuck/index.shtml"><img src="../images/canuck/tcanuck2.jpg"
+			class="actable" alt="Canuck Thumbnail" />
+			<br />Canuck</a>
+		</td>
+		</tr>
+		
+		<tr align="center">
+		<td>	
+    		<a href="fokkerDRI/index.shtml"><img src="../images/ttriplane2.jpg"
+			class="actable" alt="Fokker Dr.I" />
+			<br />Fokker Dr.I Triplane</a>
+		</td>
+		<td>
+			<a href="fokkerDVII/index.shtml"><img src="../images/tfokker2.jpg"
+			class="actable" alt="Fokker D.VII Thumbnail"  />
+			<br />Fokker D.VII</a>
+    	</td>
+		</tr>
+		
+		<tr align="center">
+		<td>
+			<a href="luscombe.shtml"><img src="../images/tluscombe2.jpg"
+			class="actable" alt="Luscombe 8A Thumbnail" />
+			<br />Luscombe 8A</a>
+		</td>
+		<td>
+			<a href="meyers.shtml"><img src="../images/tmeyers2.jpg"
+			class="actable" alt="Meyers OTW Thumbnail" />
+			<br />Meyers OTW</a>
+		</td>
+    	</tr>
+
+		<tr align="center">
+		<td>
+			<a href="j3.shtml"><img src="../images/tj3.jpg"
+			class="actable" alt="Piper J-3 Thumbnail" />
+			<br />Piper J-3 Cub</a>
+		</td>
+		<td>
+			<a href="skyScout.shtml"><img src="../images/tskyscout2.jpg"
+			class="actable" alt="Pietenpol Sky Scout Thumbnail" />
+			<br />Pietenpol Sky Scout</a>
+		</td>
+		</tr>
+
+		<tr align="center">
+		<td>
+			<a href="rearwinSportster/index.shtml"><img src="../images/rearwinSportster/t7000.jpg"
+			class="actable" alt="Rearwin Sportster Thumbnail" />
+			<br />Rearwin Sportster</a>
+    	</td>
+		<td>
+			<a href="tommy.shtml"><img src="../images/ttommy2.jpg"
+			class="actable" alt="Thomas-Morse Thumbnail" />
+			<br />Thomas-Morse Scout</a>
+    	</td>
+		</tr>
+
+	</table>
+    <a id="ac_volunteer" name="ac_volunteer"></a>
+
+    <h2>Project Aircraft</h2>
+
+    <p>These are the projects which are currently being worked on
+    by PFM volunteers at Old Kingsbury Aerodrome.  We can always use
+    volunteers - no experience necessary!  There is always work to be
+    done at all skill levels, and you can learn as you go.  If you're
+    interested in volunteering, please contact us at 
+    the following address:
+    </p>
+    <ul>
+    <li><a href="mailto:info@pioneerflightmuseum.org">info@pioneerflightmuseum.org</a></li>
+    </ul>
+
+
+	<table align="center" border="border">
+		<tr align="center">
+		<td>
+			<a href="bristolF2/index.shtml"><img src="../images/tbristol2.jpg"
+			class="actable" alt="Bristol F.2 layout thumbnail" />
+			<br />Original and replica Bristol Fighters</a>
+		</td>
+		<td>			<a href="curtissJunior/index.shtml"><img src="../images/curtissJunior/tcw1.jpg"
+			class="actable" alt="Curtiss CW-1 Junior thumbnail" />
+			<br />Curtiss-Wright CW-1 "Junior"</a>
+		</td>
+		</tr>
+
+		<tr align="center">
+		<td>			<a href="fairchild22/index.shtml"><img src="../images/fairchild22/tFairchild22.jpg"
+			class="actable" alt="Fairchild 22 thumbnail" />
+			<br />Fairchild 22</a>
+		</td>
+		<td>			<a href="se5a/index.shtml"><img src="../images/tse5a2.jpg"
+			class="actable" alt="RAF SE5a thumbnail" />
+			<br />Royal Aircraft Factory SE5a
+			replica</a>
+		</td>
+		</tr>
+
+		<tr align="center">
+		<td>
+			<a href="rearwin2000C/index.shtml"><img src="../images/trearwin2000c2.jpg"
+			class="actable" alt="Rearwin 2000C Ken-Royce biplane thumbnail" />
+			<br />Rearwin 2000C Ken-Royce biplane</a>
+    	</td>
+		<td>
+			<a href="tommy2/index.shtml"><img src="../images/ttommy2.jpg"
+			class="actable" alt="Thomas-Morse Thumbnail" />
+			<br />Thomas-Morse Scout #2</a>
+		</td>
+		</tr>
+	</table>
+
+    <h2>Other Aircraft</h2>
+
+    <p>On any given day, you may find a number of other aircraft at
+    Old Kingsbury Aerodrome. Some may be based at Old Kingsbury but
+    not owned by the PFM, others may have dropped in just to visit the
+    museum and workshops, and yet others may be projects being
+    built for hire by Vintage Aviation Services, which shares the
+    field with the PFM.</p>
+
+    <br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

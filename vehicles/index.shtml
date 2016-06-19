@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>Vehicles of the PFM</h1>
+
+    <p>The PFM collection includes several period vehicles. These
+    include an Indian motorcycle and sidecar, a Nash Quad truck,
+    and several Ford Model Ts with
+    various bodies built on them. There are also other vehicles
+    waiting for restoration, including an FWD truck.</p>
+
+    <h2>Descriptions</h2>
+
+	<h3>Nash Quad</h3>
+    <p><a href="quad.shtml"><img src="../images/quad/quadUniform.jpg"
+    align="middle" alt="Nash Quad" hspace="10"
+    height="300" width="400" /></a></p>
+    <br />
+
+	<h3>Model T Fords</h3>
+    <p><a href="modelT.shtml"><img src="../images/modelT/TwoTs.jpg"
+    align="middle" alt="Two Ford Model Ts" hspace="10"
+    height="244" width="400" /></a></p>
+    <br />
+
+	<h3>Indian Motorcycle</h3>
+    <p><a href="indian.shtml"><img src="../images/indianSide.jpg"
+    align="middle" alt="Indian motorcycle" hspace="10"
+    height="324" width="400" /></a></p>
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>1918 Nash Quad</h1>
+
+    <p><img align="left" hspace="10" vspace="10"
+    src="../images/quad2.jpg" width="453" height="500"
+    alt="Left front quarter view of Nash Quad truck" /></p>
+
+    <p>The Nash Quad was first manufactured in 1914 by the Thomas
+    B. Jeffrey Company, which was located in Kenosha, Wisconsin. It
+    became quite popular during World War I and was used by the
+    armed forces of not only the United States, but also Russia,
+    France and Britain. One of the first motor vehicles to offer
+    four-wheel drive, the Quad proved very suitable to the rough,
+    unpaved roads of the time.  In 1916, Jeffrey sold the production rights
+    to the Nash company. Because of its popularity, it was produced
+    in large numbers, including license production by Hudson,
+    National, and Paige-Detroit. Exact numbers aren't known, but
+    apparently over 11,000 were produced in 1918 alone.</p>
+
+    <br clear="all" />
+
+    <p><img src="../images/pfm20090110/quad.jpg" hspace="10" vspace="10"
+    width="600" height="400" alt="The Quad driving by" /></p>
+
+    <p><img align="right" hspace="10" vspace="10"
+    src="../images/quadAmmoBody.jpg" width="550" height="358"
+    alt="Ammunition body waiting restoration" /></p>
+
+    <p>The PFM's Quad is on loan from Jeff Cromeen of Dallas,
+    Texas. One of the conditions of the loan is that PFM
+    re-restore it, and also restore the ammunition body to go with
+    it. Currently we have it in running condition as a flatbed
+    truck. The ammunition body, shown here, needs some work before
+    we can fit it to the Quad.</p>
+
+    <br clear="all" />
+    <img align="left" src="../images/quadDriveAxle.jpg" width="550"
+    height="412" hspace="10" vspace="10" alt="Quad drive axle" /> 
+
+    <p>The drive train is a bit unusual by modern standards, but
+    was not uncommon in 1914. The wheel axles are only used to
+    support the wheels, not to drive them. The Quad has separate
+    driveshafts mounted above the main axles, through a universal
+    joint at the wheel, and ending in a spur gear which drives a
+    ring gear located about halfway out from the hub on the wheels.
+    The tires are solid rubber. The truck is driven by a Buda H-U
+    four-cylinder engine of 312 cubic inches, developing 28.9
+    horspower, through a four-speed transmission. This combination
+    produced a top speed of 15 MPH.  This Quad is a model 4017-L,
+    which is one of two models offered (out of three total) that
+    had four-wheel steering.</p>
+
+    <h2>More Information</h2>
+
+    <p><a href="quadDrive.shtml">Here's</a> a story about what it's
+    like to drive the Nash Quad. The Four-Wheel-Drive Online site also has an
+    <a href="http://www.4wdonline.com/ClassicTrucks/Jeffrey.html">article</a>
+    on the Jeffrey Quad, predecessor to the Nash.
+    </p>
+    <br clear="all" />
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

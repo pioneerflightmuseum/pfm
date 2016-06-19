@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>October 25, 2002 Project Update</h1>
+
+    <img src="../../../images/fokkerDVII/021025BlueStab.jpg" align="right" width="550"
+      height="407" hspace="10" vspace="10"
+      alt="Fokker horizontal tail finished in blue" />
+
+    <p>After the last work weekend, Roger Freeman carried on with paintwork
+    on the tailfeathers.  They have now been given  their color coats of blue,
+    and are ready to be mounted on the fuselage.
+    </p>
+
+    <br clear="all" />
+
+     <img src="../../../images/fokkerDVII/021025Ranger.jpg" align="left" width="550"
+      height="583" hspace="10" vspace="10"
+      alt="Ranger case split for overhaul" />
+
+    <p>Here is a picture of the Ranger cases that will be re-worked to become
+    the Fokker's engine.
+    </p>
+
+    <br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

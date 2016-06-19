@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>1931 Curtiss-Wright "Junior", CW-1</h1>
+
+    <p><img align="right" hspace="10" vspace="20"
+    src="../../images/curtissJunior/cw1.jpg" width="600" height="400"
+    alt="Curtiss Junior" /></p>
+
+    <p>The Curtiss Junior was a unique airplane for its time.  The parasol-winged
+    	two-place tandem pusher was designed especially for the low-budget sportsman
+    	pilot.  Because of the wide-open view, the plane also became quite popular
+    	with hunters and air-to-air photographers.
+    </p>
+
+    <br clear="all" />
+
+    <h2>Specifications</h2>
+    
+    <div class="specifications">
+    <h3 align="center">Curtiss-Wright CW-1 "Junior"</h3>
+    <h4 align="center">C/N 1224   Registration N11850</h4>
+    <table align="center">
+    <tr><td class="spectitle">Engine:</td>
+    	<td class="specdata">Salmson AD9, 45hp</td></tr>
+    <tr><td class="spectitle">Wingspan:</td>
+    	<td class="specdata">39 feet 6 inches</td></tr>
+    <tr><td class="spectitle">Length:</td>
+    	<td class="specdata">21 ft 3 inches</td></tr>
+    <tr><td class="spectitle">Height:</td>
+	    <td class="specdata">7 feet 4 inches</td></tr>
+    <tr><td class="spectitle">Fuel:</td>
+	    <td class="specdata">8.5 gal</td></tr>
+    <tr><td class="spectitle">Oil:</td>
+	    <td class="specdata">2 gal</td></tr>
+    <tr><td class="spectitle">Gross Weight:</td>
+	    <td class="specdata">975 lb</td></tr>
+    <tr><td class="spectitle">Seats:</td>
+	    <td class="specdata">2, tandem</td></tr>
+    <tr><td class="spectitle">Maximum Speed:</td>
+	    <td class="specdata">80 mph</td></tr>
+    <tr><td class="spectitle">Cruise Speed:</td>
+	    <td class="specdata">70 mph</td></tr>
+    <tr><td class="spectitle">Cruise Range:</td>
+	    <td class="specdata">200 miles</td></tr>
+    </table>
+    </div>
+
+    <h2>Additional Information</h2>
+
+    <p>For more information about the Junior and other Curtiss-Wright aircraft, take a look at
+    the <a href="http://en.wikipedia.org/wiki/Curtiss-Wright_Junior">Curtiss Junior</a>
+    Wikipedia page.</p>
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+
+    <img align="left" src="../../../images/bristolF2/020808Layout.jpg"
+    width="550" height="381" hspace="10" vspace="10"
+    alt="Jig table with Bristol fuselage structure drawn on it" />
+
+    <p>With the first fuselage disassembled for its fittings, the Bristol team has
+    drawn out a full-scale side view of the fuselage on top of a flat table.  This
+    drawing will be used to position the various fuselage components as each
+    side is built up.  The longerons and vertical pieces will be fitted directly on
+    top of this drawing, once for each side.
+    </p>
+
+    <br clear="all" />
+
+    <img align="right" src="../../../images/bristolF2/020808Longeron.jpg"
+    width="550" height="346" hspace="10" vspace="10"
+    alt="Lower longeron fitted on jig table" />
+
+    <p>Once the drawing is laid out on the table, the next step is to actually start
+    placing the wood that will make up the fuselage sides.  The lower longeron
+    is placed along its proper lines, held by wood blocks affixed to the table.
+    More wood strips are awaiting placement.
+    </p>
+
+    <br clear="all" />
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

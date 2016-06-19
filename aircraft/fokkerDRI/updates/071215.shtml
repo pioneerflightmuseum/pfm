@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>December 15, 2007 Project Update</h1>
+		
+		<img align="right" src="../../../images/fokkerDRI/20071215SkidMount.jpg" 
+		width="600" height="450" hspace="10" vspace="10" 
+		alt="New tip skid mount" />
+		
+		<p>Had a fair turnout for being so close to the holidays!
+			In addition to Tom Gaylord, Terry Bledsoe, Ted Dawson,
+			Dick Schenck, Ron Marcotte, Derek Staha, Bill &amp; Will
+			Walsh (and Jack), Al Sumrall, Sanford Swope, Len
+			Garcia, and Jeremy Beheler showed up to work!
+		</p>
+		
+		<p>Although most of the day was devoted to hangar cleanup to
+			make a place to work on the Thomas Morse Scouts, a little 
+			work was done on the triplane... Ron got
+			Roger to weld the new mounting straps onto the wingtip
+			skid front mounts, and then he cleaned them up and
+			primered them with black Rustoleum.
+		</p>
+		
+		<br clear="all" />
+
+		<img align="left" src="../../../images/fokkerDRI/20071215TailskidGuide.jpg" 
+		width="600" height="450" hspace="10" vspace="10" 
+		alt="Tailskid guide plate" />
+				
+		<p>Roger has also come up with a triangular aluminum
+			plate with a slot up the middle to restrain the tail
+			skid from swiveling.  It will be mounted resting on
+			the lower longerons with the tail skid shooting
+			through to the shock cords.  Some "L" stock needs to
+			be riveted onto the edges to transmit side loads into
+			the lower longerons and another pair running along the
+			slot (these will be surfaced with some superslick
+			space-age stuff to ensure the tail skid doesn't hang
+			up or get damaged).  The plate will be secured in
+			place by clamps on the lower longerons.
+		</p>
+		
+	 <br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

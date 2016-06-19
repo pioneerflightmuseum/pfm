@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1 align="center">PFM Membership Meeting</h1>
+
+    <h2 align="center">Saturday, April 5, 2003</h2>
+    
+	<img align="left" src="../../images/pfm20030405/richard.jpg"
+      hspace="10" vspace="10" width="300" height="177"
+      alt="Richard DesChenes" />
+    
+    <p>PFM's second membership meeting of the year was held on Saturday, April 5th.
+    Our guest speaker was Richard DesChenes of San Antonio, who gave a slide show
+    and presentation about early Army aviation.  He started with some early balloons
+    and moved on into the purchase of the first Army airplane from the Wright brothers.
+    </p>
+        <p>After acceptance trials at Fort Myers, VA, the Army purchased a Wright Model A
+    as Army Airplane No. 1, despite the death of Lt. Selfridge in a crash caused by
+    a broken propeller.  The presentation followed this airplane to Fort Sam Houston
+    in San Antonio, TX, where Lt. Benjamin Foulois taught himself to fly it through
+    trial and error, with telegraphed instructions from the Wrights in Ohio.
+    </p>
+    
+	<img align="right" src="../../images/pfm20030405/badges.jpg"
+      hspace="10" vspace="10" width="255" height="300"
+      alt="Early Army Aviation badges &amp; insignia" />
+    
+    <p>Deschenes finished the presentation with a talk about early military aviation
+    badges and insignia, and showed some of his extensive collection.  In addition to 
+    describing the history of the Army's earliest aviation insignia, he showed how the
+    aviators of the day commissioned custom-made badges from local jewelers, since they
+    didn't like the official insignia.
+    </p>
+    
+    <p>After the presentation, a question and answer period followed along with the
+    chance to get a close-up look at the badges.  Refreshments were available and
+    greatly appreciated.
+    </p>
+
+    <br clear="all" />
+    <hr />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

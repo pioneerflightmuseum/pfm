@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h2 align="center">First Saturday in January</h2>
+    <h3 align="center">January 7, 2006</h3>
+    
+    <p>Our first First Saturday event was a success - if not a roaring success, then
+    a puttering success.  We had several volunteers on hand, since it was also a Team
+    Fokker work weekend.  For the Museum event, we brought out the Signal Corps Model
+    T, and had a seminar on basic naintenance and operation.</p>
+    
+    <p>Roger Freeman showed the volunteers how to check and replenish the fluid levels, 
+    including the coolant and oil.  The coolant is pretty straightforward, being both
+    checked and refilled through the radiator cap.  The oil, however, is quite different
+    from modern cars.  On the T, the transmission and engine share a single case.  To
+    check the oil, you have to crawl under the car and open the lower of a pair of valves
+    mounted to the back of the case.  If oil drips out, it has enough.  If not, then
+    oil can be added through a filler on the lower right front of the engine.  When adding
+    oil, the maximum amount has been added when oil drips out of the upper valve on the
+    back of the case.</p>
+    
+    <p>Once we had learned how to do this basic maintenance, it was time to learn how
+    to drive the Model T.  All of the people present who were interested got a chance
+    to learn and try it for themselves, with Roger Ritter and Roger Freeman teaching
+    the others.  Driving a Model T is a unique experience, since the three pedals 
+    don't work like the three in a modern car.  Also, the T has a hand throttle instead
+    of a foot throttle, which adds its own complications.</p>
+    
+    <p>The foot pedals, from left to right, are the gearshift, reverse, and brake.  The
+    parking brake lever also serves to hold the gearshift in neutral.  This is especially
+    useful when hand-cranking; however, this T has an electric starter so we didn't
+    have to risk a broken arm.  To drive the T, first start it with the left pedal in
+    the middle of its travel - neither all the way up nor down.  This middle position is
+    neutral.  Once the motor is running, add power with the hand throttle while pushing
+    the left pedal to the floor.  This will get you moving in low gear.  Once you've
+    attained some speed, let the pedal out all the way into high gear.  You should also
+    work the hand throttle as needed as the pedal passes through neutral to avoid
+    overspeeding the engine.</p>
+    
+    <p>To stop, hold the left pedal in the central, neutral, position, back off the
+    hand throttle, and press the right pedal for braking.  Once stopped, to back up,
+    hold the left pedal in neutral, press the central pedal, and add throttle as
+    needed.  It takes a bit of practice to find the right neutral position, and even
+    more work (if you are used to driving a modern standard transmission) to avoid
+    pushing the left pedal to the floor when stopping or reversing.</p>
+    
+    <p>Here's a <a href="../../images/modelT/driving.avi">download (7.60 MB)</a> in AVI format
+    of the Signal Corp Model T being driven and put away in the flight hangar.  Roger Ritter
+    is driving, and thanks to Ron Marcotte for the video.</p>
+	 
+	 <br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

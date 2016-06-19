@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+   <a id="pfm20100508AirFair" name="pfm20100508AirFair"></a>
+    
+	<h2 align="center">AirFair 2010</h2>
+    
+	<h3 align="center">May 5, 2010</h3>
+	
+	<img src="../../images/airFair2010/CanuckFlying.jpg" align="right"
+     hspace="10" vspace="10" width="600" height="400"
+     alt="Curtiss Canuck in the air" />
+
+	<p>AirFair for 2010 was a low-key fly-in.  Strong winds in the morning,
+		combined with several other fly-ins the same weekend kept our attendance
+		a bit lower than we've seen in the past.  Despite that, we all had fun
+		and got to see some interesting airplanes and vehicles.
+	</p>
+		
+	<br clear="all" />
+	<img src="../../images/airFair2010/FlightPrep.jpg" align="left"
+     hspace="10" vspace="10" width="600" height="400"
+     alt="Getting the Canuck ready to go flying" />
+		
+	<p>Due to the high winds early on, we weren't able to fly the WWI-era planes
+		in the morning.  We did engine runs on both the Fokker Dr.I and the
+		Curtiss Canuck, though, to the delight of the attendees.  By mid-afternoon,
+		the winds were dying down and we were able to fly the Canuck about 4:00.
+		Those folks who stuck it out till then got a treat. We used the Signal
+		Corps Model T to tow the Canuck out to the downwind corner of the runway
+		for takeoff, and that made the photo-op of the show!
+	</p>
+
+	<br clear="all" />
+	<img src="../../images/airFair2010/Studebaker.jpg" align="right"
+     hspace="10" vspace="10" width="600" height="474"
+     alt="1924 Studebaker" />
+		
+	<p>Fly-in and drive-in attendees included a Stearman, a Pietenpol Air Camper,
+		a Morgan car, a Lotuse Elise sports car, and a beautiful 1924 Studebaker.
+		Our own vehicles were out in force, including three Model Ts, the Nash
+		Quad for a bit, and the Triumph dispatch bike.  In addition, Al Sumrall's
+		homebuilt PFM Special sorta-1909 motorized bike was buzzing around to the obvious
+		enjoyment of its various riders.
+	</p>
+		
+	<br clear="all" />
+	<img src="../../images/airFair2010/Fokker.jpg" align="left"
+     hspace="10" vspace="10" width="600" height="428"
+     alt="Starting the Fokker" />
+		
+	<p>Several museum volunteers dressed in period costume for the fair, including
+		both WWI-era military uniforms and simple coveralls with aircraft
+		manufactuer logos painted on them.  Those looked surprisingly good - coveralls
+		are pretty timeless, and with a big Curtiss or Lockheed logo on the back
+		it could easily have been some time in the 1920s.
+	</p>
+
+	<br clear="all" />
+	<p>Some of our vehicles and visitors:</p>
+	<br clear="all" />
+	<img src="../../images/airFair2010/Triumph.jpg" align="left"
+     hspace="10" vspace="10" width="300" height="112"
+     alt="1921 Triump motorcycle" />
+		
+	<img src="../../images/airFair2010/SignalCorpsT.jpg" align="middle"
+     hspace="10" vspace="10" width="300" height="203"
+     alt="Signal Corps Model T" />
+     
+	<img src="../../images/airFair2010/Pietenpol.jpg" align="right"
+     hspace="10" vspace="10" width="300" height="167"
+     alt="Visiting Pietenpol Air Camper" />
+
+	<br clear="all" />		
+	<img src="../../images/airFair2010/Coupe.jpg" align="left"
+     hspace="10" vspace="10" width="300" height="225"
+     alt="Coupe" />
+     		
+	<img src="../../images/airFair2010/Morgan.jpg" align="middle"
+     hspace="10" vspace="10" width="300" height="173"
+     alt="Morgan roadster" />
+		
+	<img src="../../images/airFair2010/Rod.jpg" align="right"
+     hspace="10" vspace="10" width="300" height="208"
+     alt="Rod" />
+
+	<br clear="all" />
+	<hr />
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+
+    <h1 align="center">Old Kingsbury Aerodrome Airport</h1><!--    <p align="center">
+    <img src="../images/map.jpg" width="500" height="276"
+      alt="Map to Old Kingsbury Aerodrome" /></p>-->
+	<p align="center">
+	<iframe width="800" height="550" frameborder="0" scrolling="no" 
+		marginheight="0" marginwidth="0" 
+		src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=190+Pershing+Lane,+Kingsbury,+TX&amp;aq=0&amp;sll=37.0625,-95.677068&amp;sspn=39.780156,66.972656&amp;vpsrc=6&amp;ie=UTF8&amp;hq=&amp;hnear=190+Pershing+Ln,+Kingsbury,+Texas+78638&amp;t=m&amp;ll=29.638306,-97.809906&amp;spn=0.041031,0.068665&amp;z=14&amp;iwloc=A&amp;output=embed">
+	</iframe>
+	<br />
+	<small>
+		<a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=190+Pershing+Lane,+Kingsbury,+TX&amp;aq=0&amp;sll=37.0625,-95.677068&amp;sspn=39.780156,66.972656&amp;vpsrc=6&amp;ie=UTF8&amp;hq=&amp;hnear=190+Pershing+Ln,+Kingsbury,+Texas+78638&amp;t=m&amp;ll=29.638306,-97.809906&amp;spn=0.041031,0.068665&amp;z=14&amp;iwloc=A" 
+			style="color:#0000FF;text-align:left">View Larger Map
+		</a>
+	</small>
+	</p>
+    <h2 align="center">Directions</h2>
+    <p>Old Kingsbury Aerodrome is located on Farm Road 1104 in
+    Kingsbury, Texas. If
+    coming from San Antonio going East on IH10 heading towards
+    Houston, you will pass Seguin, pass Highway 90, pass Farm
+    Road 2438, and take a left on Farm Road 1104. The Aerodrome is
+    located on your left. If coming from Houston you will take a
+    right on Farm Road 1104.<br />
+    </p>
+    <h2 align="center">Flying In</h2>
+    <p align="center">
+    <img src="../images/kingSec.jpg" hspace="10" width="650" height="312"
+      alt="Sectional Chart for Old Kingsbury" /></p>
+    <p align="center">
+    <img src="../images/OKAAir.jpg" hspace="10" width="550" height="350"
+      alt="Old Kingsbury Aerodrome from the air" /></p>
+    <p>Old Kingsbury Aerodrome uses the FAA identifier of 85TE.
+  	 It's located
+    near Seguin, about 40 miles east of San Antonio. In the above
+    view, the runway is on the left side of the image, aircraft
+    parking at top center, and the main hangars are at the far end
+    of the field.</p>
+    <h3>Field Information</h3>	 <br />
+	 Name:  Old Kingsbury Aerodrome Airport<br />
+    Identifier:  85TE<br />
+    Elevation: 560<br />
+    Location: N29&#176; 38.038' W97&#176; 48.685'<br />
+    Runway: 14/32 Grass<br />
+    Length: 2600 ft.<br />
+    <span class="alert">
+    Caution: Towers on West side of field<br />
+    Caution: Radio Controlled Model Aircraft Traffic<br />
+    </span>
+    <p>Aircraft in the vicinity of Old Kingsbury can use 122.9 as
+    an advisory frequency. Note that Old Kingsbury Aerodrome has a
+    great deal of NORDO traffic.</p>
+    
+    <p>Due to the frequent presence of radio-controlled model aircraft,
+    	arriving aircraft should enter the pattern at 1000 feet AGL before
+    	descending to allow time for the R/C aircraft to land.
+    </p></div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

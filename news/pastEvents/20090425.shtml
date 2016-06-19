@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+	<h2 align="center">Volunteer Work Day</h2>
+    
+	<h3 align="center">April 25, 2009</h3>
+	
+	<h3 align="center">Reported by Ron Marcotte</h3>
+	
+	<h3 align="center"></h3>
+
+	<img src="../../images/pfm20090425/IndianWork.jpg" align="right"
+     hspace="10" vspace="10" width="600" height="450"
+     alt="Working on 1918 Indian motorcycle" />
+	
+	<p>The Indian drew a lot of attention and finally got running--sort of.
+		Roger Freeman took it for a pretty fast lap around the field and Joe Bruno
+		got a wild ride in the sidecar.  Roger never got it out of first
+		gear!!
+	</p>
+
+	<p>Dave and Sanford got all the oil lines made up and installed for the
+		Model-A engine and it is now about ready to be put back in the Pete.
+	</p>
+	
+	<p>Tom and Jeremy covered one Tommy wing while Art and Gary taped the
+		other wing.  We plan to display some of this beautiful work at the
+		AirFair.
+	</p>
+
+	<p>Terry got the FWD chassis taken apart and stored.
+	</p>
+	
+	<br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

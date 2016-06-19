@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+
+    <img align="right" src="../../../images/fokkerDVII/020808Parts.jpg"
+    width="550" height="507" hspace="10" vspace="10"
+    alt="Painted rudder, fin, and rudder control bar" />
+
+    <p>Team Fokker has made lots of progress since the last update, so
+    this will be kind of a long report.  First, though, we welcome Gary Marsden of
+    Austin as a new Team Fokker member.  When we last left our intrepid
+    team of Fokker builders, we saw Wayne Jones getting the fin and rudder
+    ready for painting.  As you can see from this picture, they're now painted!
+    Unfortunately, we realized toward the end of the day that the separation line
+    between the blue and white areas on the fin isn't in the right place, so we'll
+    have to do a little re-painting to correct that.
+    You can also see the rudder bar and its mounting column on the floor just
+    in front of the rudder.
+    </p>
+
+    <br clear="all" />
+    <img align="left" src="../../../images/fokkerDVII/020808Stick.jpg"
+    width="490" height="524" hspace="10" vspace="10"
+    alt="First control stick installation" />
+
+    <p>
+     Tom Gaylord and Gary Marsden also finished the lower part of the control
+     column (except for painting), and temporarily mounted it in the fuselage.  While
+     they were working on that, Bill Broussard re-worked the wood piece that fits
+     between the elevator and stabilizer to provide a better fit.  This
+     let us mount the horizontal stabilizer and elevator so we could run some wire to
+     simulate the control cables.  Once that wire was run, we could mark where the
+     cutouts in the stabilizer and fuselage fabric need to be to let the control cables pass
+     through without interference.  You can see the control stick assembly
+     here in black, since it hasn't yet been painted in Fokker green.  Note the small
+     silver piece sticking up from the front mounting point.  That's a grease fitting,
+     and it proved to interfere with the rudder bar mount post when we put it in
+     for a test fit.  We'll probably just remove the fitting and make that an oil hole
+     instead.
+    </p>
+
+    <br clear="all" />
+    <img align="right" src="../../../images/fokkerDVII/020808Firewall.jpg"
+    width="550" height="466" hspace="10" vspace="10"
+    alt="MIke DeBlasis and his firewall" />
+
+    <p>Special thanks to Mike DeBlasis, shown here with the firewall he built.  The
+    Fokker originally had no firewall, but it's an important safety feature.  We're
+    willing to break a bit with historical accuracy in this case.
+    </p>
+
+    <br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

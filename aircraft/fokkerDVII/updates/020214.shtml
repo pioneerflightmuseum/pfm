@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>Fokker D.VII Project Update - 14 February 2002</h1>
+
+    <h2>Ailerons</h2>
+    <img align="left" src="../../../images/fokkerDVII/020214Aileron1.jpg"
+    width="550" height="217" vspace="10" hspace="10"
+    alt="D.VII upper wing with aileron" /> 
+
+    <p>Mike DeBlasis has been working on the steel-framed ailerons,
+    along with their control horns and the control cable pulleys
+    that will fit onto the wooden wing structure. Wayne Jones has
+    been making the aileron hinges, making sure they fit properly
+    on both the ailerons and the wing structure. In addition, the
+    top wing fittings and internal brace wires have been
+    fitted.</p>
+
+    <p>The aileron's wire trailing edge has been added and the unit
+    features significantly stronger hinges than standard Fokker
+    practice in 1918. This includes thicker straps and collars with
+    the entire affair welded together.</p>
+    <br clear="all" />
+     
+
+    <h2>Wing Details</h2>
+    <img align="right"
+    src="../../../images/fokkerDVII/020214Wing1.jpg"
+    width="550" height="377" vspace="10" hspace="10"
+    alt="D.VII upper wing strut fitting &amp; control pulley" /> 
+
+    <p>The big chunk of wood running through the photo in the upper
+    half of the photo is the rear face of the rear spar of the top
+    wing. Mounted to it is the green strap and socket fitting which
+    mounts the rear of the interplane strut (the "N" strut) to the
+    wing. Adjacent to it is the control cable pulley which bends
+    the cables 90 degrees to the aileron control horn just visible
+    in the lower right. The bracket needs to be painted "Fokker
+    Green".</p>
+
+    <br clear="all" />
+    <img align="left" src="../../../images/fokkerDVII/020214Wing2.jpg"
+    width="550" height="839" vspace="10" hspace="10"
+    alt="D.VII upper wing aileron area" /> 
+
+    <p>The big wooden chunk in the lower half of the photo is the
+    front face of the rear spar with the aileron spar above it
+    (actually behind, of course!). Again we see the green socket,
+    fitting and strap for the interplane mount with the pulley
+    bracket backing plate (white) next to it. Note the "dogbone"
+    steel fitting which anchors the internal bracing cable at the
+    outer end. This part needs to be blasted, primed and painted
+    "Fokker Green". The white bracket backing plate needs to be
+    painted also.</p>
+
+    <p>On the aileron spar we see the wooden reinforcement required
+    due to the aileron spar cut-out needed to give the aileron
+    horns the free travel they need during aileron deflection. The
+    green vertical fitting to the right of the reinforcement block
+    is where the aileron hinge straps bolt onto the structure of
+    the wing. These little green bits are original Fokker parts,
+    but their source is uncertain... they are certainly the proper
+    type of fitting for a 1918 Fokker D.VII but may have come from
+    a post-war Fokker C1.</p>
+    <br clear="all" />
+     
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

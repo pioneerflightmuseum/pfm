@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>12 January 2003 - Bristol F.2b Project Update</h1>
+
+    <img align="right" src="../../../images/bristolF2/030112Aft.jpg"
+    width="550" height="249" hspace="10" vspace="10"
+    alt="Aft end of fuselage" />
+
+    <p>We continue to build up the Bristol fuselages.  In these pictures, you can see that
+        the basic structure of one of the fuselages is nearly complete.  Both sides are up,
+        the crosspieces have been installed, and the wire bracing that holds it all together
+        is in place.  There are still a few things to add in the nose section, but we'll  be able
+        to pull this one out of the jig soon and start on the next.
+    </p>
+    <br clear="all" />
+    <img align="left" src="../../../images/bristolF2/030112Fwd.jpg"
+    width="550" height="328" hspace="10" vspace="10"
+    alt="Front end of fuselage" />
+
+    <p>These two photos show some details of the fuselage structure and the assembly
+        process.  You can see that the all-purpose tool, duct tape, is quite handy for holding
+        the pieces in place temporarily until the steel fittings can be installed.  You can also
+        see how the fuselage brace wires are used between the fittings, not only along the
+        fuselage sides but also transversely to brace everything and hold the fuselage
+        together.
+    </p>
+
+    <br clear="all" />
+    <img src="../../../images/bristolF2/030112Side.jpg"
+    width="550" height="402" hspace="10" vspace="10"
+    alt="Front fuselage side" />
+
+    <br clear="all" />
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>

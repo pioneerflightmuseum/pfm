@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+    <h1>Canuck Update - 25 October 2002</h1>
+
+    <img align="right" src="../../../images/canuck/021025Circus.jpg"
+    width="550" height="297" hspace="10" vspace="10"
+    alt="Kingsbury Flying Circus logo" />
+
+    <p>The Canuck is mostly finished, except for the firewall-forward stuff and the
+    various pieces that have to wait on the engine installation.  We also still need to
+    put the wingtip skids on.  Our future barnstormer is now set up to advertise
+    itself, with the painting of the Kingsbury Flying Circus logo on the fuselage
+    side.
+    </p>
+
+    <br clear="all" />
+
+    <img align="left" src="../../../images/canuck/021025Cockpit.jpg"
+    width="550" height="756" hspace="10" vspace="10"
+    alt="Rear Cockpit" />
+
+    <p>The rear cockpit is where the pilot sits, and it has all the instruments.  Low on
+    the left of the panel is the ignition switch.  The large instrument on the left is the
+    tachometer, and the large instrument on the right is the altimeter.  The compass
+    sits flat on a platform below the panel.  The top center small gauge is oil pressure,
+    and the bottom center small gauge is water temperature.  The round wooden knob
+    on the right is the handle for the throttle lever.  The front cockpit, not shown here,
+    has only the control stick, rudder pedals, and aircraft nameplate - no instruments.
+    </p>
+
+    <br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>
