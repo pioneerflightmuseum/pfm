@@ -14,7 +14,7 @@ This page uses the <a href="http://matthewjamestaylor.com/blog/ultimate-2-column
 <link rel="stylesheet" type="text/css" 
 		href="http://fonts.googleapis.com/css?family=Goudy+Bookletter+1911|Open+Sans"/>
 <link rel="STYLESHEET" href="index_files/newPfmSite.css" type="text/css" />
-<link rel="STYLESHEET" href="index_files/pfmEnglish.css" type="text/css" />
+<link rel="STYLESHEET" href="index_files/pfmAllies.css" type="text/css" />
 
 <!--#include virtual="/index_files/meta.html" -->
 
@@ -66,13 +66,14 @@ This page uses the <a href="http://matthewjamestaylor.com/blog/ultimate-2-column
 
 					<table align="center">
 						<tr>
-<!--		<td><img src="index_files/circus.jpg" alt="Kingsbury Flying Circus Canuck" 
-		  	vspace="10" width="750" height="500" hspace="10" />
-   	</td>
--->
-							<td><img src="../images/posters/AirFair2014Poster.jpg" alt="2014 AirFair poster" 
-		  						vspace="10" width="750" height="838" hspace="10" />
+							<!-- TODO: Change the default image to be a random selection between several photos -->
+							<td><img src="index_files/circus.jpg" alt="Kingsbury Flying Circus Canuck" 
+		  						vspace="10" width="750" height="500" hspace="10" />
    						</td>
+
+<!--	    					<td><img src="../images/posters/AirFair2014Poster.jpg" alt="2014 AirFair poster" 
+		  							vspace="10" width="750" height="838" hspace="10" />
+   		 					</td> -->
    					</tr>
    				</table>
 
