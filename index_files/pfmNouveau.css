@@ -1,0 +1,35 @@
+/*
+  Stylesheet file for PFM Art Nouveau period web pages
+  Copyright © 2014 Pioneer Flight Museum
+*/
+
+/* Set the table entry sizes for the navbar/linkbar */
+td.tElement{
+	width: 150;
+	height: 49;
+   background-image:url('../../images/backgrounds/ArtNouveau/nouveauCelticBackground.jpg');
+   border: 0;
+	text-align: center;
+}
+
+body{
+  background-image:url('../../images/backgrounds/ArtNouveau/nouveauCelticBackground.jpg'); 
+}
+
+.mainText{
+ 	background-image:url('../../images/backgrounds/ArtNouveau/nouveauCelticBackground.jpg');
+}
+
+p:first-letter{
+  font-size:  150%;
+  font-family: 'Goudy Bookletter 1911', serif;
+}
+.navbar {
+  font-family:  'Goudy Bookletter 1911', serif;
+}
+.linkbar {
+  font-family: 'Goudy Bookletter 1911', serif;
+}
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Goudy Bookletter 1911', serif;
+}
