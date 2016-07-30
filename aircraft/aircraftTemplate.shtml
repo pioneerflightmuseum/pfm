@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!--
+This page uses the <a href="http://matthewjamestaylor.com/blog/ultimate-2-column-right-menu-pixels.htm">
+	Ultimate 'Right Menu' 2 column Liquid Layout</a> 
+	by <a href="http://matthewjamestaylor.com">Matthew James Taylor</a>. 
+	View more <a href="http://matthewjamestaylor.com/blog/-website-layouts">website layouts</a> 
+	and <a href="http://matthewjamestaylor.com/blog/-web-design">web design articles</a>.
+-->
+
+<head>
+<link rel="stylesheet" type="text/css" 
+		href="http://fonts.googleapis.com/css?family=Goudy+Bookletter+1911|Open+Sans"/>
+<link rel="STYLESHEET" href="/index_files/newPfmSite.css" type="text/css" />
+<!-- Below should be appropriate stylesheet for the aircraft era -->
+<!--  pfmNouveau for pre-WWI aircraft
+		pfmAllies for WWI Allies aircraft
+		pfmGerman for WWI Central Powers aircraft
+		None (default to pfmSite) for post-WWI aircraft -->
+<link rel="STYLESHEET" href="/index_files/pfmNouveau.css" type="text/css" />
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body class="body">
+
+<!--#include virtual="/index_files/newHeader.html" -->
+<div class="colmask rightmenu">
+	<div class="colleft">
+		<div class="col1wrap">
+			<div class="col1">
+					<!-- Column 1 start -->
+    			<h1>Aircraft Name</h1>
+
+    			<!-- Writeup of museum aircraft, with photos -->
+    				
+    			<h2>Technical Data</h2>
+    			
+    			<p><img align="right" hspace="10" vspace="20"
+    				src="file.jpg" width="600" height="714"
+    				alt="Aircraft 3-view" /></p>
+    				
+    				<table>
+					<th>Aircraft Name</th>
+					<tr>
+						<td>Length</td>
+						<td>xx ft. xx in.</td>
+					</tr>
+					<tr>
+						<td>Wingspan</td>
+						<td>xx ft. xx in.</td>
+					</tr>
+					<tr>
+						<td>Height</td>
+						<td>xx ft. xx in.</td>
+					</tr>
+					<tr>
+						<td>Engine</td>
+						<td>Engine (original) / Engine (museum)</td>
+					</tr>
+					<tr>
+						<td>Maximum Speed</td>
+						<td>xx mph</td>
+					</tr>
+					</table>
+
+    			<h2>Additional Information</h2>   			
+
+   			<p>Aircraft 3-view drawing by 
+    				<a href="link to artist">artist</a>,
+    				, unmodified, shared under the 
+    				<a href="link to license">
+    				description/name of license</a> </p>  			
+
+   			<!-- Links to additional information -->
+  		
+			</div>
+		</div>
+		<div class="col2">
+				<!--#include virtual="/index_files/col2.html" -->
+		</div>
+	</div>
+</div>
+
+<!--#include virtual="/index_files/newFooter.html" -->
+
+</body>
+</html>
