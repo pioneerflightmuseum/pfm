@@ -2,165 +2,205 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!--
+This page uses the <a href="http://matthewjamestaylor.com/blog/ultimate-2-column-right-menu-pixels.htm">
+	Ultimate 'Right Menu' 2 column Liquid Layout</a> 
+	by <a href="http://matthewjamestaylor.com">Matthew James Taylor</a>. 
+	View more <a href="http://matthewjamestaylor.com/blog/-website-layouts">website layouts</a> 
+	and <a href="http://matthewjamestaylor.com/blog/-web-design">web design articles</a>.
+-->
 
 <head>
-
-<!--#include virtual="/index_files/level2StyleSheet.html" -->
+<link rel="stylesheet" type="text/css" 
+		href="http://fonts.googleapis.com/css?family=Goudy+Bookletter+1911|Open+Sans"/>
+<link rel="STYLESHEET" href="/index_files/newPfmSite.css" type="text/css" />
+<link rel="STYLESHEET" href="/index_files/pfmEnglish.css" type="text/css" />
 
 <!--#include virtual="/index_files/meta.html" -->
 
 </head>
-<body>
-<!--#include virtual="/index_files/header.html" -->
+<body class="body">
 
-<div class="maintext">
-	<h1>Aircraft of the Pioneer Flight Museum</h1>
+<!--#include virtual="/index_files/newHeader.html" -->
+<div class="colmask rightmenu">
+	<div class="colleft">
+		<div class="col1wrap">
+			<div class="col1">
+					<!-- Column 1 start -->
+				<h1>Aircraft of the Pioneer Flight Museum</h1>
 
-	<p>The Museum was established to preserve the
-    memory of aircraft from the early days of flight, specifically
-    dating from the years before World War II. Many of the museum's
-    aircraft are flyable, and others are projects being restored or
-    built to flying status.
-   </p>
+				<p>The Museum was established to preserve the
+    				memory of aircraft from the early days of flight, specifically
+    				dating from the years before World War II. Many of the museum's
+    				aircraft are flyable, and others are projects being restored or
+    				built to flying status.
+   			</p>
 
-	<h2>Flyable Aircraft</h2>
+				<h2>Museum Aircraft</h2>
+				
+				<p>These aircraft are part of the Museum's collection, either on loan
+					from private owners or property of the Museum.</p>
 
-	<table align="center" border="border">
-		<tr align="center">
-		<td>
-			<a href="bleriot.shtml"><img src="../images/tbleriot2.jpg"
-			class="actable" alt="Bleriot Thumbnail" />
-			<br />Bleriot Model XI</a>
-    	</td>
-		<td>
-			<a href="canuck/index.shtml"><img src="../images/canuck/tcanuck2.jpg"
-			class="actable" alt="Canuck Thumbnail" />
-			<br />Canuck</a>
-		</td>
-		</tr>
-		
-		<tr align="center">
-		<td>	
-    		<a href="fokkerDRI/index.shtml"><img src="../images/ttriplane2.jpg"
-			class="actable" alt="Fokker Dr.I" />
-			<br />Fokker Dr.I Triplane</a>
-		</td>
-		<td>
-			<a href="fokkerDVII/index.shtml"><img src="../images/tfokker2.jpg"
-			class="actable" alt="Fokker D.VII Thumbnail"  />
-			<br />Fokker D.VII</a>
-    	</td>
-		</tr>
-		
-		<tr align="center">
-		<td>
-			<a href="luscombe.shtml"><img src="../images/tluscombe2.jpg"
-			class="actable" alt="Luscombe 8A Thumbnail" />
-			<br />Luscombe 8A</a>
-		</td>
-		<td>
-			<a href="meyers.shtml"><img src="../images/tmeyers2.jpg"
-			class="actable" alt="Meyers OTW Thumbnail" />
-			<br />Meyers OTW</a>
-		</td>
-    	</tr>
+				<!-- Need to add:  Great Lakes, Dormoy -->
+				<h3>Bleriot Model XI</h3>
+				<p><a href="newBleriot.shtml"><img src="../images/tbleriot2.jpg"
+					class="actable" align="left" alt="Bleriot Thumbnail" /></a>
+					The <a href="newBleriot.shtml">Bleriot Model XI</a> is a replica
+					built for the museum.  It represents the aircraft used by Louis Bleriot
+					to make the first flight across the English channel in 1909.
+				</p>
+				<br clear="all" />
+				<h3>Bristol F.2</h3>
+				<p><a href="bristolF2/index.shtml"><img src="../images/tbristol2.jpg"
+					class="actable" align="left" alt="Bristol F.2 layout thumbnail" /></a>
+					The <a href="bristolF2/index.shtml">Bristol Fighter</a> was developed
+					for the Royal Air Force during World War 1 as a reconnaisance and artillery
+					spotter aircraft that would be capable of defending itself.
+					spotter aircraft that would be capable of defending itself.
+				</p>
+				<br clear="all" />
+				<h3>Curtiss JN-4C "Canuck"</h3>
+				<p><a href="canuck/index.shtml"><img src="../images/canuck/tcanuck2.jpg"
+					class="actable" align="left" alt="Canuck Thumbnail" /></a>
+					The <a href="canuck/index.shtml">Canuck</a> was a Canadian-built version
+					of the famous Curtiss JN-4 "Jenny".  The Museum's airplane is a restored
+					original.
+				</p>
+				<br clear="all" />
+				<h3>Curtiss-Wright CW-1 "Junior"</h3>
+				<p><a href="curtissJunior/index.shtml"><img src="../images/curtissJunior/tcw1.jpg"
+					class="actable" align="left" alt="Curtiss CW-1 Junior thumbnail" /></a>
+					The <a href="curtissJunior/index.shtml">Curtiss-Wright CW-1 "Junior"</a>
+					was a light aircraft built as an entry-level sport aircraft. The Museum's
+					CW-1 is an original that is currently being restored.
+				</p>
+				<br clear="all" />
+				<h3>Dormoy "Bathtub"</h3>
+				<p><a href="dormoyBathtub/index.shtml"><img src="../images/dormoyBathtub/tdormoy.jpg"
+					class="actable" align="left" alt="Dormoy Bathtub thumbnail" /></a>
+					The <a href="dormoyBathtub/index.shtml">Dormoy "Bathtub"</a>
+					was designed as a lightweight racing airplane.  The Museum's copy is a
+					reproduction that is being restored.
+				</p>
+				<br clear="all" />
+				<h3>Fairchild 22 C7D</h3>
+				<p><a href="fairchild22/index.shtml"><img src="../images/fairchild22/tFairchild22.jpg"
+					class="actable" align="left" alt="Fairchild 22 thumbnail" /></a>
+					The <a href="fairchild22/index.shtml">Fairchild 22</a> was developed for the
+					private owner as a low-cost sport aircraft. The Museum's aircraft is an
+					original that was damaged in a hangar fire.  We are restoring it.
+				</p>
+				<br clear="all" />
+				<h3>Fokker Dr.I Triplane</h3>
+				<p><a href="fokkerDRI/index.shtml"><img src="../images/ttriplane2.jpg"
+					class="actable" align="left" alt="Fokker Dr.I" /></a>
+					The <a href="fokkerDRI/index.shtml">Fokker Dr.I Triplane</a> is one of the
+					most famous and instantly-recognizable airplanes of WWI.  No originals exist;
+					the Museum's triplane is a reproduction powered by an 80-hp LeRhone rotary engine.
+				</p>
+				<br clear="all" />
+				<h3>Fokker D.VII</h3>
+				<p><a href="fokkerDVII/index.shtml"><img src="../images/tfokker2.jpg"
+					class="actable" align="left" alt="Fokker D.VII Thumbnail" /></a>
+					The <a href="fokkerDVII/index.shtml">Fokker D.VII</a> was arguably the best
+					fighter plane of World War I.  The Museum's copy is a reproduction that will
+					be powered by a converted DeHavilland Gypsy Queen engine once it is completed.
+				</p>
+				<br clear="all" />
+				<h3>Luscombe 8A</h3>
+				<p><a href="luscombe.shtml"><img src="../images/tluscombe2.jpg"
+					class="actable" align="left" alt="Luscombe 8A Thumbnail" /></a>
+					Don Luscombe created the <a href="luscombe.shtml">Luscombe 8</a> as the first
+					light aircraft with all-metal construction.  The Museum's aircraft is an original model
+					8A, powered by a Continental A-65 engine.
+				</p>
+				<br clear="all" />
+				<h3>Meyers "OTW"</h3>
+				<p><a href="meyers.shtml"><img src="../images/tmeyers2.jpg"
+					class="actable" align="left" alt="Meyers OTW Thumbnail" /></a>
+					The <a href="meyers.shtml">Meyers OTW</a> was Allen Meyers' entry into the
+					primary training market, aiming for a contract with the Civilian Pilot Training
+					Program. The Museum's OTW is an original.
+				</p>
+				<br clear="all" />
+				<h3>Pietenpol "Sky Scout"</h3>
+				<p><a href="skyScout.shtml"><img src="../images/tskyscout2.jpg"
+					class="actable" align="left" alt="Pietenpol Sky Scout Thumbnail" /></a>
+					Bernie Pietenpol designed small aircraft intended to be built by the owners
+					using basic tools and powered by converted automobile engines.  The
+					<a href="skyScout.shtml">Pietenpol Sky Scout</a> is a single-seat airplane
+					intended to be powered by a Ford Model T or Model A engine. The Museum's is
+					powered by a Model A engine.
+				</p>
+				<br clear="all" />
+				<h3>Piper J-3 "Cub"</h3>
+				<p><a href="j3.shtml"><img src="../images/tj3.jpg"
+					class="actable" align="left" alt="Piper J-3 Thumbnail" /></a>
+					For decades, when people said "little airplane", the 
+					<a href="j3.shtml">Piper J-3 Cub</a> was what immediately came to mind.
+					Developed as a trainer, the Cub was developed into a line of several different
+					airplanes.  The Museum's is a J-3C, powered by a Continental A-65 engine.
+				</p>
+				<br clear="all" />
+				<h3>RAF SE5a</h3>
+				<p><a href="se5a/index.shtml"><img src="../images/tse5a2.jpg"
+					class="actable" align="left" alt="RAF SE5a thumbnail" /></a>
+					The <a href="se5a/index.shtml">Royal Aircraft Factory SE5a</a> was one of the
+					best fighters developed by the Allies during WWI. The Museum's SE5a is a replica,
+					and is awaiting the resources needed to complete construction.
+				</p>
+				<br clear="all" />
+				<h3>Rearwin 2000C "Ken-Royce"</h3>
+				<p><a href="rearwin2000C/index.shtml"><img src="../images/trearwin2000c2.jpg"
+					class="actable" align="left" alt="Rearwin 2000C Ken-Royce biplane thumbnail" /></a>
+					The <a href="rearwin2000C/index.shtml">Rearwin 2000C Ken-Royce biplane</a> was
+					the first model produced by the Rearwin Aircraft company.  The Museum's is one of
+					only six that were built.
+				</p>
+				<br clear="all" />
+				<h3>Rearwin 7000 "Sportster"</h3>
+				<p><a href="rearwinSportster/index.shtml"><img src="../images/rearwinSportster/t7000.jpg"
+					class="actable" align="left" alt="Rearwin Sportster Thumbnail" /></a>
+					After producing several different models of aircraft, the Rearwin Aircraft company
+					produced the <a href="rearwinSportster/index.shtml">Sportster</a> in 1935 to capture
+					some of the two-place sport/training market.  Our Sportster is a 1936 model powered
+					by a LeBlonde radial engine. It was donated to the museum by the previous owner,
+					who restored it.
+				</p>
+				<br clear="all" />
+				<h3>Thomas-Morse S-4C Scout</h3>
+				<p><a href="tommy.shtml"><img src="../images/ttommy2.jpg"
+					class="actable" align="left" alt="Thomas-Morse Thumbnail" /></a>
+					In World War One, the Thomas-Morse company developed the 
+					<a href="tommy.shtml">Scout</a> as a single-seat pursuit aircraft.
+					By the time it was completed, the model was obsolete, so saw use mainly as an
+					advanced trainer. The Museum has two Scouts which are in the process of being
+					re-covered so as to be restored to flying condition. Both are powered by 80-hp
+					LeRhone rotary engines.
+				</p>
+				<br clear="all" />
 
-		<tr align="center">
-		<td>
-			<a href="j3.shtml"><img src="../images/tj3.jpg"
-			class="actable" alt="Piper J-3 Thumbnail" />
-			<br />Piper J-3 Cub</a>
-		</td>
-		<td>
-			<a href="skyScout.shtml"><img src="../images/tskyscout2.jpg"
-			class="actable" alt="Pietenpol Sky Scout Thumbnail" />
-			<br />Pietenpol Sky Scout</a>
-		</td>
-		</tr>
 
-		<tr align="center">
-		<td>
-			<a href="rearwinSportster/index.shtml"><img src="../images/rearwinSportster/t7000.jpg"
-			class="actable" alt="Rearwin Sportster Thumbnail" />
-			<br />Rearwin Sportster</a>
-    	</td>
-		<td>
-			<a href="tommy.shtml"><img src="../images/ttommy2.jpg"
-			class="actable" alt="Thomas-Morse Thumbnail" />
-			<br />Thomas-Morse Scout</a>
-    	</td>
-		</tr>
+    			<h2>Other Aircraft</h2>
 
-	</table>
-    <a id="ac_volunteer" name="ac_volunteer"></a>
+    			<p>On any given day, you may find a number of other aircraft at
+    				Old Kingsbury Aerodrome. Some may be based at Old Kingsbury but
+    				not owned by the PFM, others may have dropped in just to visit the
+    				museum and workshops, and yet others may be projects being
+    				built for hire by Vintage Aviation Services, which shares the
+    				field with the PFM.</p>
 
-    <h2>Project Aircraft</h2>
+    			<br clear="all" />
 
-    <p>These are the projects which are currently being worked on
-    by PFM volunteers at Old Kingsbury Aerodrome.  We can always use
-    volunteers - no experience necessary!  There is always work to be
-    done at all skill levels, and you can learn as you go.  If you're
-    interested in volunteering, please contact us at 
-    the following address:
-    </p>
-    <ul>
-    <li><a href="mailto:info@pioneerflightmuseum.org">info@pioneerflightmuseum.org</a></li>
-    </ul>
-
-
-	<table align="center" border="border">
-		<tr align="center">
-		<td>
-			<a href="bristolF2/index.shtml"><img src="../images/tbristol2.jpg"
-			class="actable" alt="Bristol F.2 layout thumbnail" />
-			<br />Original and replica Bristol Fighters</a>
-		</td>
-		<td>			<a href="curtissJunior/index.shtml"><img src="../images/curtissJunior/tcw1.jpg"
-			class="actable" alt="Curtiss CW-1 Junior thumbnail" />
-			<br />Curtiss-Wright CW-1 "Junior"</a>
-		</td>
-		</tr>
-
-		<tr align="center">
-		<td>			<a href="fairchild22/index.shtml"><img src="../images/fairchild22/tFairchild22.jpg"
-			class="actable" alt="Fairchild 22 thumbnail" />
-			<br />Fairchild 22</a>
-		</td>
-		<td>			<a href="se5a/index.shtml"><img src="../images/tse5a2.jpg"
-			class="actable" alt="RAF SE5a thumbnail" />
-			<br />Royal Aircraft Factory SE5a
-			replica</a>
-		</td>
-		</tr>
-
-		<tr align="center">
-		<td>
-			<a href="rearwin2000C/index.shtml"><img src="../images/trearwin2000c2.jpg"
-			class="actable" alt="Rearwin 2000C Ken-Royce biplane thumbnail" />
-			<br />Rearwin 2000C Ken-Royce biplane</a>
-    	</td>
-		<td>
-			<a href="tommy2/index.shtml"><img src="../images/ttommy2.jpg"
-			class="actable" alt="Thomas-Morse Thumbnail" />
-			<br />Thomas-Morse Scout #2</a>
-		</td>
-		</tr>
-	</table>
-
-    <h2>Other Aircraft</h2>
-
-    <p>On any given day, you may find a number of other aircraft at
-    Old Kingsbury Aerodrome. Some may be based at Old Kingsbury but
-    not owned by the PFM, others may have dropped in just to visit the
-    museum and workshops, and yet others may be projects being
-    built for hire by Vintage Aviation Services, which shares the
-    field with the PFM.</p>
-
-    <br clear="all" />
-
+			</div>
+		</div>
+		<div class="col2">
+			<!--#include virtual="/index_files/col2.html" -->
+		</div>
+	</div>
 </div>
 
-<!--#include virtual="/index_files/footer.html" -->
+<!--#include virtual="/index_files/newFooter.html" -->
 
 </body>
 </html>
