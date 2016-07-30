@@ -2,85 +2,135 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!--
+This page uses the <a href="http://matthewjamestaylor.com/blog/ultimate-2-column-right-menu-pixels.htm">
+	Ultimate 'Right Menu' 2 column Liquid Layout</a> 
+	by <a href="http://matthewjamestaylor.com">Matthew James Taylor</a>. 
+	View more <a href="http://matthewjamestaylor.com/blog/-website-layouts">website layouts</a> 
+	and <a href="http://matthewjamestaylor.com/blog/-web-design">web design articles</a>.
+-->
 
 <head>
-
-<!--#include virtual="/index_files/level2StyleSheet.html" -->
+<link rel="stylesheet" type="text/css" 
+		href="http://fonts.googleapis.com/css?family=Goudy+Bookletter+1911|Open+Sans"/>
+<link rel="STYLESHEET" href="/index_files/newPfmSite.css" type="text/css" />
+<link rel="STYLESHEET" href="/index_files/pfmNouveau.css" type="text/css" />
 
 <!--#include virtual="/index_files/meta.html" -->
 
 </head>
-<body>
-<!--#include virtual="/index_files/header.html" -->
+<body class="body">
 
-<div class="maintext">
-    <h1>1909 Bleriot XI</h1>
+<!--#include virtual="/index_files/newHeader.html" -->
+<div class="colmask rightmenu">
+	<div class="colleft">
+		<div class="col1wrap">
+			<div class="col1">
+					<!-- Column 1 start -->
+    			<h1>1909 Blériot XI</h1>
 
-    <p><img align="left" hspace="10" vspace="20"
-    src="../images/bleriot1.jpg" width="550" height="304"
-    alt="Bleriot Front Quarter View" /></p>
+    			<p><img align="left" hspace="10" vspace="20"
+    				src="../images/bleriot1.jpg" width="550" height="304"
+    				alt="Blériot Front Quarter View" /></p>
 
-    <p>Louis Bleriot was one of France's earliest aviation
-    pioneers. He was born in Cambrai, France, in 1872, and became
-    interested in flight in the early years of the 20th century. In
-    1907 he made his first flight in Bagatelle, France, in an
-    airplane of his own design. Although this early airplane left
-    much to be desired, he improved it rapidly and in only two
-    years had acquired a reputation as one of France's leading
-    airplane manufacturers.</p>
-    <br clear="all" />
+    			<p>Louis Blériot was one of France's earliest aviation
+    				pioneers. He was born in Cambrai, France, in 1872, and became
+    				interested in flight in the early years of the 20th century. In
+    				1907 he made his first flight in Bagatelle, France, in an
+    				airplane of his own design. Although this early airplane left
+    				much to be desired, he improved it rapidly and in only two
+    				years had acquired a reputation as one of France's leading
+    				airplane manufacturers.</p>
+				<br clear="all" />
 
-    <p align="center"><img hspace="10" vspace="20"
-    src="../images/bleriot2.jpg" width="550" height="258"
-    alt="Left Side View of Bleriot" /></p>
-    <br />
+    			<p align="center"><img hspace="10" vspace="20"
+    				src="../images/bleriot2.jpg" width="550" height="258"
+    				alt="Left Side View of Blériot" /></p>
+    			<br />
 
-    <p>In 1909, Bleriot acquired lasting fame by flying his 25-hp
-    Model XI across the English Channel. Halfway across, his engine
-    began to overheat but he was able to fly into a rain shower
-    that cooled it off enough to allow him to complete the flight.
-    The 22-mile crossing took 40 minutes, and ended in a crash
-    landing on the plain above the chalk cliffs of Dover.</p>
+    			<p>In 1909, Blériot acquired lasting fame by flying his 25-hp
+    				Model XI across the English Channel. Halfway across, his engine
+    				began to overheat but he was able to fly into a rain shower
+    				that cooled it off enough to allow him to complete the flight.
+    				The 22-mile crossing took 40 minutes, and ended in a crash
+    				landing on the plain above the chalk cliffs of Dover.</p>
 
-    <p><img hspace="10" vspace="20" src="../images/bleriot3.jpg"
-    width="550" height="296" alt="Left Rear view of Bleriot" /></p>
+    			<p><img hspace="10" vspace="20" src="../images/bleriot3.jpg"
+    				width="550" height="296" alt="Left Rear view of Blériot" /></p>
 
-    <p>The Museum's Bleriot is a reproduction built by the museum.
-    It uses a modern aircraft engine instead of the original
-    3-cylinder Anzani radial, but otherwise is a faithful
-    duplicate. It is flyable, but because it is so unwieldy it is
-    only flown on the calmest days.</p>
+    			<p>The Museum's Blériot is a reproduction built by the museum.
+    				It uses a modern aircraft engine instead of the original
+    				3-cylinder Anzani radial, but otherwise is a faithful
+    				duplicate. It is flyable, but because it is so unwieldy it is
+    				only flown on the calmest days.</p>
 
-    <p><img hspace="10" vspace="20"
-    src="../images/bleriotCockpit.jpg" width="550" height="377"
-    alt="Bleriot cockpit" /></p>
+    			<p><img hspace="10" vspace="20"
+    				src="../images/bleriotCockpit.jpg" width="550" height="377"
+    				alt="Blériot cockpit" /></p>
 
-    <p>In keeping with the overall simplicity of the early
-    aircraft, the Bleriot cockpit has a minimal amount of
-    instrumentation. Lateral control is via wing-warping instead of
-    ailerons.</p>
+    			<p>In keeping with the overall simplicity of the early
+    				aircraft, the Blériot cockpit has a minimal amount of
+    				instrumentation. Lateral control is via wing-warping instead of
+    				ailerons.</p>
+    				
+    			<h2>Technical Data</h2>
+    			
+    			<p><img align="right" hspace="10" vspace="20"
+    				src="../images/bleriot/Bleriot_XI_3_view600x714.jpg" width="600" height="714"
+    				alt="Blériot 3-view by Kaboldy" /></p>
+    				
+    				<table>
+					<th>Blériot Model XI</th>
+					<tr>
+						<td>Length</td>
+						<td>25 ft. 0 in.</td>
+					</tr>
+					<tr>
+						<td>Wingspan</td>
+						<td>25 ft. 7 in.</td>
+					</tr>
+					<tr>
+						<td>Height</td>
+						<td>8 ft. 10 in.</td>
+					</tr>
+					<tr>
+						<td>Engine</td>
+						<td>Anzani 25hp (original) / Continental 65hp (museum)</td>
+					</tr>
+					<tr>
+						<td>Maximum Speed</td>
+						<td>47 mph</td>
+					</tr>
+					</table>
 
-    <h2>Additional Information</h2>
+    			<h2>Additional Information</h2> 
+    			
+    			<p>Blériot XI 3-view drawing by 
+    				<a href="https://commons.wikimedia.org/wiki/User:Kaboldy">Kaboldy</a>,
+    				, unmodified, shared under the 
+    				<a href="http://creativecommons.org/licenses/by-sa/3.0/">
+    				Creative Commons Share-Alike 3.0 license</a> </p>  			
 
-    <p>Fiddler's Green makes printed-card models of all sorts of
-    historic aircraft, and they have a <a
-    href="http://www.fiddlersgreen.net/AC/aircraft/Bleriot-XI/bleriot.php">
-    Bleriot XI</a> model in their catalog. This site also has a
-    brief history of Bleriot and the Channel crossing.</p>
+   			<p>Fiddler's Green makes printed-card models of all sorts of
+    				historic aircraft, and they have a <a
+    				href="http://www.fiddlersgreen.net/AC/aircraft/Bleriot-XI/bleriot.php">
+    				Blériot XI</a> model in their catalog. This site also has a
+    				brief history of Blériot and the Channel crossing.</p>
+  		
+    			<p>More information about 
+    				<a href="https://en.wikipedia.org/wiki/Louis_Bl%C3%A9riot">Louis Blériot</a> and
+    				the <a href="https://en.wikipedia.org/wiki/Bl%C3%A9riot_XI">Blériot Model XI</a> is
+    				available on the web.</p>
 
-    <p>The Bleriot.org site has a lot of information about Bleriot,
-    including a description by Roger Freeman of what it's like to
-    <a href="http://www.bleriot.org/docs/information.htm">fly</a>
-    the Bleriot. It starts with Frank Tallman's write-up, so scroll
-    down to see Roger's.</p>
-
-    <p>More information about <a
-    href="http://www.bleriot.org">Louis Bleriot</a> is
-    available on the web.</p>
-
+			</div>
+		</div>
+		<div class="col2">
+				<!--#include virtual="/index_files/col2.html" -->
+		</div>
+	</div>
 </div>
 
-<!--#include virtual="/index_files/footer.html" -->
+<!--#include virtual="/index_files/newFooter.html" -->
 
 </body>
 </html>
