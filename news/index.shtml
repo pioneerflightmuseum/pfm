@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <head>
@@ -10,30 +8,36 @@
 <!--#include virtual="/index_files/meta.html" -->
 
 </head>
-<body>
+
+<body>
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <!--#include virtual="/index_files/header.html" -->
 
-<div class="maintext">
+<div class="maintext" style="width: 1548; height: 26558">
 
-    <h1 align="center">Winter 2016</h1>
+    <h1 align="center">Summer 2016</h1>
     
-    <h2 align="center">Saturday, April 16th</h2>
+    <h2 align="center">Saturdays, August 6 and 20:</h2>
     
-    <p>AirFair 2016!  Come visit our spring fly-in, and see visiting aircraft,
-    	re-enactors, our collection of pre-WWII aircraft, and early vehicles!  Food,
-    	fun, and flying - something for everyone!
+    <p align="center"><b>Volunteer work days - we'll be doing as much work on the museum hangar as
+    the heat allows, also working on
+    		airplanes and vehicles. Come out and give us a hand!</b>
     </p>
     
-    <h2 align="center">Saturdays, April 2nd and 9th</h2>
+   <hr />
+
+    <h1 align="center">Upcoming Event:</h1>
+    <h2 align="center"><i>Come join us for the 2016</i> Fall Fly-In <i>on
+    Saturday, November 12, see you there!</i></h2>
     
-    <p>Volunteer work days - we'll be raising the museum hangar and working on
-    		airplanes and vehicles! We'll also start preparing for AirFair! 
-    		Come out and give us a hand!
-    </p>
-    
-    <hr />
-    <h1 align="center">2016 Calendar</h1>
+    <hr />
+
+    <h1 align="left">2016 Calendar</h1>
+
     <ul>
 
     <li><em>January 16, 2016</em> - Volunteer work day</li>
@@ -66,43 +70,39 @@
 
     <li><em>July 23, 2016</em> - Volunteer work day</li>
 
-    <li><em>August 6, 2016</em> - Volunteer work day</li>
+    <li><b><em>August 6, 2016</em> - Volunteer work day</b></li>
 
-    <li><em>August 20, 2016</em> - Volunteer work day</li>
+    <li><b><em>August 20, 2016</em> - Volunteer work day</b></li>
 
-    <li><em>September 10, 2016</em> - Volunteer work day</li>
+    <li><b><em>September 10, 2016</em> - Volunteer work day</b></li>
 
-    <li><em>September 17, 2016</em> - Volunteer work day</li>
+    <li><b><em>September 17, 2016</em> - Volunteer work day</b></li>
 
-    <li><em>October 1, 2016</em> - Volunteer work day</li>
+    <li><b><em>October 1, 2016</em> - Volunteer work day</b></li>
 
-    <li><em>October 15, 2016</em> - Volunteer work day</li>
+    <li><b><em>October 15, 2016</em> - Volunteer work day</b></li>
 
-    <li><em>October 29, 2016</em> - Volunteer work day</li>
+    <li><b><em>October 29, 2016</em> - Volunteer work day</b></li>
 
-    <li><em>November 5, 2016</em> - Volunteer work day</li>
+    <li><b><em>November 5, 2016</em> - Volunteer work day</b></li>
 
-    <li><em>November 12, 2016</em> - Fall Fly-In and Picnic</li>
+    <li><b><font size="5">November 12, 2016 - Fall Fly-In!</font></b></li>
 
-    <li><em>December 3, 2016</em> - Volunteer work day</li>
+    <li><b><em>December 3, 2016</em> - Volunteer work day</b></li>
 
-    <li><em>December 17, 2016</em> - Volunteer work day</li>
+    <li><b><em>December 17, 2016</em> - Volunteer work day</b></li>
       
     </ul>
-    <hr />
-    <h1 align="center">Upcoming Event Information</h1>
-    <hr />
-    <h2 align="center">Volunteer Work Days</h2>
-    <h3 align="center">Saturdays, March 5th and 19th</h3>
-    
-    <p>Volunteer Work Days.  Our volunteers will meet and work on the
-    	WWI Hangar, preparing it for construction.  This will include cleaning the trusses,
-    	knocking off the rust and scale, painting them and erecting them.  Teams will also be
-    	working on the aircraft, vehicles, and aerodrome facilities to prepare for AirFair.
-    	Come out and give us a hand!
-    </p>
-   <hr />
-   <h1 align="center">Recent Events</h1>
+    <p>&nbsp;</p>
+
+    <hr>
+    <h1 align="center">&nbsp;</h1>
+
+   <h1 align="center">Past Events</h1>
+
+   <p align="center">&nbsp;</p>
+
+   <p align="center">&nbsp;</p>
 	<hr />
 	<a id="pfm2013Picnic" name="pfm2013Picnic"></a>    
 	<h2 align="center">Fall Fly-in &amp; Picnic</h2>    
