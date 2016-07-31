@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <head>
@@ -12,16 +10,20 @@
 </head>
 <body>
 
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
 <!--#include virtual="/index_files/header.html" -->
 <div class="maintext">
-	<p>Welcome to the Pioneer Flight Museum! The
+	<p align="center"><b>Welcome to the Pioneer Flight Museum! The
     PFM is a group that is dedicated to the preservation,
     restoration, and reproduction of aircraft and other historical
     artifacts from the beginning of flight to the early years of
     WWII.  We are a living history museum, and keep as many of our
     aircraft, vehicles, and artifacts in working order as we can.
     <a href="index_files/Application.pdf">Download</a> a PDF Membership
-    application and join us! Donations are also happily accepted!
+    application and join us! Donations are also gratefully accepted!</b>
     </p>
     
     <div align="center">
@@ -34,9 +36,9 @@
 </form>
 	</div>
 
-	<p>The Pioneer Flight Museum is located at 
+	<p align="center"><b>The Pioneer Flight Museum is located at 
 	<a href="aerodrome/index.shtml">Old Kingsbury Aerodrome</a>
-     in Kingsbury, Texas.  Tours are available by appointment.
+     in Kingsbury, Texas.  Tours are available by appointment.</b>
     </p>
     
 	<table summary="Date of the volunteer team's next appearance at Old Kingsbury Aerodrome" 
@@ -44,27 +46,31 @@
    	<tbody>
    
  	 	<tr>
-	 	<td align="center">The <a class="vol" href="aircraft/index.shtml#ac_volunteer">volunteer</a> 
-	 	teams will meet next</td>
+	 	<td align="center"><font color="#000000"><b>August 2016: the <a class="vol" href="aircraft/index.shtml#ac_volunteer">volunteer</a> 
+	 	teams will meet</b></font></td>
     	</tr>
 
     	<tr>
-	 	<td align="center">on two Saturdays, July 9 &amp; 23, 2016.</td>
+	 	<td align="center"><font color="#000000"><b>on two Saturdays, the 6th &amp;&nbsp;
+          20th.</b></font></td>
     	</tr>
 
     	<tr>
-	 	<td align="center">Come help us work on the Dodd Field hangar, vehicles, and
-	 		aircraft!</td>
+	 	<td align="center"><font color="#000000"><b>Come help on the Dodd Field hangar, vehicles, and
+	 		aircraft!</b></font></td>
     	</tr>
    	</tbody>
 	</table>	
 	 <br clear="all" />
  
-	<h3 align="center">Latest Update - June 19, 2016
-		We now have a Flickr page for photos: 
+	<h3 align="center">See our Flickr page for more photos: 
 		<a href="https://www.flickr.com/photos/137720863@N06/">Pioneer Flight Museum</a>
-		and our fall Fly-in is November 12!
 	</h3>
+
+
+    <h3 align="center"><b>See us on <a href="https://www.facebook.com/KingsburyAerodrome/">Facebook</a></b></h3>
+    <h1 align="center"><b><i>Mark your calendar for the</i> 2016 Fall Fly-In, <i> coming up November
+    12</i></b></h1>
 
 
 	<table align="center">
@@ -78,10 +84,6 @@
    </tr>
    </table>
 
-<h2><a href="history/index.html">History</a></h2>
-
-<h2><a href="links.html">Other Links</a></h2>
--->
 <br clear="all" />
 
 </div>
