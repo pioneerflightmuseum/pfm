@@ -127,7 +127,7 @@ td.tElement{
 td.aircraftLink{
 	width: 150;
 	height: 49;
-   background-image:url('../../images/backgrounds/fokker124x41a.jpg');
+   background-image:url('../.../images/backgrounds/fokker124x41a.jpg');
    border: 0;
 	text-align: center;
 }
