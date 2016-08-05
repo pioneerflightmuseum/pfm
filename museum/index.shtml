@@ -11,94 +11,94 @@
 </head>
 <body>
 
-<?xml version="1.0" encoding="utf-8"?> 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
-        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
- 
-<!--#include virtual="/index_files/header.html" --> 
- 
-<div class="maintext"> 
- 
-    <h1>Pioneer Flight Museum</h1> 
- 
-    <p><b>The Museum, founded by Roger Freeman, is open today in temporary housing at Old  
-    Kingsbury Aerodrome.  Although we're working on getting our permanent museum 
-    building up, we are open!</b></p> 
+<?xml version="1.0" encoding="utf-8"?>  
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"  
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">  
+  
+<!--#include virtual="/index_files/header.html" -->  
+  
+<div class="maintext">  
+  
+    <h1>Pioneer Flight Museum</h1>  
+  
+    <p><b>The Museum, founded by Roger Freeman, is open today in temporary housing at Old   
+    Kingsbury Aerodrome.  Although we're working on getting our permanent museum  
+    building up, we are open!</b></p>  
+      
+    <p><b>Please donate to help us build our museum!</b></p>  
+      
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">  
+<input type="hidden" name="cmd" value="_s-xclick" />  
+<input type="hidden" name="hosted_button_id" value="ZX2NWJC9BG77G" />  
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" />  
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />  
+</form>      
+      
+    <h2><b>Hours:</b> 
+    </h2> 
      
-    <p><b>Please donate to help us build our museum!</b></p> 
-     
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post"> 
-<input type="hidden" name="cmd" value="_s-xclick" /> 
-<input type="hidden" name="hosted_button_id" value="ZX2NWJC9BG77G" /> 
-<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" /> 
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" /> 
-</form>     
-     
-    <h2><b>Hours:</b>
-    </h2>
-    
-    <p><b>Our normal open hours are from 9:00 AM to 2:00 PM Monday through Friday. 
-    We are also open on volunteer workdays from 9:00 AM to 5:00 PM, please see 
-    our <a href="http://pioneerflightmuseum.org/news/index.shtml">EVENTS 
-    CALENDAR</a> for current work day dates. For other times, please call 
-    830-639-4162 for appointments. Please note that calling in advance for more 
-    information and/or tour arrangements is <i>always</i> a good idea, to ensure 
-    that somebody can be available to answer questions!</b>
-    </p>
-    
-    <p><b>We are normally closed for the holidays:</b></p> 
-    	<ul> 
-    		<li><b>New Year's Day</b></li> 
-    		<li><b>Memorial Day</b></li> 
-    		<li><b>July 4th</b></li> 
-    		<li><b>Labor Day</b></li> 
-    		<li><b>Thanksgiving</b></li> 
-    		<li><b>Christmas</b></li> 
-    	</ul> 
-    <p> 
-        <b>But again, be sure to give us a call since we are often here on these 
-        days, and happy to show folks around whenever we can. We can be contacted by phone at 830-639-4162, 
-    	or by email at  
-    	<a href="mailto:info@pioneerflightmuseum.org">info@pioneerflightmuseum.org</a>. 
-    	Our dedicated staff is happy to help!</b> 
+    <p><b>Our normal open hours are from 9:00 AM to 2:00 PM Monday through Saturday.  
+    We are also open on volunteer workdays from 9:00 AM to 5:00 PM, please see  
+    our <a href="http://pioneerflightmuseum.org/news/index.shtml">EVENTS  
+    CALENDAR</a> for current work day dates. For other times, please call  
+    830-639-4162 for appointments. Please note that calling in advance for more  
+    information and/or tour arrangements is <i>always</i> a good idea, to ensure  
+    that somebody can be available to answer questions!</b> 
     </p> 
      
-    <ul> 
-    	<li><b>Charlotte Parker, office manager</b></li> 
-    	<li><b>Roger Ritter, webmaster&nbsp;</b></li>
-    </ul>
-
-    <p>&nbsp;</p>
-    <hr>
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
-
-    <img src="../images/bldg1.jpg" width="551" height="260"
-      alt="WWI Hangar Components" hspace="10" vspace="20" />
+    <p><b>We are normally closed for the holidays:</b></p>  
+    	<ul>  
+    		<li><b>New Year's Day</b></li>  
+    		<li><b>Memorial Day</b></li>  
+    		<li><b>July 4th</b></li>  
+    		<li><b>Labor Day</b></li>  
+    		<li><b>Thanksgiving</b></li>  
+    		<li><b>Christmas</b></li>  
+    	</ul>  
+    <p>  
+        <b>But again, be sure to give us a call since we are often here on these  
+        days, and happy to show folks around whenever we can. We can be contacted by phone at 830-639-4162,  
+    	or by email at   
+    	<a href="mailto:info@pioneerflightmuseum.org">info@pioneerflightmuseum.org</a>.  
+    	Our dedicated staff is happy to help!</b>  
+    </p>  
       
-    <p>The Pioneer Flight Museum has acquired an original World War I hangar 
-    to serve as the museum building. The structure has been moved to the museum
-    grounds, and will be re-built and restored. A concrete slab has
-    been poured to serve as the museum foundation, and PFM is
-    seeking donations to help cover the cost of raising the
-    building.</p>
-
-    <img align="left" src="../images/DoddField.jpg" width="550" height="497"
-        hspace="10" vspace="10" alt="Dodd Field Aerial View"  />
-
-    <p>This picture shows an aerial view of Dodd Field taken in the early 20th
-    century.  The black building at the north end of the field is the hangar that
-    we have acquired.  After Dodd Field was closed, this building was dismantled
-    and moved to Fort Sam Houston.  Over the years, it was moved several times,
-    and served a variety of purposes for the Army.  PFM will use the hangar as
-    its primary exhibit building, housing the non-flying and historical artifacts owned by
-    the foundation.
-    </p>
-     
-    <br clear="all" />
-</div>
-
-<!--#include virtual="/index_files/footer.html" -->
-
-</body>
+    <ul>  
+    	<li><b>Charlotte Parker, office manager</b></li>  
+    	<li><b>Roger Ritter, webmaster&nbsp;</b></li> 
+    </ul> 
+ 
+    <p>&nbsp;</p> 
+    <hr> 
+    <p>&nbsp;</p> 
+    <p>&nbsp;</p> 
+ 
+    <img src="../images/bldg1.jpg" width="551" height="260" 
+      alt="WWI Hangar Components" hspace="10" vspace="20" /> 
+       
+    <p>The Pioneer Flight Museum has acquired an original World War I hangar  
+    to serve as the museum building. The structure has been moved to the museum 
+    grounds, and will be re-built and restored. A concrete slab has 
+    been poured to serve as the museum foundation, and PFM is 
+    seeking donations to help cover the cost of raising the 
+    building.</p> 
+ 
+    <img align="left" src="../images/DoddField.jpg" width="550" height="497" 
+        hspace="10" vspace="10" alt="Dodd Field Aerial View"  /> 
+ 
+    <p>This picture shows an aerial view of Dodd Field taken in the early 20th 
+    century.  The black building at the north end of the field is the hangar that 
+    we have acquired.  After Dodd Field was closed, this building was dismantled 
+    and moved to Fort Sam Houston.  Over the years, it was moved several times, 
+    and served a variety of purposes for the Army.  PFM will use the hangar as 
+    its primary exhibit building, housing the non-flying and historical artifacts owned by 
+    the foundation. 
+    </p> 
+      
+    <br clear="all" /> 
+</div> 
+ 
+<!--#include virtual="/index_files/footer.html" --> 
+ 
+</body> 
 </html>
