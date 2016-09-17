@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <head>
@@ -10,11 +8,16 @@
 <!--#include virtual="/index_files/meta.html" -->
 
 </head>
-<body>
+<body>
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
 <!--#include virtual="/index_files/header.html" -->
 
 <div class="maintext">
-	<h1>Aircraft of the Pioneer Flight Museum</h1>
+	<h1>New Aircraft of the Pioneer Flight Museum</h1>
 
 	<p>The Museum was established to preserve the
     memory of aircraft from the early days of flight, specifically
@@ -92,7 +95,8 @@
 		</tr>
 
 	</table>
-    <a id="ac_volunteer" name="ac_volunteer"></a>
+    <a id="ac_volunteer" name="ac_volunteer"></a>
+
 
     <h2>Project Aircraft</h2>
 
@@ -115,18 +119,21 @@
 			class="actable" alt="Bristol F.2 layout thumbnail" />
 			<br />Original and replica Bristol Fighters</a>
 		</td>
-		<td>			<a href="curtissJunior/index.shtml"><img src="../images/curtissJunior/tcw1.jpg"
+		<td>
+			<a href="curtissJunior/index.shtml"><img src="../images/curtissJunior/tcw1.jpg"
 			class="actable" alt="Curtiss CW-1 Junior thumbnail" />
 			<br />Curtiss-Wright CW-1 "Junior"</a>
 		</td>
 		</tr>
 
 		<tr align="center">
-		<td>			<a href="fairchild22/index.shtml"><img src="../images/fairchild22/tFairchild22.jpg"
+		<td>
+			<a href="fairchild22/index.shtml"><img src="../images/fairchild22/tFairchild22.jpg"
 			class="actable" alt="Fairchild 22 thumbnail" />
 			<br />Fairchild 22</a>
 		</td>
-		<td>			<a href="se5a/index.shtml"><img src="../images/tse5a2.jpg"
+		<td>
+			<a href="se5a/index.shtml"><img src="../images/tse5a2.jpg"
 			class="actable" alt="RAF SE5a thumbnail" />
 			<br />Royal Aircraft Factory SE5a
 			replica</a>
