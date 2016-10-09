@@ -76,12 +76,12 @@
 
 	<table align="center">
 	<tr>
-		<td><img src="index_files/circus.jpg" alt="Kingsbury Flying Circus Canuck" 
+<!--		<td><img src="index_files/circus.jpg" alt="Kingsbury Flying Circus Canuck" 
 		  	vspace="10" width="750" height="500" hspace="10" />
-   	</td>
-<!--		<td><img src="images/posters/AirFair2016 poster.jpg" alt="2016 AirFair poster" 
-		  	vspace="10" width="615" height="951" hspace="10" /> 
    	</td> -->
+		<td><img src="images/posters/2016 Fall Poster Scaled.jpg" alt="2016 Fall Fly-in poster" 
+		  	vspace="10" width="615" height="950" hspace="10" /> 
+   	</td> 
    </tr>
    </table>
 
