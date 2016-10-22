@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<link rel="STYLESHEET" href="index_files/pfm.css" type="text/css" />
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+
+<!--#include virtual="/index_files/header.html" -->
+<div class="maintext">
+	<p align="center"><b>Welcome to the Pioneer Flight Museum! The
+    PFM is a group that is dedicated to the preservation,
+    restoration, and reproduction of aircraft and other historical
+    artifacts from the beginning of flight to the early years of
+    WWII.  We are a living history museum, and keep as many of our
+    aircraft, vehicles, and artifacts in working order as we can.
+    <a href="index_files/Application.pdf">Download</a> a PDF Membership
+    application and join us! Donations are also gratefully accepted!</b>
+    </p>
+    
+    <div align="center">
+	<!-- Paypal code -->
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick" />
+<input type="hidden" name="hosted_button_id" value="ZX2NWJC9BG77G" />
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
+	</div>
+
+	<p align="center"><b>The Pioneer Flight Museum is located at 
+	<a href="aerodrome/index.shtml">Old Kingsbury Aerodrome</a>
+     in Kingsbury, Texas.  Tours are available by appointment, please call (830)
+    639-4162.</b>
+    </p>
+    
+	<table summary="Date of the volunteer team's next appearance at Old Kingsbury Aerodrome" 
+			class="volTable" align="center">
+   	<tbody>
+   
+ 	 	<tr>
+	 	<td align="center"><font color="#000000"><b>October 2016: the <a class="vol" href="aircraft/index.shtml#ac_volunteer">volunteer</a> 
+	 	teams will meet</b></font></td>
+    	</tr>
+
+    	<tr>
+	 	<td align="center"><font color="#000000"><b>on three Saturdays, the 1st,
+          15th, &amp; 29th.</b></font></td>
+    	</tr>
+
+    	<tr>
+	 	<td align="center"><font color="#000000"><b>Come help us prepare for the
+          Fall Fly-In coming up in November!</b></font></td>
+    	</tr>
+   	</tbody>
+	</table>	
+	 <br clear="all" />
+ 
+	<h3 align="center">See our Flickr page for more photos: 
+		<a href="https://www.flickr.com/photos/137720863@N06/">Pioneer Flight Museum</a>
+	</h3>
+
+    <h3 align="center"><b>See us on <a href="https://www.facebook.com/KingsburyAerodrome/">Facebook</a></b></h3>
+    <h1 align="center"><b><i>Mark your calendar for the</i> 2016 Fall Fly-In, <i> coming up November
+    12</i></b></h1>
+
+ 	<table align="center">
+	<tr>
+<!--		<td><img src="index_files/circus.jpg" alt="Kingsbury Flying Circus Canuck" 
+		  	vspace="10" width="750" height="500" hspace="10" />
+   	</td> -->
+		<td><img src="index_files/2016 Fall Poster Scaled.jpg" alt="2016 Fall Fly-in poster" 
+		  	vspace="10" width="615" height="950" hspace="10" /> 
+   	</td> 
+   </tr>
+   </table>
+
+<br clear="all" />
+
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>
