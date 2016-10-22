@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
@@ -13,6 +10,11 @@
 
 </head>
 <body>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <!--#include virtual="/index_files/header.html" -->
 <div class="maintext">
@@ -70,7 +72,7 @@
 
     <h3 align="center"><b>See us on <a href="https://www.facebook.com/KingsburyAerodrome/">Facebook</a></b></h3>
     <h1 align="center"><b><i>Mark your calendar for the</i> 2016 Fall Fly-In, <i> coming up November
-    12</i></b></h1>
+    12!</i></b></h1>
 
  	<table align="center">
 	<tr>
