@@ -15,17 +15,13 @@
 
 <body>
 
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
 <!--#include virtual="/index_files/header.html" -->
 
 <div class="maintext" style="width: 1548; height: 26558">
 
     <h1 align="center">Heading Into Winter 2016 - 2017</h1>
     
-    <hr width="15%">
+    <hr width="15%"/>
     
     <p align="center" style="font-family: Times, Times, serif; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;">&nbsp;</p>
     
@@ -104,7 +100,7 @@
     </ul>
     <p>&nbsp;</p>
 
-    <hr>
+    <hr />
     <h1 align="center">&nbsp;</h1>
 
    <h1 align="center">Past Events</h1>
