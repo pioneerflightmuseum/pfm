@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-		"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
@@ -13,6 +10,11 @@
 
 </head>
 <body>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+		"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <!--#include virtual="/index_files/header.html" -->
 <div class="maintext">
@@ -47,15 +49,17 @@
    	<tbody>
    
  	 	<tr>
-	 	<td align="center"><font color="#000000"><b>Next work day coming up:</b></font></td>
+	 	<td align="center"><font color="#000000"><b>Next volunteer work day coming
+          up&nbsp;Saturday, December 3</b></font></td>
     	</tr>
 
     	<tr>
-	 	<td align="center"></td>
+	 	<td align="center"><font color="#000000"><b>Become a volunteer by <a href="index_files/Application.pdf">joining</a>
+          the Pioneer Flight Museum today,</b></font></td>
     	</tr>
 
     	<tr>
-	 	<td align="center"><font color="#000000"><b>&nbsp;Saturday, December 3!</b></font></td>
+	 	<td align="center"><font color="#000000"><b>and be a part of the fun!</b></font></td>
     	</tr>
    	</tbody>
 	</table>	
@@ -67,7 +71,7 @@
 
     <h3 align="center"><b>See us on <a href="https://www.facebook.com/KingsburyAerodrome/">Facebook</a></b></h3>
     <h1 align="center"><b><i>The </i>2016 Fall
-    Fly-In <i>was a smashing success, great fun was had by all!</i></b></h1>
+    Fly-In <i>was a smashing success, great fun was had by one and all!</i></b></h1>
 
 	<table align="center">
 		<tr>
