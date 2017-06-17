@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
+
+<!--#include virtual="/index_files/meta.html" -->
+
+</head>
+<body>
+
+<!--#include virtual="/index_files/header.html" -->
+
+<div class="maintext">
+
+	<a id="pfm2013Picnic" name="pfm2013Picnic"></a>    
+	<h2 align="center">Fall Fly-in &amp; Picnic</h2>    
+	<h3 align="center">November, 2013</h3>
+	<h3 align="center">by Roger Ritter</h3>
+
+	<p>Our fall Fly-In and Picnic was held on November 9, 2013.  The weather started
+	off a bit damp, but skies cleared by 10:00 AM and fly-in visitors started to
+	arrive.  In addition, we had several car clubs drive in and put their cars on
+	display.  The Museum's vehicles were mostly running, including both motorcycles
+	and most of the Model Ts.  Both the Canuck and the Fokker Triplane were working,
+	and both flew during the day - the Canuck several times and the Triplane once.
+	</p>	
+	
+	<p>The Model Ts and motorcycles spent the day running around the field, with the
+		Model Ts giving rides and being used as airport hacks to move needed people and
+		materials between the hangars.  The visiting car clubs took up a lot of the
+		parking area in front of the hangars, and visiting aircraft filled the field.
+	</p>
+	
+	<p>The re-enactors were also out in force, setting up camp and giving people a
+		taste of camp life in the early 20th century.  In addition to the campsite,
+		they also set up weapons and equipment displays to show typical military gear
+		of that period. Another volunteer set up a table with vintage radio and
+		audio gear.
+	</p>
+	
+	<br clear="all"/>	
+	<img src="../../images/picnic2013/reenactors.jpg" align="left"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Re-enactor encampment" />
+     
+	<img src="../../images/picnic2013/motorcycles.jpg" align="right"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Triumph motorcycle and Thor motorcycle frame" />
+
+	<br clear="all"/>		
+	<img src="../../images/picnic2013/speeding.jpg" align="left"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Al Sumrall writing a speeding ticket to a racer" />
+     
+	<img src="../../images/picnic2013/canuckRunup.jpg" align="right"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Warming up the Canuck" />
+        	
+	<br clear="all"/>		
+	<img src="../../images/picnic2013/engineExhibit.jpg" align="left"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Museum engine exhibit" />
+     
+	<img src="../../images/picnic2013/pickup.jpg" align="right"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Visiting 1930s pickup truck" />
+
+	<br clear="all"/>		
+	<img src="../../images/picnic2013/triplaneRunup.jpg" align="left"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Running the Fokker Dr.I Triplane" />
+     
+	<img src="../../images/picnic2013/carClubParking.jpg" align="right"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Visiting car club parking row" />
+
+	<br clear="all"/>		
+	<img src="../../images/picnic2013/flyinParking.jpg" align="left"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Some of the airplanes that flew in to the picnic" />
+     
+	<img src="../../images/picnic2013/antiqueCarRow.jpg" align="right"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Visiting antique car club parking" />
+
+	<br clear="all"/>		
+	<img src="../../images/picnic2013/vintageRadio.jpg" align="left"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Vintage radio setup" />
+     
+	<img src="../../images/picnic2013/brassRadiator.jpg" align="right"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Antique car" />
+
+	<br clear="all"/>		
+	<img src="../../images/picnic2013/modelTClub.jpg" align="left"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Model T club parking" />
+     
+	<img src="../../images/picnic2013/canuckFlight.jpg" align="right"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Canuck in flight" />
+
+	<br clear="all"/>		
+    
+</div>
+
+<!--#include virtual="/index_files/footer.html" -->
+
+</body>
+</html>
