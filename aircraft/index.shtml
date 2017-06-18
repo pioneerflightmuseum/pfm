@@ -23,131 +23,52 @@
     built to flying status.
    </p>
 
-	<h2>Flyable Aircraft</h2>
+	<img src="../images/aircraftPage/Canuck-600x361.jpg" align="left"
+     hspace="10" vspace="10" width="600" height="361"
+     alt="Curtiss Canuck" />
 
-	<table align="center" border="border">
-		<tr align="center">
-		<td>
-			<a href="bleriot.shtml"><img src="../images/tbleriot2.jpg"
-			class="actable" alt="Bleriot Thumbnail" />
-			<br />Bleriot Model XI</a>
-    	</td>
-		<td>
-			<a href="canuck/index.shtml"><img src="../images/canuck/tcanuck2.jpg"
-			class="actable" alt="Canuck Thumbnail" />
-			<br />Canuck</a>
-		</td>
-		</tr>
-		
-		<tr align="center">
-		<td>	
-    		<a href="fokkerDRI/index.shtml"><img src="../images/ttriplane2.jpg"
-			class="actable" alt="Fokker Dr.I" />
-			<br />Fokker Dr.I Triplane</a>
-		</td>
-		<td>
-			<a href="fokkerDVII/index.shtml"><img src="../images/tfokker2.jpg"
-			class="actable" alt="Fokker D.VII Thumbnail"  />
-			<br />Fokker D.VII</a>
-    	</td>
-		</tr>
-		
-		<tr align="center">
-		<td>
-			<a href="luscombe.shtml"><img src="../images/tluscombe2.jpg"
-			class="actable" alt="Luscombe 8A Thumbnail" />
-			<br />Luscombe 8A</a>
-		</td>
-		<td>
-			<a href="meyers.shtml"><img src="../images/tmeyers2.jpg"
-			class="actable" alt="Meyers OTW Thumbnail" />
-			<br />Meyers OTW</a>
-		</td>
-    	</tr>
+	<img src="../images/aircraftPage/flyingMeyers-600x361.jpg" align="right"
+     hspace="10" vspace="10" width="600" height="361"
+     alt="Meyers OTW flying" />
 
-		<tr align="center">
-		<td>
-			<a href="j3.shtml"><img src="../images/tj3.jpg"
-			class="actable" alt="Piper J-3 Thumbnail" />
-			<br />Piper J-3 Cub</a>
-		</td>
-		<td>
-			<a href="skyScout.shtml"><img src="../images/tskyscout2.jpg"
-			class="actable" alt="Pietenpol Sky Scout Thumbnail" />
-			<br />Pietenpol Sky Scout</a>
-		</td>
-		</tr>
-
-		<tr align="center">
-		<td>
-			<a href="rearwinSportster/index.shtml"><img src="../images/rearwinSportster/t7000.jpg"
-			class="actable" alt="Rearwin Sportster Thumbnail" />
-			<br />Rearwin Sportster</a>
-    	</td>
-		<td>
-			<a href="tommy.shtml"><img src="../images/ttommy2.jpg"
-			class="actable" alt="Thomas-Morse Thumbnail" />
-			<br />Thomas-Morse Scout</a>
-    	</td>
-		</tr>
-
-	</table>
-    <a id="ac_volunteer" name="ac_volunteer"></a>
-
-    <h2>Project Aircraft</h2>
-
-    <p>These are the projects which are currently being worked on
-    by PFM volunteers at Old Kingsbury Aerodrome.  We can always use
-    volunteers - no experience necessary!  There is always work to be
-    done at all skill levels, and you can learn as you go.  If you're
-    interested in volunteering, please contact us at 
-    the following address:
-    </p>
-    <ul>
-    <li><a href="mailto:info@pioneerflightmuseum.org">info@pioneerflightmuseum.org</a></li>
-    </ul>
-
-
-	<table align="center" border="border">
-		<tr align="center">
-		<td>
-			<a href="bristolF2/index.shtml"><img src="../images/tbristol2.jpg"
-			class="actable" alt="Bristol F.2 layout thumbnail" />
-			<br />Original and replica Bristol Fighters</a>
-		</td>
-		<td>			<a href="curtissJunior/index.shtml"><img src="../images/curtissJunior/tcw1.jpg"
-			class="actable" alt="Curtiss CW-1 Junior thumbnail" />
-			<br />Curtiss-Wright CW-1 "Junior"</a>
-		</td>
-		</tr>
-
-		<tr align="center">
-		<td>			<a href="fairchild22/index.shtml"><img src="../images/fairchild22/tFairchild22.jpg"
-			class="actable" alt="Fairchild 22 thumbnail" />
-			<br />Fairchild 22</a>
-		</td>
-		<td>			<a href="se5a/index.shtml"><img src="../images/tse5a2.jpg"
-			class="actable" alt="RAF SE5a thumbnail" />
-			<br />Royal Aircraft Factory SE5a
-			replica</a>
-		</td>
-		</tr>
-
-		<tr align="center">
-		<td>
-			<a href="rearwin2000C/index.shtml"><img src="../images/trearwin2000c2.jpg"
-			class="actable" alt="Rearwin 2000C Ken-Royce biplane thumbnail" />
-			<br />Rearwin 2000C Ken-Royce biplane</a>
-    	</td>
-		<td>
-			<a href="tommy2/index.shtml"><img src="../images/ttommy2.jpg"
-			class="actable" alt="Thomas-Morse Thumbnail" />
-			<br />Thomas-Morse Scout #2</a>
-		</td>
-		</tr>
-	</table>
-
-    <h2>Other Aircraft</h2>
+	<br clear="all"/>		
+	<img src="../images/aircraftPage/Dr.I-600x400.jpg" align="left"
+     hspace="10" vspace="10" width="600" height="400"
+     alt="Running the Fokker Dr.I Triplane" />
+     
+	<img src="../images/aircraftPage/D.VII-600x400.jpg" align="right"
+     hspace="10" vspace="10" width="600" height="400"
+     alt="Fokker D.VII with re-enactors" />
+     
+	<br clear="all"/>		
+	<img src="../images/aircraftPage/GreatLakes-600x400.jpg" align="left"
+     hspace="10" vspace="10" width="600" height="400"
+     alt="Great Lakes" />
+     
+	<img src="../images/aircraftPage/bleriotFlying-600x400.jpg" align="right"
+     hspace="10" vspace="10" width="600" height="400"
+     alt="Bleriot XII" />
+     
+	<br clear="all"/>		
+	<img src="../images/aircraftPage/RearwinGreatLakes-600x316.jpg" align="left"
+     hspace="10" vspace="10" width="600" height="316"
+     alt="Rearwin Sportster and Great Lakes" />
+     
+	<img src="../images/aircraftPage/MeyersOTW-600x400.jpg" align="right"
+     hspace="10" vspace="10" width="600" height="400"
+     alt="Meyers OTW" />
+     
+	<br clear="all"/>		
+	<img src="../images/aircraftPage/PietenpolSkyScout-600x400.jpg" align="left"
+     hspace="10" vspace="10" width="600" height="400"
+     alt="Pietenpol Sky Scout" />
+     
+	<img src="../images/aircraftPage/tommy-600x259.jpg" align="right"
+     hspace="10" vspace="10" width="600" height="259"
+     alt="Thomas-Morse S4C Scout" />
+     
+	<br clear="all"/>		
+   <h2>Other Aircraft</h2>
 
     <p>On any given day, you may find a number of other aircraft at
     Old Kingsbury Aerodrome. Some may be based at Old Kingsbury but
