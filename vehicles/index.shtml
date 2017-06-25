@@ -17,30 +17,92 @@
 <div class="maintext">
     <h1>Vehicles of the PFM</h1>
 
-    <p>The PFM collection includes several period vehicles. These
-    include an Indian motorcycle and sidecar, a Nash Quad truck,
-    and several Ford Model Ts with
-    various bodies built on them. There are also other vehicles
-    waiting for restoration, including an FWD truck.</p>
+    <p>The PFM collection includes several period vehicles, including various
+    Ford Model Ts, motorcycles, and trucks.</p>
+    
+	<br clear="all"/>		
+	<img src="../images/vehiclePage/AmericanAmbulanceEncampment.jpg" align="left"
+     hspace="10" vspace="10" width="600" height="371"
+     alt="American Model T ambulance" />
 
-    <h2>Descriptions</h2>
+	<img src="../images/vehiclePage/Indian.jpg" align="right"
+     hspace="10" vspace="10" width="600" height="400"
+     alt="Indian motorcycle" />
 
-	<h3>Nash Quad</h3>
-    <p><a href="quad.shtml"><img src="../images/quad/quadUniform.jpg"
-    align="middle" alt="Nash Quad" hspace="10"
-    height="300" width="400" /></a></p>
-    <br />
+	<br clear="all"/>		
+	<img src="../images/vehiclePage/NashQuadOutdoors.jpg" align="left"
+     hspace="10" vspace="10" width="600" height="400"
+     alt="Nash Quad truck" />
 
-	<h3>Model T Fords</h3>
-    <p><a href="modelT.shtml"><img src="../images/modelT/TwoTs.jpg"
-    align="middle" alt="Two Ford Model Ts" hspace="10"
-    height="244" width="400" /></a></p>
-    <br />
+	<img src="../images/vehiclePage/ModelTWrecker.jpg" align="right"
+     hspace="10" vspace="10" width="600" height="400"
+     alt="Ford Model T wrecker" />
 
-	<h3>Indian Motorcycle</h3>
-    <p><a href="indian.shtml"><img src="../images/indianSide.jpg"
-    align="middle" alt="Indian motorcycle" hspace="10"
-    height="324" width="400" /></a></p>
+	<br clear="all"/>		
+	<img src="../images/vehiclePage/TriumphHangar.jpg" align="left"
+     hspace="10" vspace="10" width="600" height="400"
+     alt="1921 Triumph dispatch rider's motorcycle" />
+
+	<img src="../images/vehiclePage/FrenchAmbulance.jpg" align="right"
+     hspace="10" vspace="10" width="600" height="400"
+     alt="French Model T ambulance" />
+
+	<br clear="all"/>		
+	<img src="../images/vehiclePage/IndianOutdoors.jpg" align="left"
+     hspace="10" vspace="10" width="600" height="400"
+     alt="Indian motorcycle with sidecar" />
+
+	<img src="../images/vehiclePage/ModelTTHangar.jpg" align="right"
+     hspace="10" vspace="10" width="600" height="400"
+     alt="Ford Model TT stakebed truck" />
+
+	<br clear="all"/>		
+	<img src="../images/vehiclePage/Hornet.jpg" align="left"
+     hspace="10" vspace="10" width="600" height="400"
+     alt="'Hannibal Hornet' Ford Model T speedster" />
+
+	<img src="../images/vehiclePage/AmericanAmbulance.jpg" align="right"
+     hspace="10" vspace="10" width="600" height="363"
+     alt="American Ford Model T ambulance" />
+
+	<br clear="all"/>		
+	<img src="../images/vehiclePage/SignalCorpsWithDolly.jpg" align="left"
+     hspace="10" vspace="10" width="483" height="292"
+     alt="Signal Corps. Model T with aircraft tow dolly" />
+
+	<img src="../images/vehiclePage/REOFuelTruck.jpg" align="right"
+     hspace="10" vspace="10" width="600" height="400"
+     alt="REO fuel truck" />
+
+	<br clear="all"/>		
+	<img src="../images/vehiclePage/IndianSidecar.jpg" align="left"
+     hspace="10" vspace="10" width="600" height="400"
+     alt="Indian motorcycle with sidecar" />
+
+	<img src="../images/vehiclePage/NashQuadHangar.jpg" align="right"
+     hspace="10" vspace="10" width="600" height="400"
+     alt="Nash Quad truck" />
+
+	<br clear="all"/>		
+	<img src="../images/vehiclePage/SignalCorpsAndCanuck.jpg" align="left"
+     hspace="10" vspace="10" width="600" height="450"
+     alt="Signal Corps Model T truck" />
+
+	<img src="../images/vehiclePage/AmericanAmbulance.jpg" align="right"
+     hspace="10" vspace="10" width="600" height="400"
+     alt="American Ford Model T ambulance" />
+
+	<br clear="all"/>		
+	<img src="../images/vehiclePage/HornetRear.jpg" align="left"
+     hspace="10" vspace="10" width="600" height="400"
+     alt="'Hannibal Hornet' Model T speedster" />
+
+	<img src="../images/vehiclePage/SignalCorps.jpg" align="right"
+     hspace="10" vspace="10" width="600" height="400"
+     alt="Ford Model T Signal Corps truck" />
+
+	<br clear="all"/>		
+
 </div>
 
 <!--#include virtual="/index_files/footer.html" -->
