@@ -46,7 +46,12 @@
 			class="volTable" align="center">
    	<tbody>
    
- 	 	<tr>
+  	 	<tr>
+	 	<td align="center"><font color="#000000"><b>The 2017 Fall Fly-in is coming on
+	 	November 11!</b></font></td>
+    	</tr>
+
+	 	<tr>
 	 	<td align="center"><font color="#000000"><b>Next PFM Volunteer Work Days
           are Saturday, October 7 &amp; Saturday, October 23.</b></font></td>
     	</tr>
@@ -79,9 +84,16 @@
     <p align="center">&nbsp;</p>
 
 	<table align="center">
-		<tr>
+<!--		<tr>
 			<td><img src="index_files/circus.jpg" alt="Kingsbury Flying Circus Canuck" 
 				vspace="10" width="750" height="500" hspace="10" />
+			</td>
+			<td> 
+			</td>
+		</tr> -->
+		<tr>
+			<td><img src="index_files/FlyIn2017Horiz750x578.jpg" alt="Fall 2017 Fly-in Poster" 
+				vspace="10" width="750" height="578" hspace="10" />
 			</td>
 			<td> 
 			</td>
