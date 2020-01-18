@@ -4,109 +4,173 @@
 
 <head>
 
-<link rel="STYLESHEET" href="index_files/pfm.css" type="text/css" />
+<!--#include virtual="/index_files/level2StyleSheet.html" -->
 
 <!--#include virtual="/index_files/meta.html" -->
 
 </head>
+
 <body>
 
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+		"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
 <!--#include virtual="/index_files/header.html" -->
-<div class="maintext">
-	<p align="center"><b>Welcome to the Pioneer Flight Museum, a 501c3 nonprofit
-    organization dedicated to the preservation,
-    restoration, and reproduction of aircraft and historical ground vehicles from the beginning of flight to the early years of
-    WWII.  We are a living history museum, and keep as many of our
-    aircraft, vehicles, and artifacts in working order as we can.
-    <a href="index_files/Application.pdf">Download</a> a PDF Membership
-    application and join us! Donations are also gratefully accepted!</b>
-    </p>
+
+<div class="maintext" >
+
+    <h1 align="center"> Winter 2019</h1>
     
-    <div align="center">
-	<!-- Paypal code -->
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="ZX2NWJC9BG77G" />
-<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
-	</div>
-
-	<p align="center"><b>The Pioneer Flight Museum is located at 
-	<a href="aerodrome/index.shtml">Old Kingsbury Aerodrome</a>
-     in Kingsbury, Texas.  Tours are available by appointment, please call (830)
-    639-4162.</b>
-    </p>
+    <p align="center">&nbsp;</p>
     
-	<p align="center">&nbsp;
-    </p>
+    <hr width="15%"/>
     
-	<table summary="Date of the volunteer team's next appearance at Old Kingsbury Aerodrome" 
-			class="volTable" align="center">
-   	<tbody>
-   
-  	 	<tr>
-	 	<td align="center"></td>
-    	</tr>
+    <p align="center" style="font-family: Times, Times, serif; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;">&nbsp;</p>
+    
+    <h2 align="center" style="font-family: Times, Times, serif; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px"><b><i>We're
+    always looking for volunteers to help carry our mission forward, and hope
+    you'll consider joining us!&nbsp;</i></b></h2>
+    <p align="center" style="font-family: Times, Times, serif; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px">&nbsp;</p>
+    
+   <hr />
 
-	 	<tr>
-	 	<td align="center"><b><font color="#000000"> Next PFM volunteer work
-          day: Saturday January 18, 2020</font><font color="ff0000">&nbsp;</font></b></td>
-    	</tr>
-
-    	<tr>
-	 	<td align="center"><font color="#000000"><b>For all the PFM work days
-          and events coming up in 2020, please see our <a href="http://pioneerflightmuseum.org/news/index.shtml">Calendar</a>
-          page.</b></font></td>
-    	</tr>
-
-    	<tr>
-	 	<td align="center"><font color="#000000"><b>Become a volunteer by <a href="index_files/Application.pdf">joining</a>
-          the Pioneer Flight Museum today, and become a part of the fun!</b></font></td>
-    	</tr>
-    	
-   	</tbody>
-	</table>	
-	 <br clear="all" />
- 
-	<h3 align="center">See our Flickr page for more photos: 
-		<a href="https://www.flickr.com/photos/137720863@N06/">Pioneer Flight Museum</a>
-	</h3>
-
-    <h3 align="center"><b>See us on <a href="https://www.facebook.com/KingsburyAerodrome/">Facebook</a></b></h3>
-    <h1 align="center" style="background-color: cadetblue"><b>We have a fundraiser to finish the
-    	Dodd Field hangar so it can be our main museum building! Check it out 
-    	<a href="https://www.gofundme.com/pioneer-flight-museum-building-fund">here</a> and please
-    	donate!</b></h1>
-    	
+    <h2 align="center">&nbsp;</h2>
+    
+    <h2 align="center">Upcoming Volunteer Work Days are Saturday February 1, and
+    Saturday February 22, 2020</h2>
+    
     <p align="center">&nbsp;</p>
+    
+    <h3 align="center" style="font-family: Times, Times, serif; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px"><b><i>We
+    invite you to come check out one of our regularly scheduled Volunteer Work Days here at
+    PFM, where the gang will be tinkering with vintage airplanes and antique vehicles that
+    always want a little attention to ensure they continue running well. A few
+    folks tend to building and grounds issues, such as constructing an office
+    for the
+    car barn. It's always a good mix of fun stuff to work on and amiable camaraderie.&nbsp;We
+    usually get started in the main office with coffee and goodies at 9:00 am.
+    Just look for where the cars are parked, and follow where you see others
+    going in.</i></b></h3>
+    
+    <hr />
 
-    <p align="center"><img border="0" src="12-15-18%20Dormoy%20Fly%20By%20740px.jpg" width="740" height="494"></p>
+    <h1 align="left">2020 Calendar</h1>
 
-    <p align="center">Simon Diver flies the 1924 Dormoy &quot;Bathtub&quot;
-    racer on a work day in December 2018</p>
+    <ul>
 
-    <p align="center">&nbsp;</p>
+    <li><em>January 18, 2020</em> - Volunteer work day</li>
 
-	<table align="center">
-		<tr>
-			<td>
-			</td>
-			<td> 
-			</td>
-		</tr>
-<!--		<tr>
-			<td><img src="index_files/FlyIn2017Horiz750x578.jpg" alt="Fall 2017 Fly-in Poster" 
-				vspace="10" width="750" height="578" hspace="10" />
-			</td>
-			<td> 
-			</td>
-		</tr> -->
-	</table>
-    <p align="center"><br clear="all" />
+    <li><b><em>February 1, 2020</em> - Volunteer work day</b></li>
 
-    <p align="center">&nbsp;</p>
-    <p>&nbsp;
+    <li><b><em>February 22, 2020</em> - Volunteer work day</b></li>
+
+    <li><b><em>March 21, 2020</em> - Volunteer work day</b></li>
+
+    <li><b><em>April 11, 2020</em> - Volunteer work day</b></li>
+
+    <li><b><em>April 25 , 2020</em> - Volunteer work day</b></li>
+
+    <li><b><font size="4">May 2, 2020 - Spring Wings &amp; Wheels Fly-In!</font></b></li>
+
+    <li><b><em>June 20, 2020</em> - Volunteer work day</b></li>
+
+    <li><b><em>July 18, 2020</em> - Volunteer work day</b></li>
+
+    <li><b><em>August 15, 2020</em> - Volunteer work day</b></li>
+
+    <li><b><em>August 29, 2020</em> - Volunteer work day</b></li>
+
+    <li><b><em>September 19, 2020</em> - Volunteer work day</b></li>
+
+    <li><b><em>October 3, 2020</em> - Volunteer work day</b></li>
+
+    <li><b><em>October 17, 2020</em> - Volunteer work day</b></li>
+
+    <li><b><em>November 7, 2020</em> - Volunteer work day</b></li>
+
+    <li><b><font size="4">November 14, 2020<i> - </i> Fall Wings &amp; Wheels
+      Fly-In!</font></b></li>
+
+    <li><b><em>December 19, 2020</em> - Volunteer work day</b></li>
+
+    </ul>
+    <p>&nbsp;</p>
+
+    <hr />
+    <h1 align="center"><b>A few photos from our Spring Air Fair and Fall Fly-In
+    events of the past several years.</b></h1>
+    <h1 align="center"><b>If it looks like we have a ton of fun, you got it right!
+	<br clear="all"/>	
+    </b>	
+	<img src="../images/picnic2013/reenactors.jpg" align="left"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Re-enactor encampment" />
+     
+	<img src="../images/picnic2013/motorcycles.jpg" align="right"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Triumph motorcycle and Thor motorcycle frame" />
+
+	<br clear="all"/>		
+	<img src="../images/picnic2013/speeding.jpg" align="left"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Al Sumrall writing a speeding ticket to a racer" />
+     
+	<img src="../images/picnic2013/canuckRunup.jpg" align="right"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Warming up the Canuck" />
+        	
+	<br clear="all"/>		
+	<img src="../images/picnic2013/engineExhibit.jpg" align="left"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Museum engine exhibit" />
+     
+	<img src="../images/picnic2013/pickup.jpg" align="right"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Visiting 1930s pickup truck" />
+
+	<br clear="all"/>		
+	<img src="../images/picnic2013/triplaneRunup.jpg" align="left"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Running the Fokker Dr.I Triplane" />
+     
+	<img src="../images/picnic2013/carClubParking.jpg" align="right"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Visiting car club parking row" />
+
+	<br clear="all"/>		
+	<img src="../images/picnic2013/flyinParking.jpg" align="left"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Some of the airplanes that flew in to the picnic" />
+     
+	<img src="../images/picnic2013/antiqueCarRow.jpg" align="right"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Visiting antique car club parking" />
+
+	<br clear="all"/>		
+	<img src="../images/picnic2013/vintageRadio.jpg" align="left"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Vintage radio setup" />
+     
+	<img src="../images/picnic2013/brassRadiator.jpg" align="right"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Antique car" />
+
+	<br clear="all"/>		
+	<img src="../images/picnic2013/modelTClub.jpg" align="left"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Model T club parking" />
+     
+	<img src="../images/picnic2013/canuckFlight.jpg" align="right"
+     hspace="10" vspace="10" width="400" height="267"
+     alt="Canuck in flight" />
+
+	<br clear="all"/>
+    </h1>
+	<hr />
+
+    <h1 align="center"><a href="pastEvents/index.shtml">Past Events Archive</a></h1>  
 
 </div>
 
