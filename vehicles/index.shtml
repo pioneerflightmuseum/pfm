@@ -10,7 +10,8 @@
 <!--#include virtual="/index_files/meta.html" -->
 
 </head>
-<body>
+
+<body>
 
 <!--#include virtual="/index_files/header.html" -->
 
@@ -52,9 +53,9 @@
      hspace="10" vspace="10" width="600" height="400"
      alt="Indian motorcycle with sidecar" />
 
-	<img src="../images/vehiclePage/ModelTTHangar.jpg" align="right"
+	<img src="../images/vehiclePage/KingsburyBus1.jpg" align="right"
      hspace="10" vspace="10" width="600" height="400"
-     alt="Ford Model TT stakebed truck" />
+     alt="Ford Model TT school bus" />
 
 	<br clear="all"/>		
 	<img src="../images/vehiclePage/Hornet.jpg" align="left"
@@ -88,9 +89,9 @@
      hspace="10" vspace="10" width="600" height="450"
      alt="Signal Corps Model T truck" />
 
-	<img src="../images/vehiclePage/ModelTT.jpg" align="right"
+	<img src="../images/vehiclePage/KingsburyBus2.jpg" align="right"
      hspace="10" vspace="10" width="600" height="400"
-     alt="Ford Model T Ton Truck" />
+     alt="Ford Model TT school bus" />
 
 	<br clear="all"/>		
 	<img src="../images/vehiclePage/HornetRear.jpg" align="left"
